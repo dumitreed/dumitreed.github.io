@@ -1,0 +1,11 @@
+restaurant,item_name,date,baseprice_USD,discount_percent,sales_quantity,is_weekend,is_friday,is_holiday
+R1,Burger,01-Dec-23,8,0,140,0,1,0
+R1,Burger,02-Dec-23,8,0,155,1,0,0
+R1,Burger,03-Dec-23,8,,176,1,0,0
+R1,Burger,04-Dec-23,8,0,131,0,0,0
+R1,Burger,05-Dec-23,8,0,135,0,0,0
+R1,Burger,06-Dec-23,8,50,250,0,0,0
+R1,Burger,07-Dec-23,8,5,138,0,0,0
+R1,Burger,08-Dec-23,8,0,148,0,1,0
+R1,Burger,09-Dec-23,8,25,175,1,0,0
+R1,Burger,10-Dec-23,8,0,163,1,0,0
