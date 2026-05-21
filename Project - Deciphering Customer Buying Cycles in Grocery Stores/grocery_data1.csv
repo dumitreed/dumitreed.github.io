@@ -1,0 +1,2620 @@
+CustomerID,DateRaw,Time,TransactionID,ProductName,PriceUSD,Quantity,PaymentMethod,Category
+41,"June 28, 2023",20:00:00,2,Apples,5.64,5,Cash,Produce
+170,"August 18, 2023",06:00:00,3,Apples,17.92,1,Mobile Payment,Produce
+86,"August 18, 2023",09:00:00,4,Pasta,19.14,2,Mobile Payment,Grains
+178,"August 06, 2023",02:00:00,5,Rice,0.76,4,Debit Card,Grains
+87,"July 30, 2023",09:00:00,6,Chickpeas,11.3,1,Debit Card,Vegetarian
+12,"June 17, 2023",15:00:00,8,Onions,11.04,2,Debit Card,Produce
+104,"August 27, 2023",10:00:00,9,Oatmeal,12.04,2,Cash,Cereal
+140,"June 12, 2023",13:00:00,11,Bananas,4.29,2,Credit Card,Produce
+104,"August 09, 2023",00:00:00,12,Carrots,11.54,1,Cash,Produce
+78,"August 29, 2023",14:00:00,13,Coffee,7.13,1,Cash,Beverages
+47,"August 25, 2023",20:00:00,15,Onions,14.6,4,Mobile Payment,Produce
+143,"June 28, 2023",17:00:00,16,Black Beans,16.38,5,Credit Card,Vegetarian
+88,"July 31, 2023",11:00:00,17,Tomatoes,14.31,2,Cash,Produce
+64,"June 04, 2023",04:00:00,19,Cornflakes,15.35,5,Mobile Payment,Cereal
+11,"August 17, 2023",00:00:00,21,Pasta,10.44,4,Mobile Payment,Grains
+103,"August 18, 2023",22:00:00,25,Lettuce,2.59,4,Mobile Payment,Produce
+29,"July 14, 2023",18:00:00,26,Milk,5.06,3,Cash,Dairy
+36,"August 23, 2023",06:00:00,27,Potatoes,2.3,5,Debit Card,Produce
+16,"August 24, 2023",03:00:00,28,Apples,3.39,2,Cash,Produce
+36,"August 08, 2023",22:00:00,31,Coffee,12.9,5,Debit Card,Beverages
+16,"June 19, 2023",08:00:00,34,Butter,1.8,1,Cash,Dairy
+89,"July 18, 2023",21:00:00,35,Butter,8.33,4,Cash,Dairy
+150,"August 20, 2023",15:00:00,36,Tofu,1.89,5,Credit Card,Vegetarian
+152,"August 15, 2023",18:00:00,38,Oranges,19.99,5,Credit Card,Produce
+37,"July 17, 2023",23:00:00,39,Coffee,6.55,1,Mobile Payment,Beverages
+159,"July 01, 2023",23:00:00,40,Cornflakes,14.09,2,Mobile Payment,Cereal
+139,"July 21, 2023",04:00:00,41,Onions,12.4,2,Cash,Produce
+20,"August 07, 2023",08:00:00,45,Chickpeas,4.96,4,Mobile Payment,Vegetarian
+64,"July 19, 2023",00:00:00,47,Black Beans,17.56,3,Mobile Payment,Vegetarian
+46,"August 25, 2023",22:00:00,49,Carrots,3.37,4,Credit Card,Produce
+125,"August 08, 2023",22:00:00,51,Milk,15.69,1,Debit Card,Dairy
+66,"July 12, 2023",20:00:00,54,Onions,19.62,5,Credit Card,Produce
+153,"July 04, 2023",18:00:00,60,Beef,12.3,1,Cash,Meat
+8,"August 30, 2023",13:00:00,61,Cheese,15.63,2,Cash,Dairy
+57,"June 22, 2023",07:00:00,63,Cornflakes,17.64,4,Debit Card,Cereal
+132,"July 15, 2023",18:00:00,64,Onions,4.69,3,Cash,Produce
+51,"July 05, 2023",16:00:00,65,Chicken,7.26,1,Debit Card,Meat
+73,"July 31, 2023",15:00:00,68,Milk,7.49,2,Debit Card,Dairy
+101,"June 15, 2023",14:00:00,70,Rice,3.14,4,Cash,Grains
+5,"June 30, 2023",10:00:00,76,Butter,5.88,1,Cash,Dairy
+106,"July 03, 2023",09:00:00,77,Black Beans,13.94,1,Debit Card,Vegetarian
+42,"August 08, 2023",23:00:00,78,Milk,6.2,1,Mobile Payment,Dairy
+143,"July 31, 2023",05:00:00,79,Apples,18.7,5,Mobile Payment,Produce
+49,"August 28, 2023",15:00:00,80,Milk,15.64,2,Credit Card,Dairy
+83,"June 09, 2023",13:00:00,81,Onions,14.52,4,Cash,Produce
+134,"August 16, 2023",20:00:00,86,Butter,5.14,2,Credit Card,Dairy
+166,"August 12, 2023",09:00:00,87,Oatmeal,6.7,3,Cash,Cereal
+115,"June 11, 2023",21:00:00,91,Potatoes,9.85,3,Mobile Payment,Produce
+171,"August 18, 2023",14:00:00,92,Yogurt,15.11,1,Cash,Dairy
+171,"August 02, 2023",22:00:00,94,Chicken,6.01,1,Cash,Meat
+3,"June 16, 2023",08:00:00,95,Eggs,2.74,2,Cash,Dairy
+12,"June 11, 2023",18:00:00,96,Oatmeal,5.54,3,Debit Card,Cereal
+9,"July 18, 2023",00:00:00,97,Cornflakes,3.23,5,Credit Card,Cereal
+178,"June 18, 2023",19:00:00,98,Bread,18.11,5,Credit Card,Bakery
+27,"June 09, 2023",23:00:00,99,Bananas,1.58,2,Mobile Payment,Produce
+58,"August 12, 2023",17:00:00,104,Tofu,4,2,Mobile Payment,Vegetarian
+151,"July 03, 2023",00:00:00,106,Pasta,8.96,4,Cash,Grains
+167,"July 29, 2023",16:00:00,107,Oatmeal,5.65,1,Credit Card,Cereal
+66,"July 26, 2023",12:00:00,108,Pasta,19.09,2,Debit Card,Grains
+39,"July 07, 2023",04:00:00,109,Pasta,10.31,4,Mobile Payment,Grains
+177,"August 17, 2023",23:00:00,110,Carrots,8.51,5,Mobile Payment,Produce
+116,"July 18, 2023",14:00:00,115,Bananas,6.73,5,Debit Card,Produce
+55,"June 22, 2023",21:00:00,118,Apples,13.24,4,Debit Card,Produce
+49,"August 02, 2023",22:00:00,121,Eggs,19.11,4,Credit Card,Dairy
+84,"July 09, 2023",04:00:00,124,Carrots,13.73,5,Debit Card,Produce
+140,"August 11, 2023",08:00:00,126,Tofu,9.76,4,Debit Card,Vegetarian
+44,"June 22, 2023",18:00:00,127,Tofu,4.92,2,Credit Card,Vegetarian
+61,"July 10, 2023",08:00:00,128,Potatoes,1.07,1,Debit Card,Produce
+167,"August 23, 2023",05:00:00,130,Potatoes,5.86,2,Credit Card,Produce
+161,"July 13, 2023",23:00:00,134,Black Beans,2.31,2,Mobile Payment,Vegetarian
+177,"June 02, 2023",01:00:00,135,Chicken,17.71,2,Cash,Meat
+166,"August 02, 2023",11:00:00,136,Oranges,14.75,4,Credit Card,Produce
+106,"August 31, 2023",13:00:00,137,Cheese,18.48,5,Debit Card,Dairy
+175,"June 27, 2023",09:00:00,138,Black Beans,6.46,1,Credit Card,Vegetarian
+146,"August 30, 2023",05:00:00,139,Oranges,8.72,3,Credit Card,Produce
+3,"June 06, 2023",06:00:00,140,Lettuce,12.18,2,Credit Card,Produce
+35,"August 03, 2023",07:00:00,141,Butter,7.65,4,Debit Card,Dairy
+4,"August 04, 2023",03:00:00,143,Pasta,5.5,4,Debit Card,Grains
+46,"August 02, 2023",22:00:00,144,Tomatoes,3.58,3,Mobile Payment,Produce
+73,"August 08, 2023",15:00:00,145,Cheese,7.02,3,Debit Card,Dairy
+46,"June 29, 2023",01:00:00,146,Beef,14.91,5,Credit Card,Meat
+61,"August 06, 2023",15:00:00,147,Cheese,2.28,2,Debit Card,Dairy
+89,"June 16, 2023",23:00:00,148,Coffee,2.49,2,Mobile Payment,Beverages
+67,"July 24, 2023",18:00:00,151,Chickpeas,6.94,1,Credit Card,Vegetarian
+2,"July 03, 2023",20:00:00,154,Oranges,6.33,1,Credit Card,Produce
+119,"July 23, 2023",20:00:00,157,Rice,9.46,5,Credit Card,Grains
+63,"June 15, 2023",01:00:00,159,Chickpeas,7.62,5,Debit Card,Vegetarian
+146,"August 23, 2023",11:00:00,160,Beef,15.3,3,Cash,Meat
+177,"August 06, 2023",18:00:00,163,Tomatoes,19.25,3,Credit Card,Produce
+27,"August 24, 2023",07:00:00,164,Oatmeal,19.37,3,Mobile Payment,Cereal
+178,"July 12, 2023",06:00:00,165,Beef,1.3,1,Credit Card,Meat
+152,"June 16, 2023",08:00:00,166,Potatoes,19.23,5,Credit Card,Produce
+126,"June 30, 2023",14:00:00,167,Eggs,7.6,5,Credit Card,Dairy
+178,"June 19, 2023",16:00:00,171,Pasta,1.21,4,Debit Card,Grains
+116,"June 26, 2023",03:00:00,175,Coffee,1.56,4,Cash,Beverages
+153,"July 04, 2023",22:00:00,176,Butter,3.25,1,Debit Card,Dairy
+118,"August 22, 2023",06:00:00,177,Eggs,18.61,5,Mobile Payment,Dairy
+61,"July 17, 2023",22:00:00,179,Tomatoes,14.68,5,Debit Card,Produce
+3,"June 12, 2023",22:00:00,184,Chickpeas,16.56,5,Cash,Vegetarian
+2,"June 22, 2023",21:00:00,187,Yogurt,6.1,4,Credit Card,Dairy
+51,"August 17, 2023",10:00:00,189,Coffee,11.25,2,Debit Card,Beverages
+47,"June 17, 2023",05:00:00,191,Cornflakes,3.42,5,Cash,Cereal
+51,"June 17, 2023",06:00:00,193,Rice,4,5,Debit Card,Grains
+152,"July 24, 2023",13:00:00,194,Onions,19.93,5,Mobile Payment,Produce
+146,"August 02, 2023",21:00:00,200,Coffee,7.68,3,Credit Card,Beverages
+48,"June 28, 2023",14:00:00,201,Bananas,11.83,2,Credit Card,Produce
+143,"June 01, 2023",10:00:00,208,Butter,9.01,2,Cash,Dairy
+36,"August 06, 2023",09:00:00,213,Oatmeal,3.09,4,Credit Card,Cereal
+64,"July 27, 2023",13:00:00,215,Lettuce,19.39,4,Mobile Payment,Produce
+150,"July 22, 2023",09:00:00,216,Yogurt,18.5,4,Cash,Dairy
+86,"August 25, 2023",22:00:00,217,Beef,13.13,1,Debit Card,Meat
+101,"June 11, 2023",15:00:00,218,Cheese,5.37,4,Cash,Dairy
+89,"July 21, 2023",14:00:00,220,Tomatoes,19.25,4,Debit Card,Produce
+66,"July 19, 2023",07:00:00,221,Pasta,15.14,3,Mobile Payment,Grains
+139,"June 18, 2023",00:00:00,224,Bread,4.58,5,Credit Card,Bakery
+83,"June 15, 2023",14:00:00,225,Bananas,17.22,1,Mobile Payment,Produce
+125,"August 18, 2023",20:00:00,226,Rice,3.22,1,Mobile Payment,Grains
+115,"July 16, 2023",23:00:00,229,Coffee,12.3,4,Credit Card,Beverages
+176,"June 22, 2023",22:00:00,230,Oranges,17.99,3,Credit Card,Produce
+178,"July 26, 2023",10:00:00,235,Cheese,16.57,4,Mobile Payment,Dairy
+87,"August 10, 2023",23:00:00,236,Beef,11.13,3,Credit Card,Meat
+104,"August 21, 2023",07:00:00,237,Tofu,0.9,3,Cash,Vegetarian
+104,"August 22, 2023",19:00:00,242,Eggs,4.17,4,Mobile Payment,Dairy
+120,"August 27, 2023",09:00:00,246,Butter,18.52,1,Credit Card,Dairy
+73,"June 17, 2023",22:00:00,248,Lettuce,18.39,1,Mobile Payment,Produce
+64,"August 12, 2023",19:00:00,249,Yogurt,6.19,3,Credit Card,Dairy
+6,"June 26, 2023",16:00:00,253,Chicken,15.24,5,Cash,Meat
+104,"August 18, 2023",13:00:00,255,Tofu,16.33,2,Credit Card,Vegetarian
+49,"August 20, 2023",10:00:00,256,Chickpeas,4.68,2,Mobile Payment,Vegetarian
+41,"July 29, 2023",11:00:00,259,Bread,4.6,2,Credit Card,Bakery
+150,"July 18, 2023",12:00:00,260,Lettuce,13.88,3,Cash,Produce
+170,"July 12, 2023",13:00:00,263,Pasta,15.49,1,Cash,Grains
+153,"June 27, 2023",16:00:00,264,Tofu,15.76,2,Debit Card,Vegetarian
+44,"July 26, 2023",17:00:00,267,Lettuce,18.64,2,Mobile Payment,Produce
+178,"August 21, 2023",02:00:00,269,Eggs,2.76,2,Debit Card,Dairy
+9,"July 11, 2023",05:00:00,270,Chickpeas,19.3,5,Cash,Vegetarian
+126,"August 22, 2023",18:00:00,272,Potatoes,15.73,3,Credit Card,Produce
+176,"August 13, 2023",08:00:00,273,Oatmeal,12.24,2,Debit Card,Cereal
+4,"August 14, 2023",04:00:00,279,Yogurt,13.27,1,Mobile Payment,Dairy
+13,"July 15, 2023",17:00:00,281,Tofu,9.26,2,Debit Card,Vegetarian
+139,"August 28, 2023",11:00:00,284,Lettuce,16.84,5,Debit Card,Produce
+143,"August 10, 2023",14:00:00,285,Cornflakes,16.24,1,Debit Card,Cereal
+161,"July 23, 2023",19:00:00,286,Yogurt,12.78,4,Debit Card,Dairy
+134,"August 11, 2023",18:00:00,287,Lettuce,13.22,3,Cash,Produce
+83,"July 25, 2023",04:00:00,288,Chicken,8.59,4,Mobile Payment,Meat
+71,"July 12, 2023",09:00:00,291,Potatoes,16.3,3,Mobile Payment,Produce
+24,"July 08, 2023",13:00:00,292,Oatmeal,10.58,1,Credit Card,Cereal
+20,"August 18, 2023",18:00:00,294,Apples,11.9,1,Debit Card,Produce
+87,"August 09, 2023",07:00:00,296,Onions,16.02,4,Debit Card,Produce
+99,"June 21, 2023",09:00:00,297,Tofu,10.48,1,Mobile Payment,Vegetarian
+174,"June 09, 2023",11:00:00,298,Eggs,5.29,3,Mobile Payment,Dairy
+135,"July 08, 2023",19:00:00,300,Cornflakes,3.65,5,Mobile Payment,Cereal
+135,"July 27, 2023",08:00:00,302,Bread,18.37,1,Cash,Bakery
+34,"August 31, 2023",13:00:00,303,Carrots,8.86,4,Cash,Produce
+41,"August 04, 2023",21:00:00,304,Cheese,8.41,1,Mobile Payment,Dairy
+103,"June 09, 2023",06:00:00,307,Tofu,5.3,2,Debit Card,Vegetarian
+132,"June 04, 2023",17:00:00,310,Oranges,2.47,1,Debit Card,Produce
+4,"July 06, 2023",07:00:00,311,Bananas,16.7,1,Credit Card,Produce
+168,"August 31, 2023",10:00:00,316,Rice,4.24,3,Cash,Grains
+95,"July 30, 2023",08:00:00,317,Carrots,6,3,Mobile Payment,Produce
+36,"August 23, 2023",09:00:00,318,Yogurt,3.84,5,Debit Card,Dairy
+83,"June 19, 2023",03:00:00,319,Butter,5.79,3,Debit Card,Dairy
+120,"August 20, 2023",13:00:00,320,Oranges,15.26,1,Debit Card,Produce
+48,"June 23, 2023",16:00:00,322,Oranges,1.44,4,Cash,Produce
+51,"August 24, 2023",10:00:00,323,Cornflakes,1.94,2,Cash,Cereal
+153,"July 31, 2023",15:00:00,324,Milk,14.77,4,Mobile Payment,Dairy
+79,"July 04, 2023",05:00:00,327,Chickpeas,18.79,1,Debit Card,Vegetarian
+12,"June 08, 2023",04:00:00,328,Oatmeal,16.45,4,Credit Card,Cereal
+2,"July 17, 2023",05:00:00,329,Bananas,12.05,3,Credit Card,Produce
+4,"July 21, 2023",04:00:00,330,Chickpeas,17.38,5,Credit Card,Vegetarian
+150,"August 28, 2023",08:00:00,332,Eggs,13.96,2,Credit Card,Dairy
+160,"July 30, 2023",23:00:00,333,Milk,12.26,2,Mobile Payment,Dairy
+44,"July 31, 2023",08:00:00,336,Carrots,7.52,3,Mobile Payment,Produce
+3,"June 16, 2023",12:00:00,341,Coffee,0.66,1,Credit Card,Beverages
+79,"July 31, 2023",04:00:00,347,Oatmeal,18.38,4,Debit Card,Cereal
+150,"June 09, 2023",17:00:00,349,Pasta,3.74,5,Mobile Payment,Grains
+24,"July 12, 2023",08:00:00,350,Chicken,18.19,5,Mobile Payment,Meat
+11,"June 26, 2023",16:00:00,351,Oranges,1.1,1,Credit Card,Produce
+168,"July 09, 2023",16:00:00,352,Rice,18.74,2,Debit Card,Grains
+141,"July 11, 2023",22:00:00,355,Milk,19.53,5,Debit Card,Dairy
+3,"July 25, 2023",13:00:00,356,Onions,4.26,4,Credit Card,Produce
+3,"July 24, 2023",10:00:00,358,Lettuce,11.53,5,Debit Card,Produce
+20,"August 15, 2023",22:00:00,359,Coffee,16.62,4,Cash,Beverages
+4,"June 22, 2023",02:00:00,360,Potatoes,18.35,3,Debit Card,Produce
+63,"July 23, 2023",14:00:00,361,Rice,8.08,1,Cash,Grains
+49,"June 18, 2023",14:00:00,362,Coffee,6.79,2,Credit Card,Beverages
+73,"August 05, 2023",01:00:00,363,Cornflakes,19.02,5,Cash,Cereal
+120,"July 22, 2023",23:00:00,364,Cornflakes,19.17,2,Mobile Payment,Cereal
+89,"June 01, 2023",20:00:00,365,Cheese,1.22,1,Credit Card,Dairy
+118,"August 11, 2023",15:00:00,369,Rice,12.56,5,Mobile Payment,Grains
+35,"July 11, 2023",19:00:00,372,Lettuce,14.71,1,Debit Card,Produce
+150,"August 19, 2023",03:00:00,374,Potatoes,13.09,1,Mobile Payment,Produce
+27,"August 06, 2023",21:00:00,375,Chickpeas,12.89,3,Debit Card,Vegetarian
+176,"August 01, 2023",12:00:00,376,Bananas,9.52,5,Debit Card,Produce
+119,"June 07, 2023",13:00:00,377,Cornflakes,13.42,2,Credit Card,Cereal
+20,"August 27, 2023",00:00:00,378,Milk,1.09,2,Credit Card,Dairy
+88,"August 18, 2023",20:00:00,380,Beef,10.55,4,Credit Card,Meat
+24,"July 25, 2023",10:00:00,381,Oatmeal,1.49,1,Mobile Payment,Cereal
+9,"July 10, 2023",18:00:00,382,Potatoes,1.55,3,Credit Card,Produce
+2,"July 14, 2023",13:00:00,384,Tofu,13.5,2,Credit Card,Vegetarian
+41,"June 01, 2023",21:00:00,386,Pasta,0.53,2,Cash,Grains
+175,"June 16, 2023",05:00:00,387,Pasta,14.57,1,Debit Card,Grains
+135,"July 24, 2023",11:00:00,389,Carrots,11.38,2,Mobile Payment,Produce
+171,"July 12, 2023",19:00:00,391,Tomatoes,18.77,4,Credit Card,Produce
+6,"August 25, 2023",07:00:00,392,Bananas,8.9,2,Cash,Produce
+118,"August 17, 2023",23:00:00,394,Milk,0.71,1,Cash,Dairy
+11,"June 10, 2023",03:00:00,397,Chicken,13.82,4,Credit Card,Meat
+102,"August 04, 2023",08:00:00,398,Coffee,4.18,5,Mobile Payment,Beverages
+67,"June 27, 2023",22:00:00,400,Milk,4.54,4,Cash,Dairy
+99,"July 27, 2023",12:00:00,401,Cheese,18.14,3,Cash,Dairy
+41,"August 14, 2023",00:00:00,402,Tomatoes,4.27,4,Cash,Produce
+166,"July 07, 2023",14:00:00,404,Chicken,14.01,4,Credit Card,Meat
+116,"August 06, 2023",14:00:00,405,Cornflakes,6.84,2,Debit Card,Cereal
+66,"August 09, 2023",02:00:00,407,Apples,7.27,3,Cash,Produce
+102,"July 08, 2023",17:00:00,408,Bread,11.36,5,Debit Card,Bakery
+78,"June 04, 2023",17:00:00,409,Cheese,13.83,2,Credit Card,Dairy
+152,"August 06, 2023",18:00:00,418,Pasta,5.91,1,Debit Card,Grains
+34,"June 07, 2023",00:00:00,420,Black Beans,3.16,5,Mobile Payment,Vegetarian
+101,"August 11, 2023",17:00:00,423,Coffee,1.77,3,Credit Card,Beverages
+13,"June 27, 2023",10:00:00,428,Milk,12.24,2,Debit Card,Dairy
+146,"August 06, 2023",16:00:00,430,Oranges,0.56,1,Credit Card,Produce
+46,"June 23, 2023",14:00:00,434,Chickpeas,3.08,2,Debit Card,Vegetarian
+176,"August 25, 2023",20:00:00,436,Chickpeas,17.74,1,Mobile Payment,Vegetarian
+150,"June 17, 2023",16:00:00,437,Milk,9.75,3,Credit Card,Dairy
+11,"July 29, 2023",15:00:00,441,Onions,7.82,3,Mobile Payment,Produce
+166,"July 16, 2023",04:00:00,444,Rice,8.35,4,Credit Card,Grains
+139,"June 08, 2023",23:00:00,446,Pasta,19.3,2,Cash,Grains
+103,"August 16, 2023",06:00:00,448,Apples,8.44,2,Debit Card,Produce
+143,"June 24, 2023",06:00:00,449,Carrots,13.82,4,Mobile Payment,Produce
+27,"August 05, 2023",11:00:00,451,Coffee,13.18,3,Cash,Beverages
+78,"June 07, 2023",09:00:00,456,Bananas,18.73,3,Debit Card,Produce
+11,"July 31, 2023",07:00:00,457,Eggs,9.97,1,Mobile Payment,Dairy
+88,"August 09, 2023",09:00:00,463,Black Beans,14.67,4,Credit Card,Vegetarian
+89,"July 14, 2023",17:00:00,464,Cornflakes,10.05,1,Mobile Payment,Cereal
+63,"August 20, 2023",00:00:00,465,Chickpeas,19.84,2,Credit Card,Vegetarian
+64,"July 08, 2023",20:00:00,466,Potatoes,8.51,5,Debit Card,Produce
+125,"June 25, 2023",08:00:00,468,Oatmeal,7.29,4,Debit Card,Cereal
+84,"August 14, 2023",22:00:00,470,Beef,2.28,1,Credit Card,Meat
+95,"August 13, 2023",05:00:00,471,Oranges,1.86,5,Debit Card,Produce
+66,"July 04, 2023",12:00:00,475,Carrots,7.64,4,Cash,Produce
+161,"July 31, 2023",10:00:00,477,Pasta,17.57,4,Debit Card,Grains
+78,"August 01, 2023",03:00:00,478,Chicken,4.95,3,Mobile Payment,Meat
+63,"August 26, 2023",06:00:00,479,Yogurt,11.29,3,Debit Card,Dairy
+146,"July 23, 2023",08:00:00,480,Cheese,14.26,3,Credit Card,Dairy
+83,"July 22, 2023",21:00:00,481,Butter,5.39,1,Credit Card,Dairy
+67,"June 20, 2023",01:00:00,484,Bread,3.55,4,Credit Card,Bakery
+3,"July 10, 2023",06:00:00,486,Potatoes,15.08,4,Mobile Payment,Produce
+36,"August 04, 2023",08:00:00,494,Rice,14.14,5,Mobile Payment,Grains
+106,"June 26, 2023",16:00:00,495,Beef,9.39,4,Mobile Payment,Meat
+137,"August 16, 2023",16:00:00,496,Beef,7.53,5,Cash,Meat
+166,"June 30, 2023",05:00:00,497,Chicken,3.05,3,Mobile Payment,Meat
+168,"August 04, 2023",23:00:00,498,Bananas,16.63,1,Mobile Payment,Produce
+110,"August 28, 2023",10:00:00,500,Rice,1.61,2,Cash,Grains
+160,"August 12, 2023",19:00:00,502,Milk,10.18,2,Debit Card,Dairy
+141,"July 17, 2023",19:00:00,503,Oranges,5.3,1,Mobile Payment,Produce
+13,"July 22, 2023",01:00:00,509,Eggs,4.67,3,Mobile Payment,Dairy
+63,"June 09, 2023",13:00:00,510,Oranges,7.42,1,Mobile Payment,Produce
+176,"June 18, 2023",06:00:00,511,Yogurt,1.32,2,Debit Card,Dairy
+125,"July 18, 2023",20:00:00,513,Chickpeas,3.99,3,Debit Card,Vegetarian
+118,"July 03, 2023",06:00:00,518,Potatoes,11.76,2,Mobile Payment,Produce
+103,"July 30, 2023",12:00:00,519,Eggs,15.41,1,Credit Card,Dairy
+42,"August 09, 2023",00:00:00,520,Black Beans,19.07,1,Credit Card,Vegetarian
+97,"August 25, 2023",22:00:00,523,Bananas,19.08,1,Mobile Payment,Produce
+58,"July 26, 2023",02:00:00,527,Potatoes,10.76,1,Cash,Produce
+41,"August 20, 2023",20:00:00,529,Chicken,13.07,4,Credit Card,Meat
+27,"June 15, 2023",17:00:00,530,Chickpeas,4.58,1,Cash,Vegetarian
+20,"July 03, 2023",07:00:00,531,Oatmeal,9.36,4,Cash,Cereal
+9,"August 25, 2023",23:00:00,532,Chicken,18.62,4,Mobile Payment,Meat
+55,"June 04, 2023",05:00:00,533,Butter,14.41,5,Debit Card,Dairy
+78,"July 29, 2023",09:00:00,534,Chicken,3.48,4,Mobile Payment,Meat
+35,"June 18, 2023",02:00:00,535,Chicken,5.38,3,Mobile Payment,Meat
+151,"June 20, 2023",05:00:00,538,Coffee,13.62,2,Cash,Beverages
+13,"July 12, 2023",11:00:00,539,Pasta,17.87,2,Credit Card,Grains
+7,"July 04, 2023",16:00:00,550,Eggs,8.14,2,Cash,Dairy
+171,"July 28, 2023",17:00:00,554,Rice,5.21,5,Credit Card,Grains
+146,"June 15, 2023",14:00:00,556,Pasta,3.76,4,Debit Card,Grains
+170,"July 28, 2023",14:00:00,559,Chicken,8.58,4,Cash,Meat
+125,"July 05, 2023",21:00:00,560,Carrots,17.24,5,Mobile Payment,Produce
+27,"August 30, 2023",07:00:00,562,Bread,7.01,3,Credit Card,Bakery
+67,"July 08, 2023",19:00:00,564,Oranges,20,3,Mobile Payment,Produce
+41,"August 02, 2023",04:00:00,565,Bananas,9.48,1,Mobile Payment,Produce
+9,"July 04, 2023",00:00:00,566,Cheese,6.08,4,Cash,Dairy
+139,"August 04, 2023",16:00:00,567,Chickpeas,4.1,4,Credit Card,Vegetarian
+37,"July 04, 2023",05:00:00,568,Beef,4.35,1,Mobile Payment,Meat
+71,"August 31, 2023",05:00:00,570,Beef,9.66,3,Debit Card,Meat
+102,"July 02, 2023",00:00:00,572,Bread,15.33,5,Debit Card,Bakery
+134,"July 03, 2023",23:00:00,577,Butter,9.23,3,Mobile Payment,Dairy
+115,"June 29, 2023",11:00:00,578,Lettuce,14.63,5,Mobile Payment,Produce
+66,"July 15, 2023",19:00:00,580,Rice,1.41,1,Credit Card,Grains
+61,"June 17, 2023",02:00:00,581,Cornflakes,6.62,4,Mobile Payment,Cereal
+66,"July 20, 2023",13:00:00,582,Eggs,8.42,5,Cash,Dairy
+171,"August 28, 2023",02:00:00,589,Cheese,11.64,4,Debit Card,Dairy
+36,"July 05, 2023",22:00:00,590,Black Beans,14.91,5,Credit Card,Vegetarian
+84,"July 21, 2023",12:00:00,591,Tofu,11.96,5,Mobile Payment,Vegetarian
+49,"July 09, 2023",04:00:00,592,Lettuce,19.08,1,Mobile Payment,Produce
+115,"August 01, 2023",03:00:00,595,Coffee,11.73,3,Debit Card,Beverages
+159,"July 26, 2023",02:00:00,605,Tomatoes,4.56,3,Debit Card,Produce
+66,"July 13, 2023",00:00:00,606,Butter,5.41,1,Credit Card,Dairy
+71,"August 26, 2023",13:00:00,611,Pasta,19.81,4,Cash,Grains
+161,"July 19, 2023",15:00:00,614,Tofu,14.67,3,Credit Card,Vegetarian
+160,"July 08, 2023",01:00:00,616,Onions,14.33,2,Mobile Payment,Produce
+55,"June 15, 2023",06:00:00,619,Onions,6.71,1,Credit Card,Produce
+5,"July 06, 2023",20:00:00,621,Yogurt,4.27,2,Cash,Dairy
+86,"August 05, 2023",16:00:00,622,Cheese,6.88,3,Cash,Dairy
+79,"June 06, 2023",23:00:00,623,Chicken,12.75,3,Credit Card,Meat
+89,"July 04, 2023",15:00:00,625,Oranges,7.04,2,Mobile Payment,Produce
+119,"July 03, 2023",19:00:00,627,Chicken,19.2,4,Cash,Meat
+20,"August 30, 2023",07:00:00,628,Bread,4.34,4,Credit Card,Bakery
+2,"July 17, 2023",01:00:00,629,Coffee,13.82,1,Cash,Beverages
+120,"July 02, 2023",21:00:00,632,Pasta,14.52,2,Credit Card,Grains
+150,"August 12, 2023",16:00:00,637,Yogurt,14.92,3,Credit Card,Dairy
+12,"August 01, 2023",19:00:00,638,Chickpeas,13.08,4,Credit Card,Vegetarian
+170,"July 29, 2023",01:00:00,639,Oranges,8.54,2,Mobile Payment,Produce
+37,"June 02, 2023",21:00:00,641,Yogurt,7.01,5,Credit Card,Dairy
+146,"July 17, 2023",20:00:00,643,Oatmeal,13.6,1,Cash,Cereal
+161,"July 03, 2023",17:00:00,645,Rice,19.11,5,Mobile Payment,Grains
+29,"August 16, 2023",04:00:00,647,Yogurt,11.4,4,Credit Card,Dairy
+4,"June 08, 2023",11:00:00,650,Black Beans,9.73,3,Credit Card,Vegetarian
+95,"June 02, 2023",04:00:00,651,Pasta,14.16,4,Mobile Payment,Grains
+5,"August 07, 2023",03:00:00,652,Chickpeas,6.81,2,Credit Card,Vegetarian
+2,"July 29, 2023",13:00:00,654,Pasta,13.22,5,Mobile Payment,Grains
+170,"July 04, 2023",19:00:00,656,Coffee,2.95,3,Cash,Beverages
+143,"July 24, 2023",07:00:00,661,Cheese,17.43,5,Mobile Payment,Dairy
+42,"June 30, 2023",17:00:00,664,Chickpeas,11.23,4,Cash,Vegetarian
+42,"August 21, 2023",05:00:00,666,Chickpeas,8.81,1,Mobile Payment,Vegetarian
+79,"August 22, 2023",18:00:00,669,Eggs,16.81,4,Debit Card,Dairy
+84,"August 15, 2023",10:00:00,673,Potatoes,3.07,4,Credit Card,Produce
+134,"August 20, 2023",18:00:00,674,Lettuce,3.25,5,Credit Card,Produce
+119,"August 19, 2023",03:00:00,675,Chicken,4.45,1,Debit Card,Meat
+102,"July 19, 2023",09:00:00,679,Bananas,15.86,3,Debit Card,Produce
+24,"August 02, 2023",23:00:00,681,Tomatoes,12.7,4,Mobile Payment,Produce
+88,"June 11, 2023",13:00:00,682,Eggs,4.2,3,Debit Card,Dairy
+16,"June 27, 2023",17:00:00,685,Bread,19.77,5,Debit Card,Bakery
+141,"August 29, 2023",01:00:00,686,Tofu,6.52,2,Debit Card,Vegetarian
+134,"June 20, 2023",00:00:00,687,Potatoes,16.34,1,Mobile Payment,Produce
+151,"August 28, 2023",21:00:00,689,Oatmeal,10.64,5,Mobile Payment,Cereal
+104,"June 22, 2023",21:00:00,690,Apples,5.92,3,Debit Card,Produce
+95,"June 12, 2023",12:00:00,695,Lettuce,17.52,3,Credit Card,Produce
+135,"June 26, 2023",14:00:00,698,Bananas,11.15,1,Cash,Produce
+61,"June 25, 2023",04:00:00,699,Carrots,17.29,3,Cash,Produce
+61,"June 25, 2023",09:00:00,701,Potatoes,10.28,1,Cash,Produce
+132,"July 17, 2023",00:00:00,702,Chickpeas,11.48,4,Cash,Vegetarian
+44,"August 26, 2023",00:00:00,703,Chickpeas,11.72,5,Cash,Vegetarian
+168,"July 23, 2023",11:00:00,705,Cornflakes,2.83,2,Mobile Payment,Cereal
+106,"July 23, 2023",07:00:00,707,Chicken,12.12,4,Mobile Payment,Meat
+78,"July 13, 2023",08:00:00,710,Onions,9.43,3,Credit Card,Produce
+152,"August 29, 2023",12:00:00,711,Onions,8.1,1,Debit Card,Produce
+178,"July 07, 2023",01:00:00,714,Tomatoes,17.63,5,Credit Card,Produce
+12,"July 25, 2023",05:00:00,715,Lettuce,14.9,5,Debit Card,Produce
+137,"July 15, 2023",21:00:00,718,Tofu,18.97,5,Debit Card,Vegetarian
+150,"August 10, 2023",04:00:00,719,Potatoes,3.32,4,Debit Card,Produce
+24,"July 17, 2023",05:00:00,720,Onions,2.58,1,Mobile Payment,Produce
+83,"August 05, 2023",03:00:00,722,Carrots,19.57,4,Debit Card,Produce
+110,"June 20, 2023",20:00:00,724,Carrots,1.89,2,Cash,Produce
+146,"June 07, 2023",01:00:00,726,Chickpeas,3.96,5,Credit Card,Vegetarian
+167,"August 14, 2023",21:00:00,730,Chickpeas,2.79,4,Mobile Payment,Vegetarian
+104,"August 14, 2023",02:00:00,732,Oranges,0.72,4,Debit Card,Produce
+178,"August 08, 2023",15:00:00,734,Beef,3.54,4,Mobile Payment,Meat
+4,"July 10, 2023",18:00:00,735,Carrots,13.38,5,Cash,Produce
+67,"June 19, 2023",12:00:00,736,Rice,17.65,3,Credit Card,Grains
+115,"June 02, 2023",23:00:00,739,Bananas,6.27,2,Debit Card,Produce
+97,"August 16, 2023",04:00:00,741,Chicken,0.61,2,Credit Card,Meat
+73,"August 31, 2023",17:00:00,742,Milk,13.83,2,Mobile Payment,Dairy
+156,"June 06, 2023",09:00:00,743,Tofu,0.56,3,Credit Card,Vegetarian
+2,"June 25, 2023",08:00:00,745,Chicken,19.12,3,Cash,Meat
+7,"August 03, 2023",20:00:00,747,Onions,12.17,2,Credit Card,Produce
+48,"August 23, 2023",03:00:00,748,Eggs,6.33,5,Mobile Payment,Dairy
+42,"August 16, 2023",12:00:00,750,Rice,7.81,3,Debit Card,Grains
+101,"July 16, 2023",06:00:00,751,Milk,12.41,2,Debit Card,Dairy
+120,"June 03, 2023",22:00:00,752,Bread,3.5,1,Credit Card,Bakery
+167,"August 07, 2023",12:00:00,754,Coffee,1.44,4,Debit Card,Beverages
+41,"June 27, 2023",00:00:00,756,Bananas,8.78,3,Cash,Produce
+150,"August 15, 2023",02:00:00,760,Oatmeal,18.15,1,Debit Card,Cereal
+116,"August 10, 2023",21:00:00,761,Tofu,16.73,3,Debit Card,Vegetarian
+132,"July 31, 2023",07:00:00,764,Chicken,7.09,4,Mobile Payment,Meat
+150,"August 28, 2023",13:00:00,766,Cornflakes,10.85,5,Cash,Cereal
+78,"June 24, 2023",23:00:00,767,Black Beans,11.02,3,Credit Card,Vegetarian
+103,"June 06, 2023",06:00:00,768,Cornflakes,16.09,5,Credit Card,Cereal
+78,"August 27, 2023",03:00:00,769,Chickpeas,5.39,3,Mobile Payment,Vegetarian
+140,"August 19, 2023",20:00:00,770,Pasta,19.2,1,Credit Card,Grains
+16,"August 13, 2023",01:00:00,772,Pasta,19.78,5,Cash,Grains
+143,"July 08, 2023",08:00:00,774,Chicken,18.44,2,Cash,Meat
+39,"June 08, 2023",11:00:00,777,Chickpeas,5.77,2,Mobile Payment,Vegetarian
+63,"August 04, 2023",03:00:00,780,Bananas,18.55,4,Cash,Produce
+79,"June 06, 2023",15:00:00,781,Eggs,19.94,2,Credit Card,Dairy
+48,"July 04, 2023",00:00:00,782,Carrots,19.5,2,Mobile Payment,Produce
+66,"July 21, 2023",23:00:00,786,Bananas,19.87,4,Debit Card,Produce
+44,"August 31, 2023",17:00:00,787,Coffee,4.23,1,Credit Card,Beverages
+177,"August 09, 2023",12:00:00,789,Milk,4.77,4,Mobile Payment,Dairy
+58,"August 09, 2023",10:00:00,790,Milk,17.95,2,Cash,Dairy
+67,"June 15, 2023",21:00:00,791,Beef,7.57,4,Cash,Meat
+120,"July 22, 2023",23:00:00,793,Cornflakes,13.93,2,Credit Card,Cereal
+61,"June 04, 2023",19:00:00,794,Chicken,5.11,1,Cash,Meat
+139,"July 29, 2023",20:00:00,796,Tofu,12.95,4,Credit Card,Vegetarian
+176,"July 21, 2023",09:00:00,797,Pasta,9.53,1,Cash,Grains
+41,"July 27, 2023",22:00:00,798,Oranges,1.18,4,Debit Card,Produce
+42,"July 12, 2023",13:00:00,799,Potatoes,16.62,2,Debit Card,Produce
+167,"June 01, 2023",01:00:00,801,Eggs,9.28,3,Debit Card,Dairy
+13,"June 10, 2023",03:00:00,802,Chicken,10.25,3,Debit Card,Meat
+101,"June 12, 2023",12:00:00,804,Onions,12.42,3,Mobile Payment,Produce
+103,"June 07, 2023",12:00:00,807,Lettuce,11.16,1,Credit Card,Produce
+178,"June 30, 2023",17:00:00,808,Black Beans,19.75,1,Credit Card,Vegetarian
+37,"August 15, 2023",02:00:00,812,Milk,13.18,5,Cash,Dairy
+3,"June 28, 2023",16:00:00,814,Eggs,18.47,2,Credit Card,Dairy
+143,"August 19, 2023",21:00:00,817,Tofu,13.15,1,Cash,Vegetarian
+137,"August 11, 2023",02:00:00,821,Cornflakes,14.54,3,Cash,Cereal
+152,"August 15, 2023",14:00:00,823,Lettuce,0.84,4,Debit Card,Produce
+140,"July 25, 2023",01:00:00,824,Beef,17,2,Credit Card,Meat
+110,"August 01, 2023",22:00:00,825,Chicken,17.96,3,Credit Card,Meat
+24,"June 04, 2023",09:00:00,831,Lettuce,18.29,2,Mobile Payment,Produce
+78,"August 19, 2023",09:00:00,832,Oatmeal,6.11,2,Credit Card,Cereal
+87,"June 18, 2023",22:00:00,833,Rice,5.8,2,Mobile Payment,Grains
+73,"June 17, 2023",02:00:00,835,Cornflakes,10.2,3,Debit Card,Cereal
+119,"July 06, 2023",05:00:00,836,Bread,1.58,2,Credit Card,Bakery
+101,"August 18, 2023",23:00:00,837,Yogurt,10.55,5,Credit Card,Dairy
+41,"July 03, 2023",23:00:00,841,Coffee,3.5,5,Debit Card,Beverages
+141,"July 10, 2023",17:00:00,842,Coffee,1.86,1,Mobile Payment,Beverages
+6,"August 26, 2023",03:00:00,843,Butter,6.46,4,Debit Card,Dairy
+132,"June 17, 2023",05:00:00,844,Oranges,14.06,5,Debit Card,Produce
+42,"June 22, 2023",22:00:00,845,Carrots,6.89,5,Debit Card,Produce
+110,"July 24, 2023",16:00:00,847,Oranges,10.01,1,Credit Card,Produce
+125,"July 15, 2023",21:00:00,848,Chicken,9.52,3,Credit Card,Meat
+89,"July 19, 2023",09:00:00,849,Lettuce,1.9,5,Credit Card,Produce
+73,"August 05, 2023",08:00:00,850,Bread,4.21,4,Credit Card,Bakery
+66,"June 12, 2023",23:00:00,851,Black Beans,4.13,5,Cash,Vegetarian
+41,"August 06, 2023",01:00:00,853,Tomatoes,2.52,5,Mobile Payment,Produce
+170,"August 07, 2023",10:00:00,854,Pasta,17.2,3,Debit Card,Grains
+58,"July 22, 2023",01:00:00,855,Chickpeas,6.7,4,Cash,Vegetarian
+170,"July 24, 2023",11:00:00,859,Potatoes,10.5,1,Debit Card,Produce
+176,"July 09, 2023",13:00:00,863,Potatoes,4.76,4,Credit Card,Produce
+2,"July 03, 2023",07:00:00,865,Oranges,3.42,5,Credit Card,Produce
+35,"August 18, 2023",18:00:00,867,Tomatoes,2.22,2,Cash,Produce
+175,"June 01, 2023",08:00:00,875,Oranges,8.34,3,Mobile Payment,Produce
+71,"June 01, 2023",18:00:00,876,Yogurt,19.86,1,Credit Card,Dairy
+5,"August 18, 2023",23:00:00,877,Eggs,12.52,4,Credit Card,Dairy
+6,"August 26, 2023",00:00:00,880,Eggs,19.1,2,Cash,Dairy
+34,"June 08, 2023",11:00:00,881,Yogurt,10.81,3,Mobile Payment,Dairy
+104,"August 13, 2023",16:00:00,882,Rice,9.09,4,Cash,Grains
+58,"June 28, 2023",05:00:00,883,Lettuce,11.14,2,Credit Card,Produce
+160,"August 30, 2023",15:00:00,884,Yogurt,8.93,3,Debit Card,Dairy
+84,"June 16, 2023",23:00:00,885,Yogurt,18.86,1,Debit Card,Dairy
+125,"August 05, 2023",16:00:00,886,Rice,7.33,4,Mobile Payment,Grains
+119,"July 09, 2023",17:00:00,888,Pasta,7.37,1,Credit Card,Grains
+34,"August 08, 2023",20:00:00,890,Carrots,5.21,1,Cash,Produce
+46,"July 19, 2023",15:00:00,891,Tomatoes,6.2,2,Cash,Produce
+159,"June 30, 2023",08:00:00,893,Bread,6.58,2,Mobile Payment,Bakery
+95,"June 26, 2023",17:00:00,894,Tomatoes,17.22,2,Credit Card,Produce
+150,"August 15, 2023",13:00:00,895,Milk,17.3,1,Credit Card,Dairy
+73,"June 16, 2023",06:00:00,896,Chicken,14.75,5,Cash,Meat
+63,"July 21, 2023",10:00:00,897,Cheese,17.24,4,Credit Card,Dairy
+146,"July 20, 2023",09:00:00,899,Tomatoes,16.46,4,Cash,Produce
+86,"August 20, 2023",00:00:00,901,Black Beans,3.94,1,Credit Card,Vegetarian
+83,"June 21, 2023",22:00:00,903,Tomatoes,13.86,3,Debit Card,Produce
+177,"August 03, 2023",08:00:00,904,Black Beans,19.56,2,Debit Card,Vegetarian
+115,"June 03, 2023",05:00:00,906,Coffee,10.08,3,Mobile Payment,Beverages
+27,"August 24, 2023",04:00:00,910,Tofu,4.03,1,Debit Card,Vegetarian
+66,"June 09, 2023",01:00:00,912,Apples,10,5,Cash,Produce
+64,"June 08, 2023",00:00:00,919,Milk,14.33,2,Credit Card,Dairy
+120,"August 09, 2023",07:00:00,921,Onions,13.08,3,Credit Card,Produce
+146,"August 14, 2023",03:00:00,922,Beef,12.25,1,Debit Card,Meat
+176,"June 02, 2023",02:00:00,924,Eggs,11.43,5,Mobile Payment,Dairy
+34,"July 30, 2023",01:00:00,927,Cornflakes,1.46,4,Cash,Cereal
+156,"August 25, 2023",09:00:00,928,Oranges,1.9,3,Cash,Produce
+97,"August 24, 2023",03:00:00,931,Tomatoes,7.14,4,Credit Card,Produce
+110,"June 11, 2023",15:00:00,937,Onions,12.6,2,Credit Card,Produce
+135,"June 13, 2023",19:00:00,943,Oatmeal,2.39,3,Mobile Payment,Cereal
+115,"July 11, 2023",16:00:00,944,Coffee,19.92,1,Cash,Beverages
+132,"August 13, 2023",07:00:00,946,Eggs,19.71,2,Credit Card,Dairy
+152,"July 17, 2023",18:00:00,948,Lettuce,14.54,3,Mobile Payment,Produce
+97,"July 06, 2023",08:00:00,949,Beef,4.87,2,Debit Card,Meat
+27,"August 09, 2023",23:00:00,962,Milk,3.71,4,Debit Card,Dairy
+156,"July 22, 2023",03:00:00,965,Apples,16.32,5,Credit Card,Produce
+178,"August 23, 2023",02:00:00,968,Chickpeas,8.65,3,Mobile Payment,Vegetarian
+120,"August 28, 2023",13:00:00,972,Carrots,19.28,2,Debit Card,Produce
+156,"July 21, 2023",16:00:00,974,Tomatoes,1.84,1,Debit Card,Produce
+16,"June 09, 2023",02:00:00,979,Chickpeas,5.63,2,Debit Card,Vegetarian
+160,"June 16, 2023",04:00:00,980,Tofu,5.21,1,Debit Card,Vegetarian
+146,"July 05, 2023",12:00:00,981,Black Beans,3.36,4,Credit Card,Vegetarian
+16,"June 22, 2023",05:00:00,982,Milk,5.46,2,Mobile Payment,Dairy
+46,"June 14, 2023",05:00:00,985,Carrots,8.79,2,Debit Card,Produce
+176,"August 09, 2023",09:00:00,986,Rice,12.92,1,Mobile Payment,Grains
+66,"July 23, 2023",20:00:00,988,Carrots,14.99,5,Cash,Produce
+150,"August 16, 2023",06:00:00,991,Onions,4.83,2,Cash,Produce
+8,"July 16, 2023",23:00:00,995,Tofu,2.78,2,Cash,Vegetarian
+3,"July 12, 2023",22:00:00,996,Bananas,4.88,3,Cash,Produce
+178,"August 28, 2023",18:00:00,997,Butter,12.82,5,Debit Card,Dairy
+29,"August 14, 2023",00:00:00,999,Chickpeas,5.76,5,Cash,Vegetarian
+49,"June 15, 2023",19:00:00,1000,Butter,11.04,1,Cash,Dairy
+67,"August 18, 2023",06:00:00,1002,Carrots,4.28,5,Cash,Produce
+13,"June 05, 2023",11:00:00,1003,Chickpeas,11.8,4,Credit Card,Vegetarian
+79,"June 29, 2023",10:00:00,1004,Oatmeal,2.23,4,Mobile Payment,Cereal
+29,"August 29, 2023",05:00:00,1008,Chicken,7.28,2,Mobile Payment,Meat
+119,"June 25, 2023",22:00:00,1009,Cornflakes,14.13,4,Cash,Cereal
+79,"August 15, 2023",00:00:00,1010,Chicken,1.25,3,Mobile Payment,Meat
+35,"July 31, 2023",13:00:00,1011,Pasta,1.65,2,Mobile Payment,Grains
+12,"July 05, 2023",01:00:00,1013,Lettuce,14.39,5,Debit Card,Produce
+110,"August 25, 2023",18:00:00,1014,Potatoes,6.84,2,Debit Card,Produce
+150,"July 07, 2023",22:00:00,1015,Bread,14.83,5,Cash,Bakery
+48,"July 11, 2023",15:00:00,1016,Beef,14.98,1,Credit Card,Meat
+16,"June 04, 2023",18:00:00,1022,Chicken,14.66,5,Mobile Payment,Meat
+104,"June 22, 2023",10:00:00,1023,Carrots,7.47,5,Debit Card,Produce
+39,"July 21, 2023",18:00:00,1024,Chickpeas,6.27,4,Debit Card,Vegetarian
+29,"July 20, 2023",18:00:00,1029,Tomatoes,13.12,3,Cash,Produce
+79,"June 27, 2023",13:00:00,1033,Pasta,2.49,3,Mobile Payment,Grains
+132,"June 01, 2023",03:00:00,1035,Bread,5.98,3,Credit Card,Bakery
+4,"August 25, 2023",16:00:00,1036,Onions,14.73,4,Debit Card,Produce
+161,"August 21, 2023",14:00:00,1042,Apples,14.03,4,Cash,Produce
+120,"July 05, 2023",06:00:00,1044,Bread,11.45,5,Credit Card,Bakery
+79,"August 24, 2023",20:00:00,1045,Bread,19.94,2,Mobile Payment,Bakery
+110,"July 29, 2023",03:00:00,1046,Rice,14.93,1,Cash,Grains
+171,"July 13, 2023",16:00:00,1047,Chicken,0.6,1,Debit Card,Meat
+175,"August 26, 2023",00:00:00,1048,Cornflakes,1.63,3,Cash,Cereal
+115,"July 02, 2023",19:00:00,1050,Tofu,6.75,3,Credit Card,Vegetarian
+171,"June 21, 2023",02:00:00,1052,Butter,2.68,4,Mobile Payment,Dairy
+8,"June 02, 2023",02:00:00,1053,Chickpeas,2.57,2,Debit Card,Vegetarian
+120,"June 23, 2023",15:00:00,1054,Oatmeal,0.96,3,Debit Card,Cereal
+119,"June 15, 2023",18:00:00,1059,Lettuce,4.04,2,Cash,Produce
+2,"July 20, 2023",10:00:00,1060,Black Beans,16.6,1,Mobile Payment,Vegetarian
+177,"July 26, 2023",00:00:00,1061,Black Beans,13.87,3,Cash,Vegetarian
+125,"July 21, 2023",18:00:00,1062,Chickpeas,6.1,5,Cash,Vegetarian
+97,"August 07, 2023",06:00:00,1063,Rice,8.55,3,Cash,Grains
+11,"August 12, 2023",01:00:00,1069,Beef,12.81,5,Debit Card,Meat
+166,"August 29, 2023",22:00:00,1070,Rice,1.88,4,Debit Card,Grains
+134,"June 12, 2023",12:00:00,1072,Tomatoes,5.83,5,Credit Card,Produce
+110,"July 06, 2023",08:00:00,1073,Yogurt,11.9,5,Debit Card,Dairy
+166,"June 02, 2023",18:00:00,1074,Oatmeal,4.57,5,Mobile Payment,Cereal
+87,"June 22, 2023",11:00:00,1075,Coffee,15.72,5,Mobile Payment,Beverages
+58,"August 25, 2023",19:00:00,1076,Coffee,16.13,4,Credit Card,Beverages
+7,"June 21, 2023",21:00:00,1077,Lettuce,8.59,1,Debit Card,Produce
+120,"August 01, 2023",08:00:00,1078,Lettuce,15.06,3,Mobile Payment,Produce
+4,"July 31, 2023",07:00:00,1081,Yogurt,8.81,2,Mobile Payment,Dairy
+79,"August 29, 2023",22:00:00,1085,Rice,3.94,2,Debit Card,Grains
+47,"August 06, 2023",20:00:00,1086,Bananas,8.22,5,Cash,Produce
+83,"July 30, 2023",02:00:00,1088,Eggs,14.23,2,Cash,Dairy
+99,"July 04, 2023",10:00:00,1091,Potatoes,10.4,1,Debit Card,Produce
+156,"July 10, 2023",10:00:00,1094,Tomatoes,7.79,2,Mobile Payment,Produce
+64,"July 29, 2023",03:00:00,1095,Oatmeal,13.49,1,Credit Card,Cereal
+35,"August 16, 2023",05:00:00,1097,Onions,18.76,4,Debit Card,Produce
+110,"August 22, 2023",09:00:00,1100,Rice,10.04,1,Mobile Payment,Grains
+135,"August 02, 2023",16:00:00,1104,Pasta,5.9,4,Mobile Payment,Grains
+159,"June 03, 2023",18:00:00,1108,Oranges,11.66,4,Credit Card,Produce
+42,"June 07, 2023",03:00:00,1110,Chicken,4.31,5,Cash,Meat
+79,"August 06, 2023",00:00:00,1113,Rice,3.5,1,Credit Card,Grains
+42,"June 24, 2023",22:00:00,1114,Milk,18.12,2,Credit Card,Dairy
+171,"July 21, 2023",21:00:00,1115,Yogurt,10.36,4,Cash,Dairy
+102,"June 15, 2023",16:00:00,1117,Rice,5.08,3,Mobile Payment,Grains
+120,"July 15, 2023",20:00:00,1118,Milk,5.9,5,Cash,Dairy
+24,"August 10, 2023",09:00:00,1120,Onions,7.26,1,Debit Card,Produce
+126,"July 07, 2023",06:00:00,1121,Bananas,0.64,3,Mobile Payment,Produce
+4,"July 21, 2023",18:00:00,1122,Oatmeal,11.93,1,Credit Card,Cereal
+140,"August 26, 2023",16:00:00,1123,Potatoes,6.39,2,Mobile Payment,Produce
+48,"July 22, 2023",07:00:00,1124,Cornflakes,18.5,2,Mobile Payment,Cereal
+46,"August 21, 2023",16:00:00,1125,Oranges,6.48,1,Cash,Produce
+47,"June 30, 2023",14:00:00,1128,Apples,8.81,1,Debit Card,Produce
+101,"June 17, 2023",02:00:00,1133,Pasta,4.51,4,Cash,Grains
+101,"July 14, 2023",01:00:00,1135,Yogurt,6.24,4,Debit Card,Dairy
+6,"July 09, 2023",17:00:00,1136,Butter,0.59,1,Mobile Payment,Dairy
+83,"August 20, 2023",13:00:00,1138,Tofu,15,4,Debit Card,Vegetarian
+151,"July 31, 2023",04:00:00,1139,Lettuce,4.44,1,Credit Card,Produce
+78,"August 18, 2023",22:00:00,1141,Cheese,8.05,2,Cash,Dairy
+42,"August 28, 2023",15:00:00,1142,Pasta,16.59,3,Mobile Payment,Grains
+8,"June 26, 2023",08:00:00,1144,Butter,6.16,3,Mobile Payment,Dairy
+55,"June 04, 2023",10:00:00,1145,Milk,5.75,5,Mobile Payment,Dairy
+143,"July 25, 2023",06:00:00,1147,Potatoes,14.02,3,Cash,Produce
+104,"July 30, 2023",07:00:00,1150,Onions,17.07,3,Mobile Payment,Produce
+141,"July 30, 2023",05:00:00,1153,Beef,0.7,3,Mobile Payment,Meat
+120,"June 19, 2023",06:00:00,1159,Oatmeal,7.06,5,Debit Card,Cereal
+66,"June 16, 2023",20:00:00,1160,Eggs,7.44,4,Debit Card,Dairy
+4,"August 28, 2023",08:00:00,1165,Milk,18.92,4,Cash,Dairy
+134,"June 23, 2023",04:00:00,1166,Cornflakes,5.59,5,Credit Card,Cereal
+151,"June 09, 2023",13:00:00,1168,Eggs,11.62,2,Mobile Payment,Dairy
+41,"July 10, 2023",17:00:00,1169,Pasta,6.25,2,Mobile Payment,Grains
+61,"July 09, 2023",11:00:00,1170,Milk,5.74,2,Credit Card,Dairy
+89,"August 22, 2023",20:00:00,1172,Coffee,10.84,5,Mobile Payment,Beverages
+12,"June 26, 2023",14:00:00,1173,Milk,10.91,1,Cash,Dairy
+86,"June 10, 2023",15:00:00,1174,Beef,8.79,4,Credit Card,Meat
+6,"July 23, 2023",21:00:00,1175,Oranges,6.85,2,Debit Card,Produce
+143,"June 06, 2023",19:00:00,1176,Bread,4.48,5,Mobile Payment,Bakery
+132,"June 11, 2023",13:00:00,1181,Cornflakes,19.67,3,Credit Card,Cereal
+101,"July 20, 2023",08:00:00,1182,Milk,10.83,4,Cash,Dairy
+8,"August 21, 2023",18:00:00,1183,Bananas,6.58,2,Credit Card,Produce
+46,"July 04, 2023",16:00:00,1189,Cheese,16.7,2,Mobile Payment,Dairy
+88,"June 24, 2023",03:00:00,1190,Beef,10.26,4,Credit Card,Meat
+170,"August 14, 2023",01:00:00,1191,Lettuce,18.09,2,Mobile Payment,Produce
+87,"June 02, 2023",19:00:00,1193,Butter,11.55,1,Mobile Payment,Dairy
+159,"June 06, 2023",05:00:00,1195,Oatmeal,5.98,3,Credit Card,Cereal
+58,"June 10, 2023",04:00:00,1198,Tofu,13.61,4,Mobile Payment,Vegetarian
+87,"August 28, 2023",08:00:00,1199,Bread,16.93,2,Credit Card,Bakery
+67,"July 31, 2023",15:00:00,1201,Chicken,17.93,4,Debit Card,Meat
+24,"August 20, 2023",09:00:00,1202,Black Beans,2.98,3,Mobile Payment,Vegetarian
+137,"August 12, 2023",22:00:00,1204,Rice,6.03,5,Debit Card,Grains
+13,"August 10, 2023",15:00:00,1205,Tomatoes,10.46,1,Credit Card,Produce
+11,"June 11, 2023",00:00:00,1206,Bananas,6.14,2,Cash,Produce
+101,"August 01, 2023",12:00:00,1207,Carrots,0.55,4,Credit Card,Produce
+49,"July 23, 2023",20:00:00,1208,Potatoes,19.2,4,Credit Card,Produce
+84,"July 14, 2023",23:00:00,1209,Lettuce,12.9,1,Cash,Produce
+35,"June 15, 2023",01:00:00,1211,Cheese,9.3,5,Cash,Dairy
+171,"August 24, 2023",10:00:00,1214,Yogurt,14.41,4,Debit Card,Dairy
+132,"August 10, 2023",21:00:00,1216,Potatoes,1.97,4,Debit Card,Produce
+150,"June 04, 2023",18:00:00,1217,Eggs,19.08,1,Credit Card,Dairy
+20,"June 30, 2023",05:00:00,1218,Chickpeas,6.87,5,Debit Card,Vegetarian
+47,"July 19, 2023",09:00:00,1225,Apples,7.08,1,Mobile Payment,Produce
+146,"July 12, 2023",01:00:00,1227,Oranges,1.69,5,Debit Card,Produce
+115,"June 23, 2023",18:00:00,1228,Tomatoes,17.86,4,Debit Card,Produce
+11,"July 27, 2023",13:00:00,1229,Apples,17.79,2,Cash,Produce
+139,"June 07, 2023",14:00:00,1230,Onions,14.19,4,Credit Card,Produce
+141,"August 04, 2023",02:00:00,1232,Eggs,5.14,3,Debit Card,Dairy
+159,"August 01, 2023",08:00:00,1233,Bananas,7.46,4,Debit Card,Produce
+139,"June 15, 2023",14:00:00,1235,Lettuce,0.55,3,Credit Card,Produce
+36,"August 07, 2023",11:00:00,1236,Coffee,15.15,4,Credit Card,Beverages
+102,"August 20, 2023",20:00:00,1237,Cheese,13.63,4,Debit Card,Dairy
+79,"August 17, 2023",12:00:00,1238,Lettuce,18.62,5,Mobile Payment,Produce
+36,"August 25, 2023",08:00:00,1239,Coffee,10.38,3,Mobile Payment,Beverages
+64,"July 10, 2023",00:00:00,1240,Chickpeas,14.2,1,Mobile Payment,Vegetarian
+140,"June 26, 2023",16:00:00,1241,Cheese,9.65,5,Cash,Dairy
+29,"July 05, 2023",03:00:00,1243,Tofu,18.14,2,Debit Card,Vegetarian
+9,"July 20, 2023",22:00:00,1244,Tofu,4.85,4,Mobile Payment,Vegetarian
+88,"June 16, 2023",20:00:00,1245,Coffee,16.01,1,Mobile Payment,Beverages
+97,"July 30, 2023",19:00:00,1246,Eggs,17.19,4,Mobile Payment,Dairy
+57,"August 14, 2023",02:00:00,1252,Oatmeal,7.89,5,Debit Card,Cereal
+58,"June 22, 2023",02:00:00,1253,Oranges,4.32,3,Cash,Produce
+86,"August 24, 2023",03:00:00,1254,Onions,17.84,2,Mobile Payment,Produce
+166,"July 02, 2023",21:00:00,1256,Oranges,18.18,4,Debit Card,Produce
+139,"June 18, 2023",16:00:00,1257,Potatoes,9.89,5,Cash,Produce
+139,"June 21, 2023",09:00:00,1263,Black Beans,7.86,2,Credit Card,Vegetarian
+67,"June 17, 2023",05:00:00,1265,Beef,17.18,5,Credit Card,Meat
+46,"June 18, 2023",15:00:00,1267,Cheese,8.25,3,Cash,Dairy
+34,"August 02, 2023",00:00:00,1269,Eggs,9.33,2,Debit Card,Dairy
+140,"June 05, 2023",11:00:00,1274,Lettuce,19.75,5,Cash,Produce
+146,"August 27, 2023",11:00:00,1275,Potatoes,16.3,1,Mobile Payment,Produce
+137,"August 31, 2023",13:00:00,1277,Tofu,4.96,5,Cash,Vegetarian
+3,"July 02, 2023",13:00:00,1280,Coffee,16.45,5,Cash,Beverages
+79,"July 28, 2023",12:00:00,1281,Butter,19.78,2,Cash,Dairy
+160,"July 15, 2023",23:00:00,1285,Oatmeal,17.87,2,Cash,Cereal
+57,"August 05, 2023",16:00:00,1286,Chicken,18.26,4,Debit Card,Meat
+115,"June 03, 2023",20:00:00,1288,Tomatoes,4.38,3,Credit Card,Produce
+101,"June 30, 2023",04:00:00,1289,Cornflakes,15.29,5,Debit Card,Cereal
+64,"July 21, 2023",00:00:00,1290,Butter,18.24,4,Mobile Payment,Dairy
+110,"August 06, 2023",14:00:00,1292,Black Beans,3.41,5,Debit Card,Vegetarian
+84,"July 06, 2023",23:00:00,1293,Apples,17.93,3,Debit Card,Produce
+13,"August 07, 2023",15:00:00,1295,Eggs,11.5,5,Credit Card,Dairy
+106,"July 21, 2023",02:00:00,1296,Tomatoes,1.93,4,Cash,Produce
+101,"August 25, 2023",22:00:00,1297,Carrots,5.92,4,Credit Card,Produce
+151,"June 18, 2023",15:00:00,1299,Pasta,6.87,4,Mobile Payment,Grains
+135,"July 11, 2023",12:00:00,1301,Chickpeas,13.16,4,Cash,Vegetarian
+13,"June 25, 2023",02:00:00,1303,Carrots,9.7,3,Debit Card,Produce
+151,"August 19, 2023",20:00:00,1305,Butter,15.18,1,Debit Card,Dairy
+170,"August 12, 2023",19:00:00,1308,Bananas,17.58,3,Debit Card,Produce
+143,"July 20, 2023",09:00:00,1311,Cheese,12.83,4,Debit Card,Dairy
+3,"June 19, 2023",08:00:00,1312,Chickpeas,14.02,1,Credit Card,Vegetarian
+35,"August 12, 2023",17:00:00,1313,Oranges,12.81,3,Mobile Payment,Produce
+88,"August 20, 2023",11:00:00,1318,Butter,1.53,1,Credit Card,Dairy
+67,"June 27, 2023",18:00:00,1322,Beef,14.51,4,Debit Card,Meat
+79,"August 25, 2023",06:00:00,1324,Black Beans,11.82,3,Mobile Payment,Vegetarian
+42,"June 23, 2023",07:00:00,1328,Eggs,15.97,1,Mobile Payment,Dairy
+78,"June 11, 2023",07:00:00,1329,Cheese,13.15,5,Credit Card,Dairy
+8,"June 17, 2023",08:00:00,1330,Cornflakes,15.83,4,Debit Card,Cereal
+156,"July 13, 2023",07:00:00,1331,Apples,6.27,2,Credit Card,Produce
+39,"July 22, 2023",00:00:00,1333,Coffee,17.37,4,Debit Card,Beverages
+110,"June 04, 2023",14:00:00,1334,Butter,18.09,5,Debit Card,Dairy
+3,"July 02, 2023",12:00:00,1335,Carrots,8.44,5,Cash,Produce
+160,"August 09, 2023",02:00:00,1336,Onions,3.79,4,Mobile Payment,Produce
+83,"June 16, 2023",09:00:00,1338,Milk,18.01,1,Cash,Dairy
+71,"July 13, 2023",08:00:00,1339,Onions,7.18,5,Cash,Produce
+7,"June 08, 2023",06:00:00,1341,Bread,19.04,4,Cash,Bakery
+166,"June 26, 2023",19:00:00,1342,Eggs,15.32,5,Credit Card,Dairy
+46,"July 29, 2023",06:00:00,1344,Yogurt,9.36,2,Mobile Payment,Dairy
+63,"June 06, 2023",04:00:00,1350,Cornflakes,13.44,4,Cash,Cereal
+79,"July 29, 2023",19:00:00,1351,Bread,6.44,1,Mobile Payment,Bakery
+42,"August 02, 2023",12:00:00,1353,Oatmeal,3.45,5,Mobile Payment,Cereal
+115,"August 07, 2023",11:00:00,1356,Bananas,17.49,2,Cash,Produce
+151,"August 21, 2023",11:00:00,1359,Eggs,3.83,2,Debit Card,Dairy
+9,"August 12, 2023",01:00:00,1360,Cheese,2.06,2,Cash,Dairy
+156,"August 13, 2023",21:00:00,1362,Coffee,11.32,2,Credit Card,Beverages
+89,"July 07, 2023",03:00:00,1364,Rice,16.95,5,Debit Card,Grains
+166,"July 18, 2023",13:00:00,1365,Milk,16.55,2,Mobile Payment,Dairy
+73,"June 07, 2023",09:00:00,1366,Onions,9.97,2,Cash,Produce
+168,"July 17, 2023",01:00:00,1367,Rice,3.35,4,Debit Card,Grains
+39,"August 17, 2023",07:00:00,1368,Potatoes,16.41,3,Debit Card,Produce
+29,"June 19, 2023",17:00:00,1369,Carrots,14.4,2,Cash,Produce
+57,"June 12, 2023",14:00:00,1370,Milk,7.59,5,Mobile Payment,Dairy
+160,"August 20, 2023",07:00:00,1373,Coffee,1.45,2,Mobile Payment,Beverages
+51,"August 15, 2023",12:00:00,1375,Potatoes,17.95,4,Credit Card,Produce
+64,"June 09, 2023",06:00:00,1376,Bananas,14.4,1,Debit Card,Produce
+11,"August 10, 2023",09:00:00,1378,Eggs,5.01,5,Cash,Dairy
+118,"July 20, 2023",05:00:00,1380,Tofu,12.02,4,Mobile Payment,Vegetarian
+116,"July 27, 2023",06:00:00,1384,Eggs,11.83,5,Mobile Payment,Dairy
+36,"July 17, 2023",02:00:00,1385,Rice,5.85,3,Mobile Payment,Grains
+37,"June 11, 2023",06:00:00,1386,Yogurt,15.2,2,Credit Card,Dairy
+135,"July 10, 2023",08:00:00,1389,Pasta,10.59,5,Mobile Payment,Grains
+48,"August 22, 2023",19:00:00,1390,Chickpeas,19.07,2,Debit Card,Vegetarian
+78,"June 23, 2023",10:00:00,1391,Yogurt,7.1,5,Cash,Dairy
+35,"July 22, 2023",00:00:00,1392,Coffee,17.35,5,Credit Card,Beverages
+103,"July 24, 2023",21:00:00,1396,Eggs,7.1,1,Cash,Dairy
+51,"August 17, 2023",13:00:00,1397,Butter,18.18,2,Debit Card,Dairy
+88,"July 13, 2023",16:00:00,1402,Coffee,1.94,4,Mobile Payment,Beverages
+42,"June 05, 2023",22:00:00,1403,Bread,4.59,4,Mobile Payment,Bakery
+135,"June 04, 2023",19:00:00,1407,Black Beans,17.33,4,Credit Card,Vegetarian
+6,"August 21, 2023",06:00:00,1408,Beef,6.62,3,Cash,Meat
+39,"July 15, 2023",00:00:00,1409,Carrots,5.61,1,Cash,Produce
+150,"June 16, 2023",14:00:00,1410,Chicken,4.47,2,Mobile Payment,Meat
+87,"June 16, 2023",06:00:00,1411,Coffee,11.84,5,Cash,Beverages
+125,"June 24, 2023",15:00:00,1412,Black Beans,0.81,1,Mobile Payment,Vegetarian
+151,"June 26, 2023",12:00:00,1413,Apples,4.96,3,Debit Card,Produce
+89,"June 23, 2023",07:00:00,1415,Tomatoes,12.48,4,Debit Card,Produce
+89,"July 18, 2023",15:00:00,1417,Bananas,6,3,Credit Card,Produce
+175,"July 12, 2023",23:00:00,1419,Bread,1.98,2,Debit Card,Bakery
+11,"August 17, 2023",17:00:00,1421,Oatmeal,17.79,1,Debit Card,Cereal
+160,"August 13, 2023",05:00:00,1422,Carrots,19.64,3,Debit Card,Produce
+79,"June 27, 2023",16:00:00,1425,Cheese,13.69,1,Credit Card,Dairy
+120,"July 15, 2023",11:00:00,1426,Oatmeal,19.2,2,Mobile Payment,Cereal
+177,"August 25, 2023",22:00:00,1428,Eggs,12.37,1,Credit Card,Dairy
+132,"August 10, 2023",02:00:00,1429,Rice,5.39,1,Cash,Grains
+46,"August 09, 2023",07:00:00,1430,Tomatoes,8.17,4,Debit Card,Produce
+61,"July 19, 2023",02:00:00,1431,Chicken,17.63,2,Debit Card,Meat
+137,"June 13, 2023",05:00:00,1432,Lettuce,2.76,4,Mobile Payment,Produce
+48,"August 21, 2023",04:00:00,1434,Apples,11.93,1,Debit Card,Produce
+71,"July 05, 2023",08:00:00,1439,Yogurt,13.7,1,Cash,Dairy
+146,"June 26, 2023",01:00:00,1440,Butter,9.11,4,Debit Card,Dairy
+161,"July 10, 2023",19:00:00,1441,Coffee,8.75,2,Credit Card,Beverages
+83,"July 17, 2023",14:00:00,1442,Cheese,5.02,1,Debit Card,Dairy
+71,"August 18, 2023",21:00:00,1443,Apples,10.27,3,Credit Card,Produce
+6,"August 11, 2023",23:00:00,1444,Yogurt,17.51,5,Credit Card,Dairy
+152,"June 26, 2023",15:00:00,1445,Tofu,19.52,2,Debit Card,Vegetarian
+83,"June 27, 2023",18:00:00,1448,Lettuce,16.83,4,Mobile Payment,Produce
+12,"August 02, 2023",07:00:00,1450,Milk,19.78,1,Debit Card,Dairy
+141,"June 07, 2023",04:00:00,1456,Oatmeal,0.78,2,Mobile Payment,Cereal
+110,"June 25, 2023",05:00:00,1458,Bananas,5.62,1,Debit Card,Produce
+71,"August 16, 2023",02:00:00,1459,Oranges,5.17,2,Credit Card,Produce
+57,"July 28, 2023",07:00:00,1462,Pasta,18.99,2,Mobile Payment,Grains
+27,"July 27, 2023",07:00:00,1463,Yogurt,6.52,4,Mobile Payment,Dairy
+4,"June 20, 2023",22:00:00,1465,Apples,5.34,4,Cash,Produce
+160,"June 21, 2023",08:00:00,1467,Chickpeas,5.91,4,Credit Card,Vegetarian
+139,"July 25, 2023",03:00:00,1469,Potatoes,7.28,3,Mobile Payment,Produce
+146,"August 06, 2023",18:00:00,1470,Rice,19.57,3,Debit Card,Grains
+78,"August 21, 2023",06:00:00,1476,Eggs,3.27,2,Cash,Dairy
+135,"August 13, 2023",15:00:00,1480,Carrots,16.7,3,Cash,Produce
+168,"July 19, 2023",09:00:00,1481,Potatoes,19.57,3,Credit Card,Produce
+64,"August 04, 2023",03:00:00,1484,Pasta,9.72,4,Mobile Payment,Grains
+4,"August 21, 2023",11:00:00,1486,Apples,5.37,2,Cash,Produce
+97,"August 16, 2023",21:00:00,1488,Bananas,17.98,2,Cash,Produce
+175,"June 25, 2023",02:00:00,1489,Butter,16.57,4,Debit Card,Dairy
+48,"June 04, 2023",20:00:00,1490,Apples,11.13,2,Debit Card,Produce
+175,"August 30, 2023",10:00:00,1493,Bananas,1,5,Credit Card,Produce
+140,"August 15, 2023",01:00:00,1496,Apples,6.2,5,Credit Card,Produce
+116,"August 17, 2023",21:00:00,1497,Cheese,10.88,3,Mobile Payment,Dairy
+49,"July 25, 2023",16:00:00,1498,Pasta,5.18,1,Cash,Grains
+34,"August 23, 2023",05:00:00,1500,Bread,11.66,1,Debit Card,Bakery
+8,"June 05, 2023",21:00:00,1501,Bananas,6.28,5,Cash,Produce
+134,"August 29, 2023",07:00:00,1505,Yogurt,5.3,4,Debit Card,Dairy
+39,"June 27, 2023",12:00:00,1507,Lettuce,18.15,3,Cash,Produce
+3,"July 23, 2023",18:00:00,1508,Oranges,9.29,2,Mobile Payment,Produce
+134,"June 04, 2023",00:00:00,1509,Potatoes,11.59,4,Cash,Produce
+119,"July 07, 2023",06:00:00,1511,Pasta,13.83,2,Credit Card,Grains
+47,"June 25, 2023",08:00:00,1513,Tomatoes,15.54,5,Mobile Payment,Produce
+87,"August 19, 2023",14:00:00,1515,Tofu,3.79,2,Debit Card,Vegetarian
+116,"July 13, 2023",21:00:00,1517,Oatmeal,5.53,4,Debit Card,Cereal
+8,"July 06, 2023",07:00:00,1518,Oranges,2.65,5,Cash,Produce
+46,"July 28, 2023",09:00:00,1519,Cheese,2.4,1,Cash,Dairy
+51,"July 01, 2023",11:00:00,1521,Butter,17.46,4,Cash,Dairy
+161,"June 20, 2023",21:00:00,1522,Yogurt,17.46,1,Credit Card,Dairy
+7,"June 16, 2023",17:00:00,1524,Bread,7.93,1,Cash,Bakery
+102,"August 09, 2023",21:00:00,1525,Potatoes,15.78,4,Debit Card,Produce
+58,"July 09, 2023",14:00:00,1527,Carrots,12.85,1,Cash,Produce
+47,"July 27, 2023",06:00:00,1528,Chickpeas,2.54,4,Debit Card,Vegetarian
+178,"June 19, 2023",20:00:00,1530,Chickpeas,13.93,1,Credit Card,Vegetarian
+29,"July 02, 2023",15:00:00,1532,Eggs,0.76,1,Credit Card,Dairy
+135,"June 16, 2023",03:00:00,1535,Carrots,7.12,3,Cash,Produce
+20,"June 18, 2023",05:00:00,1536,Potatoes,8.25,2,Mobile Payment,Produce
+87,"July 01, 2023",10:00:00,1539,Coffee,18.95,5,Cash,Beverages
+146,"July 31, 2023",08:00:00,1540,Cheese,4.46,3,Debit Card,Dairy
+95,"August 12, 2023",23:00:00,1542,Chicken,16.72,3,Cash,Meat
+63,"July 31, 2023",09:00:00,1544,Potatoes,3.26,2,Debit Card,Produce
+156,"August 26, 2023",20:00:00,1545,Oranges,11.04,2,Mobile Payment,Produce
+61,"June 26, 2023",01:00:00,1548,Oatmeal,1.48,3,Mobile Payment,Cereal
+46,"June 12, 2023",14:00:00,1549,Onions,7.57,5,Cash,Produce
+49,"August 25, 2023",23:00:00,1552,Apples,2.06,2,Mobile Payment,Produce
+167,"June 27, 2023",18:00:00,1553,Oatmeal,7.84,2,Cash,Cereal
+79,"June 24, 2023",06:00:00,1554,Milk,6.76,5,Credit Card,Dairy
+48,"July 20, 2023",13:00:00,1556,Potatoes,19.12,5,Cash,Produce
+11,"July 17, 2023",14:00:00,1559,Tofu,14.77,1,Debit Card,Vegetarian
+78,"July 06, 2023",21:00:00,1560,Carrots,3.9,4,Credit Card,Produce
+115,"August 14, 2023",08:00:00,1562,Beef,14.11,3,Debit Card,Meat
+36,"July 23, 2023",00:00:00,1564,Milk,12.13,3,Credit Card,Dairy
+178,"June 07, 2023",05:00:00,1565,Lettuce,19.51,1,Cash,Produce
+140,"July 02, 2023",22:00:00,1566,Oatmeal,11.04,4,Credit Card,Cereal
+86,"July 09, 2023",10:00:00,1568,Tomatoes,14.42,5,Credit Card,Produce
+146,"August 14, 2023",05:00:00,1570,Lettuce,10.11,5,Debit Card,Produce
+27,"June 30, 2023",07:00:00,1571,Yogurt,4.7,3,Mobile Payment,Dairy
+61,"August 28, 2023",20:00:00,1572,Eggs,0.67,1,Cash,Dairy
+3,"August 29, 2023",03:00:00,1573,Lettuce,13.05,1,Cash,Produce
+11,"July 19, 2023",00:00:00,1574,Rice,18.02,1,Debit Card,Grains
+9,"June 13, 2023",01:00:00,1575,Bread,19.17,1,Credit Card,Bakery
+171,"June 19, 2023",02:00:00,1576,Black Beans,10.82,2,Debit Card,Vegetarian
+151,"June 11, 2023",21:00:00,1578,Apples,11.02,3,Cash,Produce
+152,"June 10, 2023",13:00:00,1579,Oranges,17.89,1,Mobile Payment,Produce
+153,"July 02, 2023",18:00:00,1581,Beef,13.73,2,Mobile Payment,Meat
+87,"July 10, 2023",19:00:00,1582,Butter,15.53,1,Cash,Dairy
+118,"July 29, 2023",01:00:00,1584,Butter,2.31,4,Cash,Dairy
+159,"August 18, 2023",08:00:00,1585,Lettuce,8.68,5,Credit Card,Produce
+79,"August 01, 2023",05:00:00,1586,Potatoes,13.45,3,Cash,Produce
+27,"July 09, 2023",21:00:00,1587,Apples,5.77,5,Credit Card,Produce
+132,"June 06, 2023",15:00:00,1588,Chicken,11.19,1,Debit Card,Meat
+13,"July 05, 2023",08:00:00,1592,Apples,8.81,3,Debit Card,Produce
+34,"June 19, 2023",20:00:00,1595,Black Beans,17.58,4,Mobile Payment,Vegetarian
+170,"July 16, 2023",11:00:00,1596,Butter,9.94,5,Debit Card,Dairy
+11,"July 29, 2023",22:00:00,1597,Cornflakes,19.47,3,Cash,Cereal
+97,"June 30, 2023",21:00:00,1598,Chickpeas,14.79,2,Credit Card,Vegetarian
+176,"August 05, 2023",00:00:00,1602,Onions,14.87,5,Credit Card,Produce
+102,"July 31, 2023",16:00:00,1603,Lettuce,6.01,5,Credit Card,Produce
+88,"June 22, 2023",21:00:00,1605,Black Beans,16.2,5,Credit Card,Vegetarian
+97,"August 09, 2023",21:00:00,1608,Rice,17.17,3,Mobile Payment,Grains
+134,"July 24, 2023",21:00:00,1610,Yogurt,4.65,5,Debit Card,Dairy
+150,"July 26, 2023",01:00:00,1613,Lettuce,4.07,5,Credit Card,Produce
+116,"July 20, 2023",08:00:00,1614,Potatoes,11.56,5,Credit Card,Produce
+137,"June 03, 2023",00:00:00,1616,Eggs,3.26,4,Credit Card,Dairy
+168,"July 15, 2023",20:00:00,1617,Beef,19.79,1,Cash,Meat
+42,"June 14, 2023",13:00:00,1619,Tofu,3.58,1,Mobile Payment,Vegetarian
+104,"August 06, 2023",16:00:00,1620,Lettuce,6.82,3,Cash,Produce
+83,"August 09, 2023",07:00:00,1621,Milk,18.49,2,Mobile Payment,Dairy
+161,"June 28, 2023",00:00:00,1624,Oranges,12.6,5,Credit Card,Produce
+61,"June 16, 2023",12:00:00,1625,Coffee,5.76,3,Cash,Beverages
+161,"August 22, 2023",21:00:00,1626,Cheese,2.66,4,Mobile Payment,Dairy
+118,"August 30, 2023",10:00:00,1627,Milk,5.59,5,Mobile Payment,Dairy
+29,"June 16, 2023",03:00:00,1628,Bananas,6.52,5,Debit Card,Produce
+3,"August 01, 2023",12:00:00,1631,Chickpeas,3.42,2,Debit Card,Vegetarian
+178,"June 07, 2023",02:00:00,1634,Chicken,10.94,3,Mobile Payment,Meat
+168,"August 10, 2023",02:00:00,1636,Chickpeas,5.1,3,Credit Card,Vegetarian
+99,"June 19, 2023",21:00:00,1637,Chickpeas,3.08,2,Debit Card,Vegetarian
+89,"June 25, 2023",04:00:00,1639,Tofu,16.55,1,Credit Card,Vegetarian
+150,"July 27, 2023",12:00:00,1640,Pasta,9.87,3,Credit Card,Grains
+139,"August 14, 2023",18:00:00,1641,Cheese,11.77,2,Credit Card,Dairy
+78,"June 25, 2023",22:00:00,1644,Onions,6.88,4,Credit Card,Produce
+12,"August 24, 2023",17:00:00,1650,Chickpeas,6.78,3,Cash,Vegetarian
+87,"August 20, 2023",18:00:00,1651,Onions,10.69,3,Credit Card,Produce
+64,"June 01, 2023",06:00:00,1652,Lettuce,4.7,4,Credit Card,Produce
+178,"June 05, 2023",08:00:00,1657,Cornflakes,11.79,1,Cash,Cereal
+104,"August 21, 2023",08:00:00,1658,Tofu,7.77,4,Cash,Vegetarian
+101,"July 09, 2023",05:00:00,1659,Bread,11.06,5,Credit Card,Bakery
+37,"August 10, 2023",04:00:00,1660,Rice,5.54,4,Mobile Payment,Grains
+71,"June 21, 2023",08:00:00,1661,Carrots,3.07,3,Credit Card,Produce
+86,"July 10, 2023",01:00:00,1663,Yogurt,5.58,3,Credit Card,Dairy
+141,"July 22, 2023",05:00:00,1664,Coffee,6.94,2,Cash,Beverages
+161,"August 25, 2023",09:00:00,1665,Tomatoes,8.3,3,Cash,Produce
+58,"June 08, 2023",09:00:00,1668,Black Beans,8.33,1,Cash,Vegetarian
+5,"June 10, 2023",21:00:00,1669,Bananas,13.92,2,Debit Card,Produce
+178,"June 28, 2023",04:00:00,1670,Tomatoes,1.84,3,Credit Card,Produce
+95,"August 28, 2023",05:00:00,1672,Tomatoes,14.85,1,Debit Card,Produce
+57,"August 21, 2023",19:00:00,1673,Coffee,11.98,3,Debit Card,Beverages
+67,"July 08, 2023",18:00:00,1675,Yogurt,8.45,4,Credit Card,Dairy
+95,"June 09, 2023",17:00:00,1677,Bread,6.1,5,Mobile Payment,Bakery
+119,"August 04, 2023",12:00:00,1678,Beef,13.67,3,Credit Card,Meat
+152,"June 11, 2023",15:00:00,1685,Bananas,19.11,5,Debit Card,Produce
+156,"August 28, 2023",13:00:00,1686,Butter,19.6,1,Cash,Dairy
+16,"August 21, 2023",06:00:00,1689,Pasta,6.39,3,Mobile Payment,Grains
+151,"August 06, 2023",11:00:00,1690,Coffee,19.25,5,Credit Card,Beverages
+20,"August 31, 2023",04:00:00,1691,Potatoes,8.39,3,Cash,Produce
+58,"August 18, 2023",19:00:00,1692,Butter,17.24,2,Mobile Payment,Dairy
+115,"June 22, 2023",03:00:00,1694,Bananas,5.88,4,Mobile Payment,Produce
+57,"August 31, 2023",12:00:00,1697,Chicken,10.67,1,Cash,Meat
+37,"July 14, 2023",16:00:00,1698,Cheese,17.85,2,Cash,Dairy
+36,"August 06, 2023",18:00:00,1699,Butter,15.45,5,Debit Card,Dairy
+4,"June 06, 2023",02:00:00,1702,Lettuce,1.9,4,Cash,Produce
+159,"July 03, 2023",05:00:00,1703,Butter,9.78,4,Cash,Dairy
+116,"August 23, 2023",19:00:00,1705,Tomatoes,3.8,3,Debit Card,Produce
+116,"June 22, 2023",11:00:00,1707,Cheese,13.82,2,Debit Card,Dairy
+171,"June 29, 2023",17:00:00,1709,Black Beans,14.34,5,Debit Card,Vegetarian
+95,"July 15, 2023",21:00:00,1711,Cornflakes,12.55,2,Credit Card,Cereal
+140,"July 08, 2023",06:00:00,1712,Tofu,10.21,5,Cash,Vegetarian
+89,"June 26, 2023",05:00:00,1713,Black Beans,11.83,1,Mobile Payment,Vegetarian
+102,"June 01, 2023",04:00:00,1714,Carrots,5.19,4,Mobile Payment,Produce
+120,"June 25, 2023",08:00:00,1717,Yogurt,4.88,4,Credit Card,Dairy
+27,"June 18, 2023",00:00:00,1719,Beef,13.88,4,Credit Card,Meat
+151,"August 10, 2023",08:00:00,1722,Black Beans,0.97,1,Cash,Vegetarian
+86,"July 28, 2023",09:00:00,1728,Tomatoes,10.46,2,Debit Card,Produce
+101,"July 09, 2023",22:00:00,1731,Tofu,19.65,2,Debit Card,Vegetarian
+46,"August 25, 2023",20:00:00,1732,Lettuce,16.18,1,Mobile Payment,Produce
+119,"August 09, 2023",15:00:00,1736,Yogurt,4.64,4,Debit Card,Dairy
+34,"July 20, 2023",09:00:00,1737,Tofu,14.57,5,Cash,Vegetarian
+44,"June 22, 2023",07:00:00,1738,Tomatoes,13.03,5,Cash,Produce
+55,"June 24, 2023",07:00:00,1739,Eggs,6.3,1,Mobile Payment,Dairy
+41,"June 09, 2023",00:00:00,1743,Oatmeal,4.94,3,Mobile Payment,Cereal
+49,"July 19, 2023",10:00:00,1747,Chickpeas,17.54,5,Credit Card,Vegetarian
+101,"June 16, 2023",21:00:00,1749,Cheese,8.55,2,Mobile Payment,Dairy
+55,"July 04, 2023",23:00:00,1750,Milk,12.21,1,Mobile Payment,Dairy
+168,"July 12, 2023",08:00:00,1751,Chicken,11.44,3,Debit Card,Meat
+103,"June 10, 2023",21:00:00,1756,Black Beans,3.45,4,Debit Card,Vegetarian
+95,"June 12, 2023",01:00:00,1758,Cheese,15.02,4,Debit Card,Dairy
+97,"July 21, 2023",07:00:00,1761,Carrots,9.05,3,Cash,Produce
+95,"July 27, 2023",02:00:00,1762,Milk,15.17,3,Credit Card,Dairy
+46,"June 18, 2023",17:00:00,1763,Tomatoes,12.53,3,Credit Card,Produce
+110,"June 24, 2023",21:00:00,1766,Pasta,17.84,4,Mobile Payment,Grains
+16,"August 24, 2023",08:00:00,1768,Cheese,2.4,3,Debit Card,Dairy
+151,"August 31, 2023",05:00:00,1769,Apples,15.3,3,Credit Card,Produce
+135,"July 11, 2023",10:00:00,1771,Onions,6.8,3,Mobile Payment,Produce
+57,"July 09, 2023",08:00:00,1773,Chickpeas,16.62,5,Debit Card,Vegetarian
+143,"August 30, 2023",15:00:00,1774,Chicken,19.4,1,Credit Card,Meat
+95,"July 07, 2023",18:00:00,1776,Apples,0.86,2,Credit Card,Produce
+49,"June 04, 2023",10:00:00,1777,Onions,17.39,2,Debit Card,Produce
+2,"June 01, 2023",07:00:00,1780,Butter,1.45,5,Mobile Payment,Dairy
+99,"June 14, 2023",05:00:00,1781,Milk,6.11,4,Credit Card,Dairy
+178,"June 10, 2023",17:00:00,1784,Oranges,19.76,2,Debit Card,Produce
+86,"July 05, 2023",19:00:00,1787,Eggs,10.04,2,Mobile Payment,Dairy
+171,"July 24, 2023",14:00:00,1788,Carrots,14.97,5,Cash,Produce
+116,"July 09, 2023",18:00:00,1789,Bananas,9.06,2,Debit Card,Produce
+118,"June 17, 2023",01:00:00,1791,Pasta,11.76,5,Debit Card,Grains
+156,"July 04, 2023",05:00:00,1792,Bananas,6.71,5,Credit Card,Produce
+58,"July 07, 2023",13:00:00,1795,Yogurt,13.08,5,Credit Card,Dairy
+97,"August 01, 2023",19:00:00,1796,Pasta,14.69,3,Mobile Payment,Grains
+57,"August 09, 2023",02:00:00,1798,Rice,2.72,3,Debit Card,Grains
+166,"June 29, 2023",02:00:00,1800,Tofu,17.85,1,Credit Card,Vegetarian
+24,"August 29, 2023",00:00:00,1801,Rice,12.38,1,Debit Card,Grains
+34,"July 23, 2023",00:00:00,1803,Rice,7.63,2,Debit Card,Grains
+150,"August 01, 2023",11:00:00,1804,Potatoes,14.21,3,Debit Card,Produce
+9,"June 10, 2023",23:00:00,1806,Apples,15.92,1,Debit Card,Produce
+86,"August 19, 2023",02:00:00,1808,Chickpeas,12.16,5,Credit Card,Vegetarian
+78,"June 07, 2023",10:00:00,1810,Bananas,4.18,5,Mobile Payment,Produce
+97,"August 06, 2023",11:00:00,1811,Chicken,16.94,5,Mobile Payment,Meat
+51,"June 02, 2023",04:00:00,1812,Yogurt,4.75,1,Credit Card,Dairy
+178,"August 14, 2023",07:00:00,1813,Potatoes,0.77,4,Cash,Produce
+84,"June 22, 2023",16:00:00,1820,Cheese,1.32,1,Cash,Dairy
+101,"June 11, 2023",19:00:00,1821,Butter,15.2,1,Mobile Payment,Dairy
+118,"August 02, 2023",12:00:00,1822,Beef,19.98,3,Credit Card,Meat
+42,"June 23, 2023",16:00:00,1826,Black Beans,10.5,2,Cash,Vegetarian
+102,"August 27, 2023",23:00:00,1828,Yogurt,5.37,2,Mobile Payment,Dairy
+168,"August 19, 2023",09:00:00,1831,Oatmeal,18.51,3,Debit Card,Cereal
+166,"June 09, 2023",02:00:00,1833,Coffee,18.83,2,Debit Card,Beverages
+95,"July 28, 2023",13:00:00,1834,Yogurt,9.37,3,Credit Card,Dairy
+6,"July 18, 2023",13:00:00,1836,Cornflakes,4.13,5,Mobile Payment,Cereal
+29,"July 01, 2023",08:00:00,1839,Oatmeal,15.74,5,Debit Card,Cereal
+159,"June 17, 2023",22:00:00,1842,Rice,11.83,1,Cash,Grains
+41,"August 05, 2023",16:00:00,1843,Eggs,8.34,1,Credit Card,Dairy
+146,"June 30, 2023",17:00:00,1844,Eggs,3.12,1,Mobile Payment,Dairy
+177,"July 28, 2023",11:00:00,1845,Lettuce,14.33,1,Mobile Payment,Produce
+78,"August 05, 2023",21:00:00,1846,Rice,10.32,3,Cash,Grains
+44,"July 08, 2023",21:00:00,1850,Oatmeal,8.86,2,Cash,Cereal
+87,"August 30, 2023",05:00:00,1856,Beef,6.32,2,Credit Card,Meat
+83,"June 10, 2023",13:00:00,1857,Apples,17.52,4,Mobile Payment,Produce
+151,"July 07, 2023",14:00:00,1859,Bread,15.09,4,Mobile Payment,Bakery
+89,"August 22, 2023",18:00:00,1862,Lettuce,3.79,1,Cash,Produce
+137,"August 26, 2023",06:00:00,1868,Eggs,18.5,4,Credit Card,Dairy
+120,"July 22, 2023",12:00:00,1869,Oranges,9.61,3,Mobile Payment,Produce
+102,"June 30, 2023",08:00:00,1870,Tomatoes,3.54,3,Credit Card,Produce
+137,"July 03, 2023",11:00:00,1873,Cheese,16.16,4,Credit Card,Dairy
+3,"June 12, 2023",05:00:00,1877,Chicken,4.82,4,Mobile Payment,Meat
+61,"August 01, 2023",12:00:00,1879,Cheese,17.52,4,Credit Card,Dairy
+11,"June 07, 2023",10:00:00,1880,Chickpeas,9.59,4,Credit Card,Vegetarian
+150,"August 30, 2023",20:00:00,1881,Pasta,11.53,1,Debit Card,Grains
+78,"July 08, 2023",03:00:00,1886,Yogurt,2.55,4,Credit Card,Dairy
+61,"August 14, 2023",22:00:00,1888,Oatmeal,6.5,1,Cash,Cereal
+78,"August 12, 2023",22:00:00,1890,Cheese,7.96,1,Cash,Dairy
+168,"June 02, 2023",04:00:00,1893,Tomatoes,15.13,3,Cash,Produce
+161,"July 29, 2023",04:00:00,1894,Carrots,11.89,4,Credit Card,Produce
+171,"July 08, 2023",22:00:00,1895,Onions,14.74,5,Cash,Produce
+58,"August 25, 2023",10:00:00,1896,Tofu,1.68,3,Cash,Vegetarian
+4,"July 24, 2023",09:00:00,1900,Carrots,17.26,1,Credit Card,Produce
+61,"August 29, 2023",22:00:00,1901,Milk,15.68,4,Debit Card,Dairy
+151,"July 15, 2023",23:00:00,1904,Oranges,17,2,Debit Card,Produce
+166,"June 09, 2023",21:00:00,1905,Bananas,8.4,3,Credit Card,Produce
+63,"August 05, 2023",09:00:00,1906,Carrots,9,4,Credit Card,Produce
+16,"June 11, 2023",03:00:00,1907,Bananas,0.56,2,Credit Card,Produce
+101,"August 23, 2023",06:00:00,1909,Milk,15.75,5,Mobile Payment,Dairy
+42,"June 20, 2023",09:00:00,1911,Milk,7.37,5,Mobile Payment,Dairy
+7,"August 11, 2023",08:00:00,1912,Bananas,11.5,4,Credit Card,Produce
+16,"August 20, 2023",05:00:00,1915,Cheese,7.62,4,Debit Card,Dairy
+64,"August 17, 2023",17:00:00,1916,Chickpeas,14.14,1,Cash,Vegetarian
+11,"June 21, 2023",07:00:00,1919,Apples,9.27,5,Mobile Payment,Produce
+125,"July 14, 2023",01:00:00,1922,Chicken,13.47,4,Debit Card,Meat
+177,"June 08, 2023",07:00:00,1924,Milk,14.07,3,Cash,Dairy
+115,"June 07, 2023",20:00:00,1925,Butter,19.39,1,Mobile Payment,Dairy
+171,"August 02, 2023",01:00:00,1926,Rice,13.9,4,Cash,Grains
+3,"June 25, 2023",22:00:00,1927,Cheese,3.91,3,Cash,Dairy
+140,"August 22, 2023",13:00:00,1928,Potatoes,11.45,2,Cash,Produce
+146,"July 14, 2023",10:00:00,1929,Chickpeas,11.88,1,Debit Card,Vegetarian
+110,"June 23, 2023",05:00:00,1930,Cheese,16.15,1,Credit Card,Dairy
+166,"July 31, 2023",19:00:00,1931,Butter,12.66,1,Mobile Payment,Dairy
+178,"August 18, 2023",13:00:00,1933,Beef,9.18,2,Credit Card,Meat
+87,"June 22, 2023",21:00:00,1936,Tomatoes,11.42,5,Credit Card,Produce
+64,"June 18, 2023",20:00:00,1937,Milk,17.19,4,Mobile Payment,Dairy
+6,"June 19, 2023",16:00:00,1945,Coffee,6.42,4,Credit Card,Beverages
+2,"August 04, 2023",12:00:00,1946,Oatmeal,17.5,1,Cash,Cereal
+4,"August 28, 2023",10:00:00,1947,Milk,7.24,5,Mobile Payment,Dairy
+55,"July 26, 2023",04:00:00,1948,Yogurt,17.2,1,Mobile Payment,Dairy
+115,"July 29, 2023",15:00:00,1949,Oatmeal,16.97,2,Debit Card,Cereal
+168,"July 08, 2023",19:00:00,1951,Cornflakes,0.71,4,Credit Card,Cereal
+51,"July 23, 2023",00:00:00,1953,Tomatoes,18.96,1,Debit Card,Produce
+73,"August 12, 2023",22:00:00,1954,Butter,0.76,4,Mobile Payment,Dairy
+125,"June 30, 2023",09:00:00,1955,Chickpeas,4.02,3,Credit Card,Vegetarian
+2,"August 21, 2023",14:00:00,1958,Bananas,10.57,3,Mobile Payment,Produce
+46,"July 07, 2023",04:00:00,1960,Oranges,16.96,4,Mobile Payment,Produce
+126,"August 15, 2023",02:00:00,1964,Apples,2.41,5,Cash,Produce
+83,"August 11, 2023",06:00:00,1966,Cheese,19.64,2,Cash,Dairy
+153,"June 27, 2023",03:00:00,1967,Tofu,8.4,4,Mobile Payment,Vegetarian
+42,"July 07, 2023",15:00:00,1968,Black Beans,13.26,3,Mobile Payment,Vegetarian
+161,"July 04, 2023",00:00:00,1969,Oatmeal,8.39,3,Debit Card,Cereal
+101,"August 17, 2023",10:00:00,1970,Pasta,7.32,2,Debit Card,Grains
+160,"June 01, 2023",17:00:00,1971,Butter,10.48,3,Mobile Payment,Dairy
+63,"August 18, 2023",15:00:00,1975,Pasta,14.22,5,Debit Card,Grains
+125,"August 10, 2023",04:00:00,1976,Rice,14,1,Debit Card,Grains
+175,"August 17, 2023",00:00:00,1977,Beef,15.01,1,Debit Card,Meat
+24,"July 10, 2023",17:00:00,1981,Carrots,5.06,1,Debit Card,Produce
+13,"August 14, 2023",10:00:00,1983,Cornflakes,11.21,4,Cash,Cereal
+83,"July 29, 2023",14:00:00,1984,Lettuce,17.74,3,Cash,Produce
+83,"July 20, 2023",04:00:00,1987,Bread,9.31,3,Mobile Payment,Bakery
+175,"August 06, 2023",19:00:00,1989,Chicken,19.85,3,Credit Card,Meat
+4,"June 22, 2023",22:00:00,1990,Tomatoes,12.07,4,Credit Card,Produce
+5,"August 19, 2023",14:00:00,1995,Milk,1.73,3,Debit Card,Dairy
+171,"July 13, 2023",23:00:00,1996,Black Beans,3.65,2,Credit Card,Vegetarian
+115,"August 05, 2023",21:00:00,1998,Lettuce,5.2,1,Credit Card,Produce
+134,"June 28, 2023",14:00:00,2000,Black Beans,8.99,4,Mobile Payment,Vegetarian
+116,"June 19, 2023",20:00:00,2003,Oatmeal,7.41,3,Cash,Cereal
+176,"June 12, 2023",12:00:00,2004,Chickpeas,14.02,4,Mobile Payment,Vegetarian
+63,"August 10, 2023",02:00:00,2005,Cornflakes,13.62,5,Credit Card,Cereal
+58,"June 22, 2023",14:00:00,2007,Black Beans,6.99,1,Mobile Payment,Vegetarian
+174,"August 06, 2023",21:00:00,2008,Tomatoes,7.98,5,Credit Card,Produce
+58,"August 25, 2023",07:00:00,2009,Pasta,8.28,3,Credit Card,Grains
+137,"June 09, 2023",00:00:00,2011,Oatmeal,1.11,2,Credit Card,Cereal
+24,"August 19, 2023",16:00:00,2012,Chicken,9.13,4,Cash,Meat
+66,"July 03, 2023",11:00:00,2013,Lettuce,3.48,1,Debit Card,Produce
+48,"July 04, 2023",17:00:00,2014,Beef,12.05,4,Cash,Meat
+146,"July 18, 2023",19:00:00,2022,Potatoes,10.83,2,Mobile Payment,Produce
+101,"August 07, 2023",13:00:00,2023,Milk,10.74,4,Debit Card,Dairy
+153,"July 13, 2023",22:00:00,2024,Potatoes,8.52,3,Credit Card,Produce
+39,"July 16, 2023",15:00:00,2028,Carrots,12.63,1,Debit Card,Produce
+57,"July 12, 2023",01:00:00,2029,Eggs,6.43,1,Credit Card,Dairy
+106,"August 30, 2023",08:00:00,2030,Chicken,5.07,2,Cash,Meat
+27,"July 02, 2023",08:00:00,2032,Cornflakes,2.44,5,Cash,Cereal
+170,"August 15, 2023",16:00:00,2033,Carrots,1.98,3,Credit Card,Produce
+73,"July 24, 2023",21:00:00,2034,Apples,1.59,5,Cash,Produce
+168,"August 25, 2023",20:00:00,2036,Rice,13.34,2,Mobile Payment,Grains
+84,"July 15, 2023",03:00:00,2037,Yogurt,12.62,4,Cash,Dairy
+6,"June 11, 2023",02:00:00,2039,Apples,14.87,1,Mobile Payment,Produce
+103,"June 01, 2023",00:00:00,2043,Butter,19.54,2,Credit Card,Dairy
+103,"July 23, 2023",01:00:00,2045,Black Beans,14.06,2,Mobile Payment,Vegetarian
+3,"June 18, 2023",00:00:00,2047,Carrots,6.5,5,Debit Card,Produce
+101,"July 15, 2023",20:00:00,2050,Coffee,2.4,1,Mobile Payment,Beverages
+135,"June 22, 2023",15:00:00,2051,Bananas,4.48,4,Credit Card,Produce
+134,"June 09, 2023",02:00:00,2056,Rice,4.35,3,Credit Card,Grains
+13,"August 03, 2023",04:00:00,2057,Bananas,16.36,4,Debit Card,Produce
+141,"August 09, 2023",09:00:00,2058,Milk,1.43,4,Credit Card,Dairy
+141,"July 27, 2023",02:00:00,2060,Beef,16.01,3,Credit Card,Meat
+84,"June 30, 2023",22:00:00,2064,Oranges,15.85,3,Mobile Payment,Produce
+167,"June 10, 2023",19:00:00,2065,Cornflakes,5.42,1,Credit Card,Cereal
+177,"June 22, 2023",20:00:00,2069,Cheese,8.51,3,Credit Card,Dairy
+3,"August 03, 2023",11:00:00,2070,Yogurt,17.81,2,Debit Card,Dairy
+139,"July 09, 2023",13:00:00,2071,Pasta,14.46,4,Debit Card,Grains
+29,"July 02, 2023",07:00:00,2078,Chickpeas,5.34,2,Mobile Payment,Vegetarian
+102,"August 16, 2023",13:00:00,2079,Apples,0.78,4,Cash,Produce
+5,"July 01, 2023",08:00:00,2080,Milk,13.5,5,Credit Card,Dairy
+115,"June 06, 2023",09:00:00,2082,Coffee,9.07,1,Cash,Beverages
+39,"June 25, 2023",03:00:00,2083,Eggs,1.36,5,Cash,Dairy
+156,"July 12, 2023",17:00:00,2084,Tomatoes,13.11,1,Credit Card,Produce
+41,"June 18, 2023",04:00:00,2086,Onions,16.74,4,Cash,Produce
+177,"June 13, 2023",20:00:00,2088,Butter,4.12,3,Mobile Payment,Dairy
+125,"July 18, 2023",09:00:00,2089,Coffee,2.43,3,Cash,Beverages
+139,"June 16, 2023",02:00:00,2090,Oranges,13.1,2,Mobile Payment,Produce
+110,"June 10, 2023",13:00:00,2093,Milk,1.22,2,Debit Card,Dairy
+64,"June 30, 2023",08:00:00,2094,Yogurt,18.93,1,Debit Card,Dairy
+120,"June 30, 2023",03:00:00,2096,Lettuce,14.45,4,Credit Card,Produce
+67,"August 14, 2023",15:00:00,2097,Cornflakes,16.68,5,Credit Card,Cereal
+176,"July 12, 2023",15:00:00,2099,Pasta,10.05,3,Debit Card,Grains
+49,"June 05, 2023",04:00:00,2100,Eggs,20,5,Credit Card,Dairy
+87,"July 25, 2023",20:00:00,2104,Apples,13.97,1,Debit Card,Produce
+174,"July 03, 2023",20:00:00,2105,Rice,18.05,4,Debit Card,Grains
+51,"June 11, 2023",06:00:00,2106,Rice,19.69,1,Debit Card,Grains
+63,"June 26, 2023",22:00:00,2107,Bread,18.62,3,Mobile Payment,Bakery
+84,"June 30, 2023",22:00:00,2110,Onions,2.7,3,Credit Card,Produce
+110,"August 11, 2023",05:00:00,2111,Chicken,0.84,2,Credit Card,Meat
+95,"August 25, 2023",06:00:00,2112,Cornflakes,16.63,3,Debit Card,Cereal
+83,"August 19, 2023",01:00:00,2115,Chicken,10.56,2,Mobile Payment,Meat
+4,"August 12, 2023",18:00:00,2117,Potatoes,9.3,4,Debit Card,Produce
+88,"August 06, 2023",21:00:00,2119,Apples,7.85,2,Debit Card,Produce
+44,"June 28, 2023",01:00:00,2124,Coffee,3.77,1,Credit Card,Beverages
+135,"July 05, 2023",22:00:00,2125,Oatmeal,17.91,2,Cash,Cereal
+176,"August 12, 2023",13:00:00,2127,Oatmeal,3.6,3,Credit Card,Cereal
+55,"June 29, 2023",20:00:00,2128,Oranges,17.46,2,Credit Card,Produce
+143,"August 11, 2023",15:00:00,2129,Tomatoes,9.21,2,Credit Card,Produce
+39,"August 19, 2023",02:00:00,2130,Oatmeal,9.05,4,Debit Card,Cereal
+47,"July 27, 2023",13:00:00,2133,Cheese,6.82,4,Debit Card,Dairy
+78,"June 27, 2023",06:00:00,2134,Carrots,15.87,4,Credit Card,Produce
+153,"June 30, 2023",01:00:00,2137,Carrots,6.87,4,Credit Card,Produce
+4,"August 18, 2023",14:00:00,2140,Bananas,1.54,3,Cash,Produce
+101,"June 05, 2023",14:00:00,2141,Onions,12.43,4,Cash,Produce
+167,"July 09, 2023",11:00:00,2142,Chickpeas,7.44,1,Debit Card,Vegetarian
+178,"June 12, 2023",16:00:00,2144,Black Beans,7.61,2,Cash,Vegetarian
+55,"June 09, 2023",17:00:00,2147,Potatoes,12.91,3,Debit Card,Produce
+73,"June 24, 2023",10:00:00,2148,Milk,18.41,4,Credit Card,Dairy
+67,"June 15, 2023",13:00:00,2149,Tofu,16.45,2,Mobile Payment,Vegetarian
+55,"June 23, 2023",16:00:00,2154,Yogurt,9.32,2,Debit Card,Dairy
+6,"August 01, 2023",12:00:00,2155,Cheese,16.86,1,Mobile Payment,Dairy
+57,"July 20, 2023",16:00:00,2156,Potatoes,17.18,1,Credit Card,Produce
+5,"August 21, 2023",12:00:00,2161,Pasta,14.07,3,Credit Card,Grains
+106,"June 02, 2023",11:00:00,2163,Lettuce,18.18,1,Cash,Produce
+87,"August 13, 2023",16:00:00,2164,Cheese,2.45,4,Mobile Payment,Dairy
+64,"August 26, 2023",03:00:00,2166,Yogurt,19.96,2,Cash,Dairy
+2,"July 17, 2023",09:00:00,2168,Carrots,8.06,5,Debit Card,Produce
+11,"July 07, 2023",02:00:00,2169,Milk,5.69,4,Mobile Payment,Dairy
+106,"June 04, 2023",21:00:00,2170,Chicken,7.12,2,Credit Card,Meat
+55,"July 01, 2023",13:00:00,2171,Chicken,12.13,3,Mobile Payment,Meat
+119,"August 10, 2023",12:00:00,2173,Lettuce,14.46,1,Cash,Produce
+36,"July 02, 2023",18:00:00,2174,Apples,5.73,3,Cash,Produce
+37,"July 27, 2023",06:00:00,2177,Cheese,7.7,5,Mobile Payment,Dairy
+137,"July 14, 2023",06:00:00,2178,Yogurt,11.55,2,Debit Card,Dairy
+71,"June 15, 2023",02:00:00,2181,Bananas,8.7,5,Credit Card,Produce
+41,"July 22, 2023",00:00:00,2182,Butter,16.72,2,Cash,Dairy
+12,"August 12, 2023",10:00:00,2185,Black Beans,0.7,2,Debit Card,Vegetarian
+46,"July 30, 2023",01:00:00,2186,Lettuce,15.08,5,Credit Card,Produce
+97,"June 11, 2023",14:00:00,2187,Milk,17.53,3,Credit Card,Dairy
+8,"June 29, 2023",11:00:00,2188,Rice,1.93,2,Debit Card,Grains
+2,"July 06, 2023",09:00:00,2189,Onions,18.71,4,Credit Card,Produce
+143,"August 11, 2023",06:00:00,2190,Lettuce,15.24,4,Debit Card,Produce
+151,"July 03, 2023",17:00:00,2194,Onions,6.48,2,Debit Card,Produce
+35,"July 29, 2023",23:00:00,2195,Oatmeal,3.33,2,Mobile Payment,Cereal
+6,"August 31, 2023",04:00:00,2196,Butter,14.98,5,Mobile Payment,Dairy
+140,"July 02, 2023",04:00:00,2197,Potatoes,8.89,3,Debit Card,Produce
+20,"July 31, 2023",13:00:00,2199,Lettuce,16.8,3,Cash,Produce
+78,"August 26, 2023",12:00:00,2202,Tomatoes,17.67,2,Credit Card,Produce
+159,"August 12, 2023",17:00:00,2204,Tofu,10.59,4,Debit Card,Vegetarian
+36,"August 04, 2023",12:00:00,2210,Black Beans,9.46,1,Mobile Payment,Vegetarian
+27,"August 04, 2023",07:00:00,2213,Yogurt,7.25,1,Credit Card,Dairy
+166,"August 22, 2023",10:00:00,2214,Oranges,18.18,2,Cash,Produce
+143,"July 28, 2023",11:00:00,2215,Tofu,0.94,5,Mobile Payment,Vegetarian
+9,"August 06, 2023",01:00:00,2218,Oatmeal,2.39,5,Mobile Payment,Cereal
+167,"August 23, 2023",06:00:00,2219,Potatoes,8.85,1,Cash,Produce
+146,"June 18, 2023",18:00:00,2222,Beef,18.47,3,Mobile Payment,Meat
+44,"August 03, 2023",04:00:00,2223,Bananas,18.87,2,Credit Card,Produce
+141,"August 19, 2023",16:00:00,2226,Tomatoes,17.29,5,Credit Card,Produce
+51,"July 03, 2023",03:00:00,2227,Cornflakes,5.9,4,Mobile Payment,Cereal
+13,"August 23, 2023",00:00:00,2228,Yogurt,12.86,2,Cash,Dairy
+153,"August 20, 2023",02:00:00,2229,Chicken,5.26,3,Mobile Payment,Meat
+87,"August 03, 2023",07:00:00,2230,Onions,6.21,5,Credit Card,Produce
+58,"July 26, 2023",12:00:00,2231,Oatmeal,14.27,4,Credit Card,Cereal
+6,"August 13, 2023",04:00:00,2232,Onions,1.88,4,Cash,Produce
+134,"July 15, 2023",15:00:00,2233,Lettuce,19.34,4,Debit Card,Produce
+44,"August 09, 2023",11:00:00,2235,Bananas,10.26,2,Cash,Produce
+66,"June 10, 2023",21:00:00,2239,Chickpeas,8.02,2,Cash,Vegetarian
+161,"August 11, 2023",23:00:00,2244,Rice,13.55,5,Debit Card,Grains
+51,"July 05, 2023",06:00:00,2245,Onions,8.89,3,Debit Card,Produce
+171,"August 15, 2023",09:00:00,2253,Tomatoes,10.1,3,Mobile Payment,Produce
+36,"June 21, 2023",22:00:00,2254,Yogurt,0.93,3,Mobile Payment,Dairy
+89,"June 08, 2023",15:00:00,2255,Bread,10.41,1,Credit Card,Bakery
+29,"August 17, 2023",10:00:00,2257,Bread,5.27,3,Credit Card,Bakery
+175,"August 29, 2023",03:00:00,2258,Potatoes,18.8,5,Mobile Payment,Produce
+47,"August 25, 2023",02:00:00,2260,Black Beans,7.05,1,Mobile Payment,Vegetarian
+61,"August 19, 2023",19:00:00,2262,Black Beans,5.61,2,Debit Card,Vegetarian
+2,"August 01, 2023",06:00:00,2265,Yogurt,6.36,1,Mobile Payment,Dairy
+37,"August 10, 2023",02:00:00,2267,Bread,2.03,1,Credit Card,Bakery
+46,"June 18, 2023",22:00:00,2268,Yogurt,19.58,2,Cash,Dairy
+153,"June 18, 2023",18:00:00,2269,Bread,12.63,1,Credit Card,Bakery
+120,"August 10, 2023",18:00:00,2271,Black Beans,10.41,5,Credit Card,Vegetarian
+35,"August 28, 2023",17:00:00,2272,Beef,2.03,5,Cash,Meat
+137,"June 16, 2023",12:00:00,2274,Oatmeal,7.57,1,Mobile Payment,Cereal
+110,"July 27, 2023",06:00:00,2275,Eggs,2.71,1,Debit Card,Dairy
+153,"June 09, 2023",20:00:00,2276,Oatmeal,9.82,5,Credit Card,Cereal
+48,"August 07, 2023",04:00:00,2280,Oatmeal,12.57,2,Credit Card,Cereal
+152,"August 03, 2023",04:00:00,2282,Bananas,12.79,2,Credit Card,Produce
+41,"June 30, 2023",08:00:00,2283,Butter,7.52,3,Debit Card,Dairy
+161,"June 26, 2023",13:00:00,2285,Rice,17.78,5,Cash,Grains
+83,"August 02, 2023",16:00:00,2286,Butter,14.77,2,Credit Card,Dairy
+151,"July 18, 2023",20:00:00,2287,Rice,19.8,5,Credit Card,Grains
+135,"August 30, 2023",19:00:00,2289,Potatoes,9.2,2,Credit Card,Produce
+104,"August 18, 2023",17:00:00,2290,Coffee,1.39,5,Debit Card,Beverages
+5,"July 05, 2023",21:00:00,2296,Apples,11.43,2,Debit Card,Produce
+178,"August 02, 2023",13:00:00,2297,Chickpeas,19.68,1,Cash,Vegetarian
+166,"August 05, 2023",10:00:00,2301,Lettuce,2.58,2,Debit Card,Produce
+110,"August 13, 2023",16:00:00,2302,Lettuce,19.78,1,Credit Card,Produce
+95,"July 18, 2023",12:00:00,2305,Bananas,16.89,3,Debit Card,Produce
+118,"July 29, 2023",20:00:00,2307,Bananas,6.97,3,Debit Card,Produce
+88,"August 26, 2023",03:00:00,2315,Chickpeas,2.09,3,Debit Card,Vegetarian
+101,"August 18, 2023",23:00:00,2316,Tofu,5.45,4,Credit Card,Vegetarian
+66,"June 10, 2023",04:00:00,2318,Tomatoes,14.39,4,Mobile Payment,Produce
+150,"August 06, 2023",13:00:00,2322,Oatmeal,9.1,2,Mobile Payment,Cereal
+174,"August 30, 2023",00:00:00,2323,Black Beans,8.99,1,Credit Card,Vegetarian
+153,"August 12, 2023",11:00:00,2327,Cheese,13.13,3,Credit Card,Dairy
+36,"August 08, 2023",18:00:00,2331,Bananas,11.74,3,Cash,Produce
+67,"June 13, 2023",20:00:00,2332,Butter,14.99,2,Mobile Payment,Dairy
+67,"June 12, 2023",03:00:00,2334,Tofu,2.66,2,Credit Card,Vegetarian
+2,"August 01, 2023",06:00:00,2335,Oranges,17.19,5,Credit Card,Produce
+110,"July 27, 2023",08:00:00,2337,Butter,10.96,4,Mobile Payment,Dairy
+8,"July 26, 2023",08:00:00,2338,Coffee,1.08,5,Cash,Beverages
+126,"July 11, 2023",22:00:00,2339,Bread,18.71,2,Cash,Bakery
+167,"July 03, 2023",23:00:00,2340,Tomatoes,17.39,5,Mobile Payment,Produce
+104,"July 09, 2023",22:00:00,2341,Milk,10.7,3,Cash,Dairy
+12,"July 08, 2023",02:00:00,2342,Tofu,8.67,3,Cash,Vegetarian
+66,"August 27, 2023",00:00:00,2343,Tofu,5.92,5,Debit Card,Vegetarian
+3,"August 18, 2023",01:00:00,2344,Potatoes,12.4,3,Debit Card,Produce
+176,"June 02, 2023",04:00:00,2347,Lettuce,12.95,3,Cash,Produce
+47,"June 29, 2023",01:00:00,2350,Cheese,2.44,2,Debit Card,Dairy
+146,"June 17, 2023",06:00:00,2351,Coffee,8.79,3,Cash,Beverages
+135,"July 21, 2023",00:00:00,2352,Butter,5.32,4,Mobile Payment,Dairy
+88,"June 28, 2023",23:00:00,2355,Bread,9.48,3,Debit Card,Bakery
+152,"August 23, 2023",06:00:00,2357,Eggs,5.17,1,Mobile Payment,Dairy
+166,"July 31, 2023",07:00:00,2358,Pasta,16.32,2,Credit Card,Grains
+88,"July 27, 2023",01:00:00,2360,Milk,9.62,3,Cash,Dairy
+177,"July 13, 2023",02:00:00,2361,Oatmeal,17.03,1,Credit Card,Cereal
+89,"August 05, 2023",01:00:00,2366,Oatmeal,10.07,2,Credit Card,Cereal
+104,"August 07, 2023",19:00:00,2373,Tofu,6.26,4,Mobile Payment,Vegetarian
+83,"August 07, 2023",10:00:00,2374,Eggs,13.98,5,Cash,Dairy
+116,"July 03, 2023",22:00:00,2376,Potatoes,10.45,2,Cash,Produce
+49,"June 09, 2023",06:00:00,2379,Oranges,10.54,3,Credit Card,Produce
+6,"June 12, 2023",18:00:00,2380,Rice,11.22,2,Credit Card,Grains
+35,"August 04, 2023",08:00:00,2381,Tomatoes,19.59,5,Debit Card,Produce
+20,"June 24, 2023",21:00:00,2384,Pasta,17.33,5,Credit Card,Grains
+143,"August 14, 2023",02:00:00,2386,Coffee,4.05,5,Credit Card,Beverages
+99,"August 26, 2023",16:00:00,2387,Chickpeas,11.34,4,Mobile Payment,Vegetarian
+16,"July 19, 2023",00:00:00,2388,Beef,19.45,5,Debit Card,Meat
+73,"August 18, 2023",03:00:00,2391,Carrots,15.82,1,Mobile Payment,Produce
+6,"June 09, 2023",09:00:00,2392,Apples,11,2,Mobile Payment,Produce
+175,"August 05, 2023",01:00:00,2394,Rice,5.34,1,Mobile Payment,Grains
+110,"June 22, 2023",01:00:00,2397,Chicken,9.71,4,Mobile Payment,Meat
+102,"August 04, 2023",09:00:00,2398,Coffee,15.6,4,Mobile Payment,Beverages
+146,"July 21, 2023",06:00:00,2399,Tomatoes,16.43,5,Cash,Produce
+35,"August 23, 2023",15:00:00,2400,Pasta,14.05,1,Mobile Payment,Grains
+160,"July 09, 2023",10:00:00,2401,Onions,12.14,5,Debit Card,Produce
+47,"July 13, 2023",03:00:00,2402,Cornflakes,18.06,4,Credit Card,Cereal
+67,"June 19, 2023",06:00:00,2403,Milk,4.64,1,Mobile Payment,Dairy
+78,"July 24, 2023",05:00:00,2404,Onions,1,2,Debit Card,Produce
+6,"July 20, 2023",20:00:00,2405,Cornflakes,15.61,1,Credit Card,Cereal
+101,"August 23, 2023",16:00:00,2406,Onions,16.78,3,Mobile Payment,Produce
+153,"August 09, 2023",02:00:00,2407,Carrots,17.73,5,Mobile Payment,Produce
+104,"June 13, 2023",13:00:00,2408,Black Beans,2.25,4,Debit Card,Vegetarian
+44,"August 17, 2023",03:00:00,2409,Black Beans,15.23,1,Debit Card,Vegetarian
+37,"July 28, 2023",16:00:00,2410,Yogurt,4.74,4,Debit Card,Dairy
+71,"August 28, 2023",09:00:00,2411,Yogurt,4.22,1,Cash,Dairy
+2,"July 11, 2023",22:00:00,2412,Cheese,19.97,1,Credit Card,Dairy
+7,"July 27, 2023",17:00:00,2414,Eggs,13.54,1,Debit Card,Dairy
+47,"August 29, 2023",13:00:00,2415,Pasta,10.7,1,Cash,Grains
+161,"June 04, 2023",21:00:00,2417,Yogurt,14.69,5,Mobile Payment,Dairy
+139,"June 22, 2023",18:00:00,2419,Oranges,1.96,3,Credit Card,Produce
+99,"August 23, 2023",14:00:00,2420,Milk,16.36,4,Credit Card,Dairy
+67,"June 16, 2023",06:00:00,2421,Lettuce,1.98,1,Debit Card,Produce
+174,"August 04, 2023",02:00:00,2422,Black Beans,9.33,4,Debit Card,Vegetarian
+47,"June 04, 2023",09:00:00,2423,Bread,16.55,2,Mobile Payment,Bakery
+37,"July 25, 2023",06:00:00,2425,Onions,12.37,2,Mobile Payment,Produce
+103,"June 08, 2023",23:00:00,2426,Butter,17.24,3,Debit Card,Dairy
+152,"July 07, 2023",17:00:00,2430,Oatmeal,7.5,1,Debit Card,Cereal
+11,"August 28, 2023",13:00:00,2431,Cornflakes,8.71,3,Mobile Payment,Cereal
+174,"June 16, 2023",19:00:00,2433,Yogurt,17.02,5,Credit Card,Dairy
+110,"July 10, 2023",07:00:00,2434,Butter,7.2,1,Mobile Payment,Dairy
+44,"August 11, 2023",22:00:00,2436,Potatoes,11.28,3,Debit Card,Produce
+42,"June 27, 2023",23:00:00,2437,Butter,19.83,2,Mobile Payment,Dairy
+140,"July 19, 2023",07:00:00,2438,Bread,0.72,4,Mobile Payment,Bakery
+73,"August 22, 2023",17:00:00,2442,Bananas,4.76,3,Cash,Produce
+161,"August 23, 2023",17:00:00,2443,Lettuce,1.95,5,Mobile Payment,Produce
+24,"June 24, 2023",00:00:00,2444,Beef,4.51,3,Mobile Payment,Meat
+104,"June 07, 2023",18:00:00,2447,Chicken,19.19,5,Debit Card,Meat
+170,"July 31, 2023",13:00:00,2450,Beef,7.77,1,Cash,Meat
+170,"June 12, 2023",18:00:00,2451,Milk,15.05,2,Debit Card,Dairy
+67,"June 19, 2023",19:00:00,2453,Apples,10.23,3,Debit Card,Produce
+177,"June 04, 2023",10:00:00,2454,Chicken,9.17,1,Mobile Payment,Meat
+171,"August 28, 2023",19:00:00,2458,Onions,6.85,4,Mobile Payment,Produce
+177,"July 28, 2023",23:00:00,2461,Eggs,14.14,4,Mobile Payment,Dairy
+49,"August 21, 2023",20:00:00,2463,Bread,14.12,1,Debit Card,Bakery
+159,"July 16, 2023",04:00:00,2466,Lettuce,13.98,5,Mobile Payment,Produce
+171,"August 24, 2023",08:00:00,2468,Carrots,7.39,2,Credit Card,Produce
+67,"August 11, 2023",05:00:00,2470,Oranges,6.47,4,Mobile Payment,Produce
+34,"July 20, 2023",20:00:00,2471,Tofu,3.25,5,Credit Card,Vegetarian
+79,"June 20, 2023",06:00:00,2472,Cornflakes,1.71,5,Debit Card,Cereal
+16,"August 01, 2023",07:00:00,2473,Chickpeas,19.42,1,Cash,Vegetarian
+35,"August 19, 2023",05:00:00,2474,Tofu,19.86,2,Mobile Payment,Vegetarian
+175,"August 07, 2023",21:00:00,2475,Milk,5.04,1,Cash,Dairy
+176,"June 07, 2023",02:00:00,2477,Tofu,12.63,3,Debit Card,Vegetarian
+97,"July 27, 2023",01:00:00,2480,Cornflakes,2.39,1,Debit Card,Cereal
+106,"August 29, 2023",13:00:00,2481,Potatoes,11.58,2,Mobile Payment,Produce
+35,"July 23, 2023",09:00:00,2482,Butter,16.58,5,Credit Card,Dairy
+134,"June 07, 2023",04:00:00,2483,Cornflakes,15.43,2,Credit Card,Cereal
+141,"June 16, 2023",06:00:00,2486,Chickpeas,17.53,5,Cash,Vegetarian
+41,"July 03, 2023",10:00:00,2489,Carrots,15.08,5,Cash,Produce
+120,"June 16, 2023",07:00:00,2491,Pasta,1.91,2,Mobile Payment,Grains
+63,"June 30, 2023",09:00:00,2492,Black Beans,13.65,4,Debit Card,Vegetarian
+175,"July 02, 2023",21:00:00,2497,Cheese,2.24,2,Mobile Payment,Dairy
+171,"June 04, 2023",04:00:00,2501,Yogurt,12.8,1,Debit Card,Dairy
+13,"June 13, 2023",09:00:00,2502,Onions,12.28,4,Mobile Payment,Produce
+99,"June 18, 2023",14:00:00,2504,Chicken,17.43,2,Cash,Meat
+106,"August 07, 2023",21:00:00,2505,Black Beans,16.94,4,Debit Card,Vegetarian
+84,"August 17, 2023",05:00:00,2506,Carrots,17.5,5,Credit Card,Produce
+87,"June 03, 2023",12:00:00,2507,Black Beans,11.39,1,Credit Card,Vegetarian
+159,"August 27, 2023",13:00:00,2508,Pasta,9.4,4,Debit Card,Grains
+57,"July 10, 2023",10:00:00,2512,Chickpeas,7.64,3,Mobile Payment,Vegetarian
+167,"August 12, 2023",14:00:00,2514,Tofu,10.95,2,Mobile Payment,Vegetarian
+103,"July 01, 2023",23:00:00,2519,Potatoes,11.03,3,Credit Card,Produce
+55,"August 07, 2023",12:00:00,2522,Onions,8.62,2,Credit Card,Produce
+73,"July 01, 2023",21:00:00,2523,Potatoes,8.52,5,Credit Card,Produce
+67,"June 30, 2023",23:00:00,2525,Chicken,15.4,5,Debit Card,Meat
+5,"August 11, 2023",17:00:00,2526,Potatoes,19.24,2,Debit Card,Produce
+3,"June 15, 2023",18:00:00,2528,Bananas,18.41,4,Credit Card,Produce
+103,"June 12, 2023",05:00:00,2529,Butter,13.37,3,Credit Card,Dairy
+176,"June 15, 2023",04:00:00,2530,Butter,19.45,1,Credit Card,Dairy
+171,"August 15, 2023",00:00:00,2534,Rice,6.25,2,Debit Card,Grains
+176,"July 13, 2023",19:00:00,2537,Lettuce,10.09,4,Debit Card,Produce
+132,"August 11, 2023",13:00:00,2539,Potatoes,6.01,3,Debit Card,Produce
+36,"June 18, 2023",02:00:00,2540,Chickpeas,10.01,3,Debit Card,Vegetarian
+146,"July 26, 2023",08:00:00,2545,Tomatoes,7.66,1,Mobile Payment,Produce
+110,"July 07, 2023",14:00:00,2546,Pasta,18.37,4,Mobile Payment,Grains
+170,"July 24, 2023",08:00:00,2548,Carrots,7.07,3,Credit Card,Produce
+146,"June 15, 2023",08:00:00,2550,Bread,11.13,5,Debit Card,Bakery
+178,"July 11, 2023",06:00:00,2551,Chicken,6.68,2,Credit Card,Meat
+170,"June 03, 2023",20:00:00,2553,Bread,7.4,3,Debit Card,Bakery
+29,"August 21, 2023",15:00:00,2554,Yogurt,8.14,4,Mobile Payment,Dairy
+88,"August 12, 2023",09:00:00,2561,Apples,12.46,3,Mobile Payment,Produce
+36,"August 11, 2023",22:00:00,2565,Tofu,8.74,2,Cash,Vegetarian
+36,"July 21, 2023",17:00:00,2569,Rice,15.94,4,Credit Card,Grains
+176,"August 10, 2023",15:00:00,2570,Chickpeas,1.01,2,Credit Card,Vegetarian
+126,"August 18, 2023",00:00:00,2574,Oranges,10.62,5,Mobile Payment,Produce
+12,"August 06, 2023",17:00:00,2577,Apples,7.58,1,Cash,Produce
+87,"August 10, 2023",02:00:00,2578,Beef,17.25,2,Debit Card,Meat
+168,"July 02, 2023",22:00:00,2581,Coffee,13.35,2,Debit Card,Beverages
+24,"June 07, 2023",00:00:00,2582,Apples,14.4,2,Mobile Payment,Produce
+8,"July 29, 2023",07:00:00,2583,Potatoes,7.92,3,Mobile Payment,Produce
+7,"August 06, 2023",17:00:00,2585,Tofu,2.96,5,Mobile Payment,Vegetarian
+55,"July 21, 2023",18:00:00,2589,Eggs,19.37,4,Cash,Dairy
+20,"August 26, 2023",03:00:00,2592,Onions,11.09,1,Cash,Produce
+153,"August 28, 2023",15:00:00,2596,Potatoes,3.33,5,Credit Card,Produce
+97,"June 06, 2023",07:00:00,2597,Butter,5.75,2,Credit Card,Dairy
+73,"July 08, 2023",15:00:00,2598,Milk,14.62,2,Credit Card,Dairy
+49,"June 16, 2023",03:00:00,2599,Onions,17.1,3,Cash,Produce
+39,"June 12, 2023",15:00:00,2600,Coffee,2.84,1,Mobile Payment,Beverages
+55,"June 19, 2023",16:00:00,2602,Bananas,18.36,1,Cash,Produce
+95,"July 23, 2023",07:00:00,2603,Tofu,18.86,5,Cash,Vegetarian
+34,"June 02, 2023",18:00:00,2604,Chicken,12.81,4,Debit Card,Meat
+36,"August 16, 2023",07:00:00,2606,Cornflakes,16.45,1,Debit Card,Cereal
+84,"August 02, 2023",04:00:00,2611,Coffee,17.45,1,Credit Card,Beverages
+160,"August 27, 2023",01:00:00,2612,Milk,6.8,3,Cash,Dairy
+66,"August 06, 2023",18:00:00,2613,Tofu,17.46,5,Credit Card,Vegetarian
+125,"August 25, 2023",05:00:00,2615,Yogurt,14.84,4,Debit Card,Dairy
+174,"August 09, 2023",11:00:00,2619,Onions,6.11,3,Debit Card,Produce
+12,"August 13, 2023",04:00:00,2621,Chicken,11.67,1,Cash,Meat
+55,"June 27, 2023",14:00:00,2623,Bananas,8.03,2,Debit Card,Produce
+6,"July 16, 2023",15:00:00,2624,Apples,16.28,5,Debit Card,Produce
+171,"June 16, 2023",00:00:00,2625,Black Beans,16.41,4,Mobile Payment,Vegetarian
+161,"June 01, 2023",18:00:00,2626,Black Beans,3.39,3,Debit Card,Vegetarian
+29,"July 28, 2023",14:00:00,2628,Onions,2.75,4,Debit Card,Produce
+9,"July 16, 2023",09:00:00,2631,Tomatoes,16.66,4,Debit Card,Produce
+79,"August 01, 2023",06:00:00,2635,Coffee,8.13,5,Cash,Beverages
+161,"August 09, 2023",18:00:00,2639,Bread,14.71,1,Debit Card,Bakery
+174,"June 04, 2023",03:00:00,2640,Bread,3.43,3,Mobile Payment,Bakery
+83,"July 02, 2023",07:00:00,2642,Oatmeal,18.75,1,Cash,Cereal
+161,"July 28, 2023",01:00:00,2645,Beef,10.65,3,Mobile Payment,Meat
+171,"August 07, 2023",08:00:00,2646,Oranges,4.53,4,Cash,Produce
+99,"July 20, 2023",04:00:00,2648,Bananas,9.83,3,Debit Card,Produce
+120,"August 04, 2023",06:00:00,2649,Carrots,12.64,2,Mobile Payment,Produce
+137,"July 05, 2023",16:00:00,2650,Chicken,6.56,2,Credit Card,Meat
+146,"July 21, 2023",15:00:00,2651,Coffee,18.84,5,Mobile Payment,Beverages
+13,"August 26, 2023",06:00:00,2658,Carrots,5,1,Mobile Payment,Produce
+143,"August 02, 2023",15:00:00,2660,Oatmeal,5.72,2,Mobile Payment,Cereal
+64,"August 22, 2023",12:00:00,2667,Milk,17.51,3,Debit Card,Dairy
+126,"June 01, 2023",21:00:00,2669,Oranges,13.78,4,Credit Card,Produce
+120,"July 18, 2023",14:00:00,2674,Onions,4.95,2,Credit Card,Produce
+178,"June 26, 2023",21:00:00,2679,Chicken,11.1,3,Debit Card,Meat
+150,"July 24, 2023",15:00:00,2680,Chickpeas,7.11,4,Mobile Payment,Vegetarian
+125,"July 01, 2023",21:00:00,2681,Eggs,1.56,4,Cash,Dairy
+2,"July 25, 2023",06:00:00,2683,Carrots,14.41,1,Mobile Payment,Produce
+115,"August 18, 2023",08:00:00,2686,Bananas,5.44,4,Mobile Payment,Produce
+61,"August 28, 2023",09:00:00,2687,Milk,11.76,1,Debit Card,Dairy
+13,"June 17, 2023",13:00:00,2690,Tomatoes,9.88,5,Mobile Payment,Produce
+151,"August 18, 2023",23:00:00,2691,Eggs,4.65,5,Cash,Dairy
+177,"June 13, 2023",12:00:00,2692,Potatoes,8.32,5,Mobile Payment,Produce
+95,"August 30, 2023",00:00:00,2698,Rice,19.72,5,Cash,Grains
+118,"August 06, 2023",22:00:00,2699,Coffee,19.3,4,Cash,Beverages
+89,"August 24, 2023",11:00:00,2700,Tomatoes,4.03,3,Cash,Produce
+78,"August 24, 2023",16:00:00,2703,Carrots,17.14,1,Cash,Produce
+161,"July 11, 2023",03:00:00,2704,Eggs,9.46,5,Credit Card,Dairy
+177,"June 28, 2023",17:00:00,2705,Oatmeal,18.61,4,Cash,Cereal
+137,"July 04, 2023",00:00:00,2707,Yogurt,16.38,2,Cash,Dairy
+126,"June 30, 2023",17:00:00,2708,Oranges,10.15,1,Mobile Payment,Produce
+89,"June 13, 2023",02:00:00,2709,Potatoes,2.15,4,Mobile Payment,Produce
+126,"July 11, 2023",05:00:00,2712,Chickpeas,12.32,3,Debit Card,Vegetarian
+35,"August 09, 2023",10:00:00,2714,Bananas,11.06,1,Cash,Produce
+166,"July 16, 2023",17:00:00,2717,Potatoes,17.85,4,Cash,Produce
+116,"August 21, 2023",08:00:00,2719,Yogurt,15.28,1,Credit Card,Dairy
+125,"August 11, 2023",08:00:00,2721,Yogurt,11.08,3,Mobile Payment,Dairy
+104,"July 21, 2023",08:00:00,2723,Apples,6.97,3,Mobile Payment,Produce
+152,"June 10, 2023",23:00:00,2725,Bananas,12,2,Credit Card,Produce
+11,"July 13, 2023",00:00:00,2729,Potatoes,8.35,3,Credit Card,Produce
+116,"August 12, 2023",07:00:00,2731,Potatoes,2.75,5,Cash,Produce
+47,"July 12, 2023",16:00:00,2732,Coffee,19.98,4,Credit Card,Beverages
+8,"August 23, 2023",15:00:00,2734,Yogurt,16.95,1,Credit Card,Dairy
+39,"June 24, 2023",23:00:00,2739,Oranges,8.43,1,Debit Card,Produce
+84,"August 07, 2023",10:00:00,2741,Beef,19.61,5,Mobile Payment,Meat
+5,"June 29, 2023",14:00:00,2743,Tomatoes,6.38,1,Mobile Payment,Produce
+101,"June 13, 2023",16:00:00,2745,Eggs,17.37,2,Debit Card,Dairy
+73,"June 15, 2023",06:00:00,2746,Apples,15.24,4,Debit Card,Produce
+89,"July 27, 2023",11:00:00,2747,Rice,19.41,5,Cash,Grains
+110,"June 07, 2023",04:00:00,2748,Onions,15.68,3,Cash,Produce
+39,"June 20, 2023",02:00:00,2750,Onions,17.28,4,Cash,Produce
+101,"July 27, 2023",18:00:00,2752,Lettuce,6.16,5,Cash,Produce
+4,"August 24, 2023",06:00:00,2753,Black Beans,17.56,4,Mobile Payment,Vegetarian
+47,"August 28, 2023",10:00:00,2755,Rice,2.35,1,Mobile Payment,Grains
+64,"June 29, 2023",01:00:00,2756,Bananas,13.52,3,Debit Card,Produce
+51,"July 05, 2023",07:00:00,2757,Oranges,2.1,2,Cash,Produce
+11,"August 20, 2023",20:00:00,2758,Eggs,4.33,5,Cash,Dairy
+34,"August 23, 2023",04:00:00,2759,Pasta,13.45,5,Cash,Grains
+110,"June 24, 2023",06:00:00,2760,Butter,8.52,3,Debit Card,Dairy
+86,"August 03, 2023",13:00:00,2761,Eggs,3.03,5,Mobile Payment,Dairy
+104,"July 13, 2023",18:00:00,2763,Oranges,9.39,2,Cash,Produce
+87,"June 28, 2023",07:00:00,2765,Apples,14.21,3,Mobile Payment,Produce
+103,"August 01, 2023",03:00:00,2766,Eggs,19.84,5,Credit Card,Dairy
+125,"July 24, 2023",08:00:00,2767,Coffee,4.61,1,Mobile Payment,Beverages
+146,"August 02, 2023",13:00:00,2768,Oatmeal,12.5,1,Cash,Cereal
+3,"June 25, 2023",07:00:00,2769,Cheese,14.95,1,Credit Card,Dairy
+143,"July 08, 2023",11:00:00,2770,Tofu,9.05,1,Mobile Payment,Vegetarian
+83,"August 11, 2023",23:00:00,2775,Coffee,14.45,1,Cash,Beverages
+71,"July 26, 2023",09:00:00,2779,Onions,3.59,2,Debit Card,Produce
+79,"June 22, 2023",21:00:00,2780,Black Beans,6.12,5,Mobile Payment,Vegetarian
+139,"June 16, 2023",09:00:00,2788,Oatmeal,14,4,Cash,Cereal
+16,"July 19, 2023",23:00:00,2790,Chicken,2.01,3,Mobile Payment,Meat
+12,"August 15, 2023",20:00:00,2791,Oatmeal,19.86,2,Credit Card,Cereal
+151,"July 08, 2023",19:00:00,2795,Potatoes,2.35,3,Credit Card,Produce
+176,"June 08, 2023",11:00:00,2796,Pasta,13.33,5,Credit Card,Grains
+178,"August 11, 2023",21:00:00,2797,Yogurt,13.37,2,Debit Card,Dairy
+141,"August 09, 2023",21:00:00,2798,Cornflakes,11.86,5,Mobile Payment,Cereal
+168,"July 01, 2023",06:00:00,2804,Pasta,10.59,5,Debit Card,Grains
+36,"August 31, 2023",03:00:00,2805,Eggs,15.82,1,Mobile Payment,Dairy
+12,"August 17, 2023",12:00:00,2808,Carrots,7.23,2,Debit Card,Produce
+99,"June 19, 2023",13:00:00,2809,Beef,19.58,4,Debit Card,Meat
+9,"August 08, 2023",07:00:00,2810,Chicken,16,2,Mobile Payment,Meat
+143,"June 28, 2023",22:00:00,2811,Tomatoes,18.23,1,Debit Card,Produce
+79,"August 08, 2023",16:00:00,2813,Onions,8.99,4,Debit Card,Produce
+11,"August 25, 2023",03:00:00,2814,Bananas,6.88,3,Debit Card,Produce
+140,"August 11, 2023",03:00:00,2815,Apples,18.51,5,Credit Card,Produce
+161,"July 27, 2023",12:00:00,2816,Bananas,17.91,5,Credit Card,Produce
+170,"August 10, 2023",02:00:00,2818,Oranges,4.37,1,Mobile Payment,Produce
+47,"June 30, 2023",23:00:00,2821,Pasta,5.23,3,Mobile Payment,Grains
+171,"August 04, 2023",00:00:00,2823,Apples,8.76,2,Mobile Payment,Produce
+126,"August 28, 2023",02:00:00,2825,Chicken,7.94,1,Credit Card,Meat
+13,"July 18, 2023",20:00:00,2826,Black Beans,5.32,5,Credit Card,Vegetarian
+174,"June 27, 2023",08:00:00,2828,Oatmeal,0.59,2,Debit Card,Cereal
+37,"August 04, 2023",16:00:00,2829,Eggs,9.69,3,Debit Card,Dairy
+175,"July 25, 2023",22:00:00,2830,Rice,9.91,2,Debit Card,Grains
+39,"July 25, 2023",05:00:00,2831,Oranges,9.24,1,Cash,Produce
+116,"June 20, 2023",18:00:00,2836,Chickpeas,6.46,2,Cash,Vegetarian
+67,"July 31, 2023",03:00:00,2839,Cornflakes,14.73,2,Debit Card,Cereal
+152,"July 13, 2023",08:00:00,2841,Pasta,4.37,1,Cash,Grains
+44,"July 20, 2023",01:00:00,2842,Cornflakes,9.61,1,Cash,Cereal
+27,"August 22, 2023",13:00:00,2846,Eggs,17.85,4,Credit Card,Dairy
+16,"August 09, 2023",07:00:00,2847,Lettuce,5.89,5,Debit Card,Produce
+126,"June 07, 2023",06:00:00,2850,Milk,8.32,2,Cash,Dairy
+119,"June 28, 2023",04:00:00,2851,Bread,17.69,1,Credit Card,Bakery
+9,"July 17, 2023",02:00:00,2852,Beef,2.38,1,Credit Card,Meat
+63,"June 15, 2023",00:00:00,2853,Onions,10.49,3,Cash,Produce
+134,"June 11, 2023",07:00:00,2854,Eggs,8.67,5,Mobile Payment,Dairy
+35,"July 17, 2023",02:00:00,2855,Beef,18.11,5,Cash,Meat
+141,"June 06, 2023",18:00:00,2857,Butter,1.93,3,Mobile Payment,Dairy
+146,"June 07, 2023",14:00:00,2858,Black Beans,0.55,3,Mobile Payment,Vegetarian
+44,"July 09, 2023",01:00:00,2859,Beef,13.87,2,Mobile Payment,Meat
+95,"June 18, 2023",20:00:00,2861,Bananas,13.1,3,Credit Card,Produce
+9,"June 15, 2023",00:00:00,2862,Yogurt,16.05,1,Mobile Payment,Dairy
+97,"August 25, 2023",04:00:00,2864,Oranges,2.75,5,Mobile Payment,Produce
+176,"June 12, 2023",16:00:00,2867,Beef,15.5,5,Debit Card,Meat
+44,"August 29, 2023",02:00:00,2872,Chickpeas,4.43,4,Cash,Vegetarian
+16,"June 22, 2023",02:00:00,2875,Onions,7.89,4,Mobile Payment,Produce
+78,"August 10, 2023",08:00:00,2876,Yogurt,13.59,5,Mobile Payment,Dairy
+126,"July 22, 2023",22:00:00,2877,Onions,8.65,2,Credit Card,Produce
+171,"July 22, 2023",01:00:00,2878,Eggs,2.55,2,Cash,Dairy
+37,"August 30, 2023",15:00:00,2882,Beef,5.81,1,Credit Card,Meat
+34,"June 06, 2023",00:00:00,2886,Oranges,15.14,4,Debit Card,Produce
+8,"August 04, 2023",21:00:00,2887,Butter,11.46,5,Credit Card,Dairy
+41,"August 20, 2023",01:00:00,2890,Tofu,14.48,2,Debit Card,Vegetarian
+170,"June 04, 2023",17:00:00,2894,Black Beans,2.21,4,Credit Card,Vegetarian
+7,"June 17, 2023",04:00:00,2895,Tomatoes,11.26,2,Credit Card,Produce
+167,"August 15, 2023",21:00:00,2898,Eggs,17.61,3,Mobile Payment,Dairy
+168,"August 12, 2023",14:00:00,2901,Potatoes,5.28,5,Cash,Produce
+34,"July 07, 2023",20:00:00,2902,Apples,2.84,1,Credit Card,Produce
+159,"August 18, 2023",17:00:00,2903,Pasta,2.53,1,Debit Card,Grains
+161,"July 21, 2023",08:00:00,2904,Butter,7.89,3,Cash,Dairy
+115,"July 27, 2023",19:00:00,2909,Potatoes,11.31,3,Credit Card,Produce
+73,"August 29, 2023",12:00:00,2910,Milk,12.51,5,Debit Card,Dairy
+116,"July 22, 2023",03:00:00,2911,Yogurt,18.91,1,Cash,Dairy
+140,"June 25, 2023",03:00:00,2913,Onions,15.48,2,Debit Card,Produce
+84,"June 02, 2023",10:00:00,2914,Milk,4.19,4,Credit Card,Dairy
+79,"July 14, 2023",14:00:00,2915,Black Beans,11.73,5,Credit Card,Vegetarian
+156,"June 16, 2023",00:00:00,2916,Cornflakes,14.5,5,Debit Card,Cereal
+58,"June 07, 2023",23:00:00,2917,Onions,6.94,2,Cash,Produce
+118,"June 28, 2023",23:00:00,2923,Apples,17.94,3,Mobile Payment,Produce
+160,"August 08, 2023",02:00:00,2924,Chickpeas,16.07,4,Mobile Payment,Vegetarian
+110,"July 15, 2023",23:00:00,2926,Apples,0.92,3,Cash,Produce
+27,"July 14, 2023",22:00:00,2927,Potatoes,11.06,5,Mobile Payment,Produce
+35,"August 18, 2023",21:00:00,2929,Tofu,1.43,3,Debit Card,Vegetarian
+73,"June 09, 2023",19:00:00,2930,Butter,15.59,2,Credit Card,Dairy
+139,"August 22, 2023",22:00:00,2931,Onions,13.95,2,Cash,Produce
+120,"August 01, 2023",04:00:00,2933,Carrots,4.07,2,Mobile Payment,Produce
+48,"August 23, 2023",15:00:00,2941,Black Beans,14.59,1,Credit Card,Vegetarian
+2,"June 05, 2023",09:00:00,2942,Beef,9.95,3,Cash,Meat
+174,"August 07, 2023",02:00:00,2944,Black Beans,4.27,4,Debit Card,Vegetarian
+171,"July 03, 2023",07:00:00,2946,Milk,10.34,4,Cash,Dairy
+57,"July 03, 2023",20:00:00,2947,Black Beans,19.16,5,Debit Card,Vegetarian
+11,"June 29, 2023",17:00:00,2949,Cornflakes,4.52,3,Credit Card,Cereal
+63,"August 21, 2023",12:00:00,2952,Oranges,16.04,3,Mobile Payment,Produce
+49,"August 01, 2023",23:00:00,2954,Oatmeal,13.64,5,Cash,Cereal
+55,"August 17, 2023",05:00:00,2955,Bread,5.03,5,Credit Card,Bakery
+5,"August 11, 2023",23:00:00,2957,Beef,2.02,2,Mobile Payment,Meat
+106,"August 14, 2023",20:00:00,2958,Cornflakes,10.74,3,Debit Card,Cereal
+143,"August 16, 2023",07:00:00,2959,Butter,2.65,5,Cash,Dairy
+83,"July 13, 2023",08:00:00,2960,Bread,9.47,5,Credit Card,Bakery
+143,"August 27, 2023",06:00:00,2962,Potatoes,3.91,1,Credit Card,Produce
+79,"August 03, 2023",19:00:00,2964,Chicken,16.28,5,Debit Card,Meat
+34,"July 03, 2023",05:00:00,2966,Tofu,15.78,2,Mobile Payment,Vegetarian
+63,"July 08, 2023",18:00:00,2969,Carrots,15.75,5,Credit Card,Produce
+166,"July 09, 2023",16:00:00,2972,Onions,7.97,2,Debit Card,Produce
+118,"August 02, 2023",09:00:00,2975,Rice,10.28,2,Debit Card,Grains
+170,"June 21, 2023",15:00:00,2978,Coffee,10.33,4,Cash,Beverages
+99,"July 13, 2023",15:00:00,2979,Bread,16.88,5,Cash,Bakery
+46,"August 13, 2023",12:00:00,2980,Eggs,12.34,3,Credit Card,Dairy
+86,"June 09, 2023",06:00:00,2981,Pasta,17.3,1,Cash,Grains
+46,"June 10, 2023",05:00:00,2983,Oatmeal,8.78,1,Credit Card,Cereal
+5,"June 12, 2023",13:00:00,2984,Black Beans,11.71,4,Debit Card,Vegetarian
+140,"June 04, 2023",03:00:00,2985,Tofu,13.04,1,Credit Card,Vegetarian
+89,"June 19, 2023",22:00:00,2986,Tofu,9.79,2,Mobile Payment,Vegetarian
+78,"August 05, 2023",00:00:00,2987,Black Beans,4.93,1,Mobile Payment,Vegetarian
+73,"August 24, 2023",07:00:00,2989,Bananas,14.35,1,Debit Card,Produce
+67,"August 11, 2023",15:00:00,2993,Cornflakes,19.53,3,Mobile Payment,Cereal
+132,"July 11, 2023",21:00:00,2996,Chicken,2.39,2,Cash,Meat
+67,"July 04, 2023",05:00:00,2997,Butter,8.22,5,Cash,Dairy
+139,"August 01, 2023",07:00:00,2998,Yogurt,5.71,1,Debit Card,Dairy
+88,"July 07, 2023",19:00:00,3000,Lettuce,18.22,3,Mobile Payment,Produce
+119,"August 10, 2023",02:00:00,3001,Chickpeas,8.3,1,Mobile Payment,Vegetarian
+95,"August 09, 2023",02:00:00,3002,Bread,12.94,5,Cash,Bakery
+152,"August 27, 2023",01:00:00,3003,Chickpeas,4.63,4,Cash,Vegetarian
+167,"June 26, 2023",11:00:00,3006,Coffee,5.74,4,Cash,Beverages
+11,"July 17, 2023",10:00:00,3007,Tofu,1.6,5,Mobile Payment,Vegetarian
+71,"August 17, 2023",13:00:00,3009,Tomatoes,9.59,3,Mobile Payment,Produce
+7,"June 03, 2023",18:00:00,3012,Tomatoes,2.27,4,Mobile Payment,Produce
+119,"June 13, 2023",19:00:00,3013,Bananas,1.61,4,Mobile Payment,Produce
+39,"August 22, 2023",06:00:00,3016,Tomatoes,15.47,5,Cash,Produce
+27,"August 22, 2023",12:00:00,3017,Butter,2.49,2,Debit Card,Dairy
+176,"July 15, 2023",00:00:00,3023,Oranges,18.59,1,Mobile Payment,Produce
+66,"July 24, 2023",16:00:00,3025,Oatmeal,3.29,1,Mobile Payment,Cereal
+86,"June 04, 2023",00:00:00,3028,Bananas,14.33,5,Credit Card,Produce
+126,"August 04, 2023",02:00:00,3030,Tomatoes,17.69,3,Debit Card,Produce
+159,"July 16, 2023",07:00:00,3032,Yogurt,3.75,2,Cash,Dairy
+12,"August 04, 2023",21:00:00,3033,Oatmeal,17.1,5,Cash,Cereal
+39,"July 24, 2023",21:00:00,3034,Milk,1.17,2,Debit Card,Dairy
+84,"July 08, 2023",13:00:00,3035,Milk,12.65,1,Debit Card,Dairy
+97,"July 06, 2023",23:00:00,3036,Coffee,16.72,4,Credit Card,Beverages
+160,"August 18, 2023",22:00:00,3037,Oatmeal,8.84,4,Credit Card,Cereal
+135,"June 15, 2023",02:00:00,3038,Black Beans,1.28,3,Debit Card,Vegetarian
+83,"August 12, 2023",12:00:00,3039,Butter,13.87,4,Credit Card,Dairy
+97,"June 27, 2023",12:00:00,3041,Apples,0.88,2,Debit Card,Produce
+39,"August 21, 2023",02:00:00,3045,Lettuce,6.28,2,Cash,Produce
+174,"June 10, 2023",04:00:00,3049,Tomatoes,3.95,2,Credit Card,Produce
+116,"July 28, 2023",18:00:00,3050,Beef,13.35,3,Credit Card,Meat
+152,"August 15, 2023",14:00:00,3051,Lettuce,11.32,5,Credit Card,Produce
+104,"August 10, 2023",23:00:00,3055,Lettuce,3.67,3,Cash,Produce
+126,"June 11, 2023",03:00:00,3056,Cheese,3.78,4,Mobile Payment,Dairy
+132,"July 28, 2023",01:00:00,3059,Chickpeas,14.4,3,Mobile Payment,Vegetarian
+159,"August 08, 2023",01:00:00,3060,Tomatoes,15,4,Cash,Produce
+58,"July 21, 2023",21:00:00,3061,Bananas,13.19,1,Mobile Payment,Produce
+29,"July 04, 2023",16:00:00,3063,Tomatoes,12.82,3,Mobile Payment,Produce
+146,"July 03, 2023",04:00:00,3066,Onions,4.46,4,Mobile Payment,Produce
+161,"July 27, 2023",12:00:00,3072,Oranges,18.46,5,Debit Card,Produce
+168,"June 26, 2023",08:00:00,3073,Rice,4.96,4,Mobile Payment,Grains
+63,"July 13, 2023",23:00:00,3076,Potatoes,9.17,2,Debit Card,Produce
+153,"August 23, 2023",08:00:00,3079,Oranges,15.45,3,Credit Card,Produce
+115,"August 25, 2023",22:00:00,3080,Chickpeas,3.79,5,Mobile Payment,Vegetarian
+48,"June 16, 2023",09:00:00,3084,Carrots,2.29,2,Cash,Produce
+97,"August 14, 2023",18:00:00,3085,Oranges,12.65,4,Credit Card,Produce
+171,"June 29, 2023",21:00:00,3086,Tomatoes,3,5,Cash,Produce
+178,"June 04, 2023",13:00:00,3088,Milk,1.28,5,Debit Card,Dairy
+161,"June 21, 2023",17:00:00,3089,Cheese,5.41,1,Mobile Payment,Dairy
+48,"July 07, 2023",00:00:00,3091,Potatoes,11.79,2,Cash,Produce
+146,"August 09, 2023",04:00:00,3093,Black Beans,15.98,3,Cash,Vegetarian
+55,"August 20, 2023",01:00:00,3094,Cheese,8.7,4,Cash,Dairy
+34,"August 28, 2023",19:00:00,3098,Oranges,11.5,1,Mobile Payment,Produce
+178,"August 05, 2023",10:00:00,3099,Chickpeas,14.09,3,Mobile Payment,Vegetarian
+104,"August 30, 2023",07:00:00,3104,Oatmeal,4.03,2,Mobile Payment,Cereal
+152,"August 01, 2023",14:00:00,3105,Carrots,12.8,3,Debit Card,Produce
+64,"July 01, 2023",06:00:00,3106,Carrots,10.12,2,Mobile Payment,Produce
+134,"July 03, 2023",12:00:00,3107,Lettuce,17.22,3,Debit Card,Produce
+84,"July 18, 2023",06:00:00,3108,Chickpeas,11.57,3,Credit Card,Vegetarian
+57,"July 01, 2023",00:00:00,3110,Milk,17.13,5,Cash,Dairy
+118,"July 17, 2023",07:00:00,3112,Oatmeal,6.15,5,Cash,Cereal
+118,"July 28, 2023",12:00:00,3115,Apples,11.11,5,Mobile Payment,Produce
+168,"August 30, 2023",11:00:00,3116,Milk,11.86,4,Mobile Payment,Dairy
+153,"July 31, 2023",21:00:00,3119,Lettuce,6.86,1,Mobile Payment,Produce
+42,"August 01, 2023",13:00:00,3120,Pasta,13.83,1,Mobile Payment,Grains
+150,"July 19, 2023",03:00:00,3121,Apples,12.67,5,Debit Card,Produce
+5,"June 20, 2023",12:00:00,3123,Onions,5.29,3,Cash,Produce
+13,"August 08, 2023",13:00:00,3125,Tomatoes,6.26,4,Credit Card,Produce
+41,"August 02, 2023",13:00:00,3126,Onions,18.34,3,Mobile Payment,Produce
+7,"June 28, 2023",05:00:00,3127,Cheese,6.57,1,Credit Card,Dairy
+63,"June 06, 2023",18:00:00,3131,Bananas,11.5,3,Mobile Payment,Produce
+99,"July 20, 2023",10:00:00,3132,Black Beans,18.56,1,Cash,Vegetarian
+51,"July 14, 2023",05:00:00,3133,Carrots,10.02,1,Credit Card,Produce
+71,"July 07, 2023",09:00:00,3134,Potatoes,8.64,2,Mobile Payment,Produce
+118,"June 28, 2023",23:00:00,3139,Oatmeal,16.21,1,Cash,Cereal
+29,"July 25, 2023",03:00:00,3141,Carrots,12.59,2,Mobile Payment,Produce
+16,"July 18, 2023",15:00:00,3143,Bread,5.65,4,Credit Card,Bakery
+160,"August 20, 2023",20:00:00,3144,Black Beans,7.67,3,Credit Card,Vegetarian
+24,"August 15, 2023",18:00:00,3145,Bread,17.33,3,Debit Card,Bakery
+102,"June 06, 2023",18:00:00,3146,Pasta,7.36,4,Cash,Grains
+79,"August 08, 2023",20:00:00,3148,Bread,10.76,4,Mobile Payment,Bakery
+51,"August 05, 2023",10:00:00,3150,Eggs,15.24,3,Credit Card,Dairy
+132,"July 13, 2023",08:00:00,3151,Milk,16.88,1,Mobile Payment,Dairy
+55,"August 23, 2023",10:00:00,3152,Rice,10.2,3,Credit Card,Grains
+67,"June 09, 2023",10:00:00,3155,Lettuce,10,4,Cash,Produce
+79,"August 26, 2023",06:00:00,3156,Apples,10.06,3,Debit Card,Produce
+152,"July 12, 2023",20:00:00,3157,Black Beans,19.74,1,Debit Card,Vegetarian
+167,"July 06, 2023",11:00:00,3159,Bananas,4.44,1,Mobile Payment,Produce
+97,"August 09, 2023",14:00:00,3162,Black Beans,9.69,4,Debit Card,Vegetarian
+106,"July 26, 2023",14:00:00,3164,Carrots,1.14,3,Cash,Produce
+102,"August 05, 2023",19:00:00,3166,Lettuce,9.29,2,Mobile Payment,Produce
+41,"August 11, 2023",00:00:00,3167,Tomatoes,8.95,1,Debit Card,Produce
+41,"July 15, 2023",01:00:00,3171,Rice,17.6,1,Credit Card,Grains
+55,"July 27, 2023",02:00:00,3172,Lettuce,6.12,4,Credit Card,Produce
+7,"August 02, 2023",13:00:00,3173,Pasta,2.21,2,Cash,Grains
+177,"July 26, 2023",01:00:00,3174,Bread,19.4,1,Debit Card,Bakery
+6,"August 13, 2023",04:00:00,3178,Chickpeas,14.69,3,Debit Card,Vegetarian
+97,"August 20, 2023",21:00:00,3181,Rice,11.17,3,Credit Card,Grains
+171,"July 31, 2023",05:00:00,3182,Cornflakes,12.32,3,Cash,Cereal
+8,"August 07, 2023",18:00:00,3183,Tomatoes,18.23,4,Debit Card,Produce
+78,"June 09, 2023",05:00:00,3185,Eggs,7.88,4,Debit Card,Dairy
+146,"June 20, 2023",15:00:00,3190,Butter,2.81,4,Debit Card,Dairy
+29,"August 07, 2023",06:00:00,3193,Lettuce,8.36,1,Mobile Payment,Produce
+36,"July 13, 2023",02:00:00,3194,Cheese,17.15,1,Mobile Payment,Dairy
+152,"June 17, 2023",23:00:00,3197,Oatmeal,1.66,1,Debit Card,Cereal
+48,"August 10, 2023",15:00:00,3199,Tomatoes,6.87,5,Debit Card,Produce
+89,"June 21, 2023",16:00:00,3200,Oatmeal,17.92,1,Credit Card,Cereal
+116,"August 04, 2023",06:00:00,3204,Cornflakes,2.75,4,Cash,Cereal
+29,"June 03, 2023",18:00:00,3206,Milk,2.1,3,Cash,Dairy
+4,"August 09, 2023",23:00:00,3207,Onions,18.3,2,Cash,Produce
+115,"July 26, 2023",15:00:00,3209,Carrots,4.8,1,Cash,Produce
+47,"June 16, 2023",05:00:00,3210,Oatmeal,12.5,5,Mobile Payment,Cereal
+27,"June 21, 2023",12:00:00,3213,Cheese,12.61,5,Cash,Dairy
+86,"June 03, 2023",12:00:00,3214,Potatoes,16.18,4,Credit Card,Produce
+29,"June 15, 2023",17:00:00,3219,Oatmeal,17.48,1,Debit Card,Cereal
+48,"August 17, 2023",10:00:00,3222,Oranges,6.6,2,Mobile Payment,Produce
+9,"June 17, 2023",19:00:00,3224,Oatmeal,11.47,4,Credit Card,Cereal
+116,"July 09, 2023",12:00:00,3225,Oatmeal,9.72,4,Mobile Payment,Cereal
+88,"July 24, 2023",20:00:00,3226,Bread,5.02,5,Mobile Payment,Bakery
+137,"July 09, 2023",14:00:00,3229,Rice,18.25,5,Debit Card,Grains
+8,"June 29, 2023",22:00:00,3230,Bananas,7.01,4,Cash,Produce
+16,"July 06, 2023",10:00:00,3232,Beef,16.44,2,Debit Card,Meat
+151,"August 10, 2023",11:00:00,3233,Cornflakes,5.11,1,Debit Card,Cereal
+137,"July 17, 2023",08:00:00,3234,Bananas,17.92,2,Mobile Payment,Produce
+152,"June 30, 2023",01:00:00,3236,Black Beans,8.16,5,Debit Card,Vegetarian
+176,"July 08, 2023",22:00:00,3238,Coffee,1.6,4,Mobile Payment,Beverages
+116,"July 21, 2023",17:00:00,3242,Cornflakes,3.63,4,Cash,Cereal
+27,"July 06, 2023",08:00:00,3246,Eggs,4.02,5,Cash,Dairy
+126,"June 01, 2023",21:00:00,3249,Rice,2.66,5,Mobile Payment,Grains
+176,"August 29, 2023",13:00:00,3252,Apples,17.07,3,Cash,Produce
+125,"July 10, 2023",10:00:00,3253,Tofu,4.67,4,Mobile Payment,Vegetarian
+6,"August 25, 2023",19:00:00,3256,Carrots,4.5,1,Cash,Produce
+86,"August 06, 2023",01:00:00,3257,Yogurt,13.97,5,Debit Card,Dairy
+161,"August 01, 2023",15:00:00,3260,Onions,5.39,2,Mobile Payment,Produce
+44,"August 13, 2023",08:00:00,3261,Rice,15.93,4,Debit Card,Grains
+99,"June 27, 2023",13:00:00,3263,Potatoes,10.44,3,Cash,Produce
+125,"July 27, 2023",02:00:00,3265,Milk,4.86,2,Debit Card,Dairy
+152,"August 23, 2023",16:00:00,3266,Beef,14.53,5,Mobile Payment,Meat
+177,"July 10, 2023",14:00:00,3268,Beef,3.25,2,Mobile Payment,Meat
+66,"July 18, 2023",13:00:00,3271,Potatoes,5.96,2,Credit Card,Produce
+170,"July 21, 2023",19:00:00,3274,Chickpeas,9.89,3,Credit Card,Vegetarian
+146,"July 16, 2023",14:00:00,3277,Bananas,3.04,2,Debit Card,Produce
+78,"June 13, 2023",09:00:00,3278,Rice,10.95,2,Debit Card,Grains
+39,"June 06, 2023",07:00:00,3280,Cheese,15.95,3,Credit Card,Dairy
+89,"June 16, 2023",10:00:00,3281,Tofu,11.81,4,Cash,Vegetarian
+170,"August 09, 2023",21:00:00,3282,Butter,14.06,1,Cash,Dairy
+61,"August 18, 2023",19:00:00,3284,Chicken,10.15,1,Mobile Payment,Meat
+119,"July 02, 2023",00:00:00,3287,Tofu,17.95,3,Debit Card,Vegetarian
+119,"June 23, 2023",10:00:00,3289,Cheese,16.73,2,Credit Card,Dairy
+57,"June 26, 2023",06:00:00,3290,Milk,1.06,3,Credit Card,Dairy
+36,"August 25, 2023",00:00:00,3291,Tofu,2.76,2,Debit Card,Vegetarian
+49,"July 25, 2023",09:00:00,3292,Chicken,15.25,3,Credit Card,Meat
+83,"August 30, 2023",22:00:00,3293,Potatoes,19.3,2,Cash,Produce
+86,"July 19, 2023",07:00:00,3295,Apples,2.8,3,Mobile Payment,Produce
+61,"July 25, 2023",06:00:00,3298,Oranges,2,5,Credit Card,Produce
+49,"June 13, 2023",16:00:00,3299,Onions,4.84,4,Debit Card,Produce
+78,"July 02, 2023",07:00:00,3300,Black Beans,14.27,2,Mobile Payment,Vegetarian
+89,"August 09, 2023",02:00:00,3302,Potatoes,16.44,1,Cash,Produce
+8,"July 16, 2023",17:00:00,3305,Oranges,11.85,1,Debit Card,Produce
+29,"June 24, 2023",06:00:00,3306,Tofu,11.76,4,Mobile Payment,Vegetarian
+139,"July 29, 2023",16:00:00,3307,Bananas,18.5,5,Mobile Payment,Produce
+125,"August 08, 2023",01:00:00,3308,Cheese,3.7,5,Debit Card,Dairy
+64,"August 17, 2023",17:00:00,3311,Chicken,13.77,3,Debit Card,Meat
+2,"August 08, 2023",18:00:00,3313,Butter,0.69,1,Cash,Dairy
+61,"August 09, 2023",21:00:00,3315,Oranges,14.4,4,Cash,Produce
+64,"July 10, 2023",06:00:00,3316,Coffee,12.49,1,Credit Card,Beverages
+24,"June 15, 2023",16:00:00,3319,Bananas,6.31,2,Mobile Payment,Produce
+64,"July 05, 2023",03:00:00,3320,Pasta,0.52,1,Credit Card,Grains
+51,"June 02, 2023",10:00:00,3321,Bananas,12.88,5,Debit Card,Produce
+7,"August 23, 2023",07:00:00,3323,Tomatoes,8.33,5,Cash,Produce
+110,"August 18, 2023",20:00:00,3326,Bread,11.53,1,Debit Card,Bakery
+8,"June 09, 2023",23:00:00,3330,Lettuce,15.7,2,Cash,Produce
+103,"June 02, 2023",04:00:00,3331,Black Beans,18.65,4,Credit Card,Vegetarian
+13,"July 15, 2023",11:00:00,3332,Yogurt,13.85,4,Mobile Payment,Dairy
+115,"August 03, 2023",00:00:00,3333,Chicken,3.74,2,Credit Card,Meat
+86,"June 14, 2023",20:00:00,3335,Potatoes,4.95,5,Credit Card,Produce
+118,"July 13, 2023",15:00:00,3336,Tomatoes,5.8,4,Credit Card,Produce
+79,"July 30, 2023",04:00:00,3337,Onions,0.61,1,Credit Card,Produce
+48,"August 16, 2023",01:00:00,3338,Cheese,15.07,2,Mobile Payment,Dairy
+103,"June 17, 2023",09:00:00,3339,Cornflakes,2.84,2,Credit Card,Cereal
+137,"August 31, 2023",18:00:00,3340,Rice,10.76,1,Credit Card,Grains
+27,"August 21, 2023",17:00:00,3341,Bread,1.29,1,Mobile Payment,Bakery
+135,"August 13, 2023",17:00:00,3342,Apples,18.32,3,Debit Card,Produce
+140,"June 24, 2023",05:00:00,3343,Beef,13.26,2,Debit Card,Meat
+97,"July 20, 2023",14:00:00,3344,Beef,14.49,4,Mobile Payment,Meat
+58,"June 20, 2023",21:00:00,3346,Oatmeal,13.18,4,Cash,Cereal
+106,"August 18, 2023",14:00:00,3353,Beef,7.06,1,Debit Card,Meat
+64,"July 25, 2023",07:00:00,3356,Lettuce,12.92,2,Mobile Payment,Produce
+116,"July 25, 2023",01:00:00,3357,Carrots,12.6,2,Mobile Payment,Produce
+118,"June 11, 2023",03:00:00,3360,Oranges,17.56,1,Mobile Payment,Produce
+156,"June 07, 2023",08:00:00,3361,Coffee,19.7,1,Mobile Payment,Beverages
+141,"July 04, 2023",14:00:00,3362,Yogurt,0.51,5,Debit Card,Dairy
+174,"July 12, 2023",06:00:00,3363,Cheese,12.45,2,Debit Card,Dairy
+166,"June 15, 2023",16:00:00,3364,Onions,5.08,3,Cash,Produce
+41,"June 01, 2023",01:00:00,3365,Pasta,18.52,5,Mobile Payment,Grains
+8,"July 25, 2023",16:00:00,3366,Eggs,11.13,5,Credit Card,Dairy
+41,"July 31, 2023",07:00:00,3368,Carrots,6.44,1,Mobile Payment,Produce
+71,"June 20, 2023",15:00:00,3369,Black Beans,12.47,5,Debit Card,Vegetarian
+160,"August 24, 2023",04:00:00,3370,Chicken,19.75,3,Cash,Meat
+46,"August 02, 2023",06:00:00,3375,Chicken,17.95,2,Credit Card,Meat
+170,"July 30, 2023",23:00:00,3377,Chicken,4.3,4,Mobile Payment,Meat
+174,"August 20, 2023",06:00:00,3378,Butter,19.95,5,Mobile Payment,Dairy
+55,"August 06, 2023",17:00:00,3379,Yogurt,11.69,5,Debit Card,Dairy
+140,"July 21, 2023",15:00:00,3381,Beef,15.83,2,Credit Card,Meat
+160,"June 25, 2023",19:00:00,3382,Carrots,14.96,1,Debit Card,Produce
+171,"August 29, 2023",16:00:00,3385,Carrots,17.47,1,Mobile Payment,Produce
+176,"July 07, 2023",06:00:00,3387,Cheese,2.28,5,Credit Card,Dairy
+146,"August 29, 2023",13:00:00,3390,Carrots,17.93,5,Cash,Produce
+161,"August 12, 2023",06:00:00,3391,Black Beans,18.7,2,Debit Card,Vegetarian
+5,"July 25, 2023",21:00:00,3394,Chickpeas,4.71,3,Cash,Vegetarian
+95,"June 06, 2023",09:00:00,3395,Bananas,3.87,5,Cash,Produce
+104,"July 24, 2023",20:00:00,3396,Beef,12.11,5,Mobile Payment,Meat
+84,"July 09, 2023",01:00:00,3397,Eggs,10.36,3,Mobile Payment,Dairy
+29,"August 18, 2023",22:00:00,3398,Cornflakes,4.07,2,Cash,Cereal
+103,"June 27, 2023",22:00:00,3399,Cheese,4.38,4,Cash,Dairy
+110,"July 26, 2023",14:00:00,3400,Black Beans,4.29,3,Debit Card,Vegetarian
+48,"July 03, 2023",06:00:00,3401,Potatoes,10.27,3,Credit Card,Produce
+58,"July 30, 2023",13:00:00,3408,Tomatoes,9.04,5,Cash,Produce
+6,"June 28, 2023",17:00:00,3409,Oatmeal,18.44,5,Debit Card,Cereal
+29,"August 18, 2023",21:00:00,3410,Pasta,15.56,5,Mobile Payment,Grains
+176,"July 26, 2023",22:00:00,3411,Carrots,5.39,5,Cash,Produce
+2,"June 07, 2023",15:00:00,3414,Chicken,16.17,5,Cash,Meat
+49,"July 10, 2023",22:00:00,3417,Apples,2.15,3,Debit Card,Produce
+48,"July 29, 2023",10:00:00,3418,Potatoes,4.55,2,Cash,Produce
+63,"June 19, 2023",02:00:00,3419,Pasta,5.24,4,Credit Card,Grains
+125,"June 17, 2023",17:00:00,3420,Apples,15.36,5,Credit Card,Produce
+87,"June 10, 2023",10:00:00,3421,Bananas,4.4,3,Debit Card,Produce
+140,"August 25, 2023",10:00:00,3422,Oatmeal,5.83,1,Mobile Payment,Cereal
+49,"June 01, 2023",04:00:00,3423,Carrots,8.99,5,Cash,Produce
+48,"August 06, 2023",20:00:00,3426,Butter,19.23,2,Mobile Payment,Dairy
+27,"June 12, 2023",12:00:00,3428,Oatmeal,19.16,4,Cash,Cereal
+87,"June 05, 2023",19:00:00,3429,Lettuce,3.24,4,Credit Card,Produce
+46,"August 02, 2023",22:00:00,3433,Cheese,19.56,4,Credit Card,Dairy
+61,"July 25, 2023",14:00:00,3434,Apples,11.5,3,Mobile Payment,Produce
+178,"July 19, 2023",04:00:00,3436,Cheese,17.43,5,Cash,Dairy
+125,"July 15, 2023",17:00:00,3443,Butter,6.28,5,Cash,Dairy
+150,"July 23, 2023",10:00:00,3444,Chickpeas,11,3,Mobile Payment,Vegetarian
+57,"July 27, 2023",14:00:00,3445,Cornflakes,10.79,1,Credit Card,Cereal
+176,"June 24, 2023",14:00:00,3446,Potatoes,6.83,5,Cash,Produce
+160,"August 27, 2023",23:00:00,3450,Eggs,0.7,1,Mobile Payment,Dairy
+119,"July 12, 2023",01:00:00,3453,Milk,14.54,1,Credit Card,Dairy
+73,"July 01, 2023",00:00:00,3454,Bread,0.91,4,Credit Card,Bakery
+120,"August 06, 2023",05:00:00,3456,Chickpeas,18.27,4,Cash,Vegetarian
+152,"July 27, 2023",21:00:00,3457,Yogurt,13.19,3,Debit Card,Dairy
+37,"July 17, 2023",08:00:00,3460,Cheese,6.52,3,Debit Card,Dairy
+102,"August 05, 2023",05:00:00,3461,Lettuce,15.66,5,Mobile Payment,Produce
+106,"August 30, 2023",07:00:00,3462,Carrots,19.25,5,Credit Card,Produce
+35,"June 15, 2023",02:00:00,3463,Pasta,5.72,1,Debit Card,Grains
+61,"June 22, 2023",07:00:00,3465,Coffee,4.68,3,Credit Card,Beverages
+44,"July 09, 2023",21:00:00,3466,Rice,17.39,2,Credit Card,Grains
+167,"July 09, 2023",14:00:00,3469,Cheese,0.75,4,Mobile Payment,Dairy
+159,"August 31, 2023",01:00:00,3473,Oatmeal,2.94,4,Mobile Payment,Cereal
+79,"July 13, 2023",07:00:00,3474,Onions,0.84,3,Cash,Produce
+116,"August 18, 2023",04:00:00,3475,Yogurt,19.66,1,Credit Card,Dairy
+8,"June 13, 2023",04:00:00,3477,Oranges,11.73,1,Mobile Payment,Produce
+174,"July 29, 2023",03:00:00,3478,Yogurt,1.87,3,Credit Card,Dairy
+126,"August 31, 2023",16:00:00,3481,Oatmeal,18.24,4,Debit Card,Cereal
+125,"August 05, 2023",05:00:00,3483,Onions,12.78,5,Mobile Payment,Produce
+101,"June 28, 2023",05:00:00,3485,Tofu,13.9,5,Credit Card,Vegetarian
+42,"June 26, 2023",19:00:00,3487,Oatmeal,18.85,1,Debit Card,Cereal
+146,"July 30, 2023",02:00:00,3488,Potatoes,7.53,3,Debit Card,Produce
+175,"June 02, 2023",18:00:00,3489,Milk,16.86,2,Debit Card,Dairy
+132,"July 11, 2023",02:00:00,3490,Bread,16.92,2,Credit Card,Bakery
+132,"July 05, 2023",06:00:00,3491,Eggs,18.27,5,Credit Card,Dairy
+61,"August 21, 2023",16:00:00,3493,Eggs,3.45,4,Debit Card,Dairy
+152,"July 12, 2023",22:00:00,3498,Oatmeal,17.45,2,Credit Card,Cereal
+12,"August 29, 2023",23:00:00,3499,Apples,13.4,2,Credit Card,Produce
+16,"July 12, 2023",21:00:00,3500,Yogurt,1.79,3,Mobile Payment,Dairy
+16,"June 17, 2023",19:00:00,3502,Cheese,17.84,4,Debit Card,Dairy
+137,"July 06, 2023",10:00:00,3503,Tomatoes,14.34,1,Cash,Produce
+61,"June 20, 2023",15:00:00,3509,Tomatoes,12.63,1,Cash,Produce
+95,"July 11, 2023",03:00:00,3512,Lettuce,12.15,4,Debit Card,Produce
+36,"August 09, 2023",04:00:00,3513,Bananas,11.74,2,Mobile Payment,Produce
+64,"June 23, 2023",19:00:00,3514,Oatmeal,15.45,2,Debit Card,Cereal
+125,"August 15, 2023",14:00:00,3517,Oatmeal,4.56,5,Credit Card,Cereal
+150,"July 17, 2023",22:00:00,3518,Yogurt,13.08,3,Mobile Payment,Dairy
+119,"August 05, 2023",03:00:00,3519,Pasta,17.64,4,Credit Card,Grains
+156,"August 28, 2023",06:00:00,3520,Apples,18.93,3,Mobile Payment,Produce
+5,"June 11, 2023",08:00:00,3523,Cheese,19.52,2,Credit Card,Dairy
+150,"June 30, 2023",11:00:00,3525,Yogurt,7.66,2,Debit Card,Dairy
+153,"August 19, 2023",01:00:00,3526,Onions,4.69,4,Debit Card,Produce
+47,"July 22, 2023",14:00:00,3532,Bread,8.45,2,Credit Card,Bakery
+139,"July 08, 2023",22:00:00,3533,Tofu,8.09,1,Cash,Vegetarian
+44,"July 12, 2023",21:00:00,3534,Coffee,17.76,3,Debit Card,Beverages
+61,"July 01, 2023",17:00:00,3535,Tofu,0.9,3,Cash,Vegetarian
+41,"July 08, 2023",07:00:00,3536,Oatmeal,5.01,4,Mobile Payment,Cereal
+139,"July 14, 2023",09:00:00,3538,Tomatoes,17.49,1,Cash,Produce
+178,"July 29, 2023",21:00:00,3540,Apples,17.45,3,Credit Card,Produce
+4,"August 18, 2023",02:00:00,3541,Apples,9.84,2,Mobile Payment,Produce
+168,"August 07, 2023",19:00:00,3546,Rice,4.72,2,Mobile Payment,Grains
+83,"June 11, 2023",00:00:00,3547,Lettuce,14.25,3,Cash,Produce
+104,"July 06, 2023",06:00:00,3548,Oranges,2.38,2,Debit Card,Produce
+42,"August 18, 2023",06:00:00,3550,Bananas,1.07,2,Debit Card,Produce
+88,"July 19, 2023",22:00:00,3551,Coffee,14.68,2,Cash,Beverages
+6,"June 13, 2023",18:00:00,3552,Bread,0.68,2,Credit Card,Bakery
+156,"June 28, 2023",22:00:00,3553,Tofu,3.81,3,Debit Card,Vegetarian
+46,"August 22, 2023",23:00:00,3554,Beef,11.01,1,Debit Card,Meat
+36,"June 17, 2023",18:00:00,3556,Chickpeas,13.35,1,Cash,Vegetarian
+11,"June 22, 2023",08:00:00,3557,Oatmeal,12.62,5,Mobile Payment,Cereal
+6,"June 12, 2023",16:00:00,3559,Milk,11.61,1,Mobile Payment,Dairy
+78,"June 18, 2023",12:00:00,3560,Oranges,19.18,4,Credit Card,Produce
+11,"June 16, 2023",19:00:00,3562,Milk,7.78,2,Debit Card,Dairy
+73,"August 18, 2023",02:00:00,3564,Yogurt,17.61,4,Credit Card,Dairy
+143,"June 11, 2023",08:00:00,3566,Cheese,19.63,3,Credit Card,Dairy
+87,"July 19, 2023",16:00:00,3568,Lettuce,6.48,2,Debit Card,Produce
+42,"August 01, 2023",21:00:00,3569,Bananas,9.22,5,Debit Card,Produce
+153,"June 14, 2023",07:00:00,3570,Black Beans,10.78,4,Debit Card,Vegetarian
+9,"August 26, 2023",19:00:00,3571,Cornflakes,16.28,3,Mobile Payment,Cereal
+63,"July 17, 2023",08:00:00,3573,Tomatoes,17.86,2,Debit Card,Produce
+95,"July 03, 2023",00:00:00,3574,Black Beans,19.07,1,Cash,Vegetarian
+150,"June 18, 2023",06:00:00,3576,Bananas,9.55,1,Credit Card,Produce
+3,"June 18, 2023",02:00:00,3577,Eggs,7.36,4,Mobile Payment,Dairy
+151,"July 29, 2023",14:00:00,3579,Tofu,12.76,5,Debit Card,Vegetarian
+63,"July 21, 2023",05:00:00,3580,Rice,1.71,1,Cash,Grains
+44,"August 22, 2023",21:00:00,3583,Rice,1.74,4,Credit Card,Grains
+135,"June 28, 2023",17:00:00,3586,Onions,13.06,4,Mobile Payment,Produce
+37,"July 28, 2023",18:00:00,3587,Lettuce,10.42,4,Debit Card,Produce
+89,"June 10, 2023",10:00:00,3588,Coffee,11.87,4,Debit Card,Beverages
+27,"June 27, 2023",18:00:00,3589,Cornflakes,11.14,2,Credit Card,Cereal
+167,"August 25, 2023",07:00:00,3590,Carrots,9.28,2,Credit Card,Produce
+99,"July 13, 2023",22:00:00,3591,Cheese,19.48,1,Cash,Dairy
+99,"June 26, 2023",14:00:00,3593,Yogurt,11.35,1,Cash,Dairy
+99,"August 02, 2023",15:00:00,3594,Beef,13.76,3,Mobile Payment,Meat
+48,"August 31, 2023",12:00:00,3596,Rice,14.13,3,Debit Card,Grains
+8,"June 22, 2023",08:00:00,3598,Chickpeas,13.64,3,Debit Card,Vegetarian
+67,"August 25, 2023",06:00:00,3599,Beef,12.75,1,Mobile Payment,Meat
+29,"July 14, 2023",05:00:00,3600,Oatmeal,5.09,5,Mobile Payment,Cereal
+160,"August 08, 2023",04:00:00,3601,Potatoes,12.35,1,Credit Card,Produce
+16,"July 12, 2023",17:00:00,3602,Bread,15.23,4,Mobile Payment,Bakery
+88,"June 24, 2023",22:00:00,3605,Black Beans,9.8,2,Debit Card,Vegetarian
+171,"June 16, 2023",00:00:00,3606,Lettuce,7.4,3,Debit Card,Produce
+8,"June 04, 2023",14:00:00,3607,Chickpeas,16.64,4,Credit Card,Vegetarian
+161,"July 31, 2023",05:00:00,3611,Potatoes,11.86,5,Debit Card,Produce
+49,"August 06, 2023",23:00:00,3612,Apples,2.91,4,Debit Card,Produce
+24,"August 26, 2023",08:00:00,3613,Potatoes,9.61,1,Debit Card,Produce
+7,"June 14, 2023",13:00:00,3620,Apples,7.46,5,Credit Card,Produce
+126,"June 11, 2023",03:00:00,3621,Potatoes,18.43,4,Cash,Produce
+102,"June 25, 2023",05:00:00,3622,Yogurt,11.09,3,Credit Card,Dairy
+95,"August 22, 2023",10:00:00,3623,Coffee,16.31,3,Credit Card,Beverages
+20,"June 26, 2023",05:00:00,3625,Chicken,4.25,1,Credit Card,Meat
+177,"June 17, 2023",04:00:00,3626,Chickpeas,7.91,3,Credit Card,Vegetarian
+156,"August 17, 2023",01:00:00,3628,Cornflakes,8.25,3,Debit Card,Cereal
+42,"July 04, 2023",18:00:00,3631,Black Beans,8.35,3,Debit Card,Vegetarian
+48,"June 18, 2023",17:00:00,3634,Lettuce,8.38,4,Mobile Payment,Produce
+84,"June 11, 2023",00:00:00,3635,Butter,4.3,4,Cash,Dairy
+7,"August 29, 2023",20:00:00,3638,Chickpeas,4.51,4,Credit Card,Vegetarian
+6,"July 28, 2023",10:00:00,3640,Yogurt,17.94,5,Credit Card,Dairy
+151,"June 27, 2023",03:00:00,3641,Butter,8.26,4,Credit Card,Dairy
+177,"June 22, 2023",12:00:00,3642,Chicken,8.42,5,Mobile Payment,Meat
+84,"July 22, 2023",22:00:00,3643,Carrots,13.33,4,Mobile Payment,Produce
+39,"June 10, 2023",17:00:00,3646,Potatoes,19.19,5,Credit Card,Produce
+168,"July 17, 2023",20:00:00,3648,Tomatoes,19.6,3,Mobile Payment,Produce
+73,"August 27, 2023",19:00:00,3650,Eggs,17.55,2,Mobile Payment,Dairy
+57,"August 03, 2023",15:00:00,3651,Oranges,5.16,5,Mobile Payment,Produce
+13,"June 23, 2023",17:00:00,3655,Tomatoes,10.07,2,Mobile Payment,Produce
+174,"July 12, 2023",20:00:00,3656,Carrots,4.64,5,Cash,Produce
+101,"July 11, 2023",16:00:00,3659,Coffee,19.19,2,Debit Card,Beverages
+3,"July 29, 2023",09:00:00,3660,Butter,15.66,5,Credit Card,Dairy
+132,"June 14, 2023",22:00:00,3661,Yogurt,14.31,1,Debit Card,Dairy
+41,"July 04, 2023",01:00:00,3662,Coffee,15.15,3,Credit Card,Beverages
+161,"July 03, 2023",06:00:00,3667,Black Beans,9.3,3,Cash,Vegetarian
+135,"July 18, 2023",02:00:00,3670,Coffee,15.63,2,Mobile Payment,Beverages
+34,"June 17, 2023",04:00:00,3671,Chickpeas,10.89,4,Mobile Payment,Vegetarian
+8,"June 06, 2023",16:00:00,3672,Chickpeas,9.42,4,Credit Card,Vegetarian
+140,"July 01, 2023",04:00:00,3674,Onions,12.16,5,Credit Card,Produce
+27,"August 27, 2023",00:00:00,3675,Butter,2.19,3,Debit Card,Dairy
+46,"June 13, 2023",18:00:00,3676,Tomatoes,17.65,5,Debit Card,Produce
+49,"August 19, 2023",09:00:00,3678,Beef,11.36,4,Cash,Meat
+66,"August 23, 2023",00:00:00,3679,Potatoes,11.5,1,Cash,Produce
+168,"June 21, 2023",13:00:00,3682,Butter,19.29,1,Cash,Dairy
+13,"June 29, 2023",12:00:00,3683,Bread,15.16,4,Cash,Bakery
+8,"June 30, 2023",01:00:00,3686,Carrots,6.28,5,Debit Card,Produce
+8,"August 18, 2023",14:00:00,3687,Chickpeas,13,4,Mobile Payment,Vegetarian
+160,"June 08, 2023",22:00:00,3690,Chicken,5.94,2,Credit Card,Meat
+8,"July 12, 2023",20:00:00,3694,Apples,6.34,5,Cash,Produce
+48,"July 22, 2023",10:00:00,3696,Eggs,14.9,3,Mobile Payment,Dairy
+11,"August 07, 2023",06:00:00,3697,Coffee,12.56,3,Mobile Payment,Beverages
+115,"July 06, 2023",11:00:00,3698,Beef,1.83,1,Credit Card,Meat
+143,"July 03, 2023",05:00:00,3699,Chickpeas,14.51,3,Credit Card,Vegetarian
+83,"July 14, 2023",23:00:00,3700,Lettuce,9.09,2,Debit Card,Produce
+146,"August 18, 2023",18:00:00,3702,Potatoes,3.29,4,Credit Card,Produce
+140,"August 07, 2023",06:00:00,3707,Black Beans,9.29,3,Mobile Payment,Vegetarian
+174,"August 24, 2023",04:00:00,3709,Black Beans,16.41,1,Cash,Vegetarian
+57,"July 24, 2023",18:00:00,3712,Chickpeas,9.07,1,Mobile Payment,Vegetarian
+73,"August 18, 2023",22:00:00,3713,Oatmeal,18.8,5,Debit Card,Cereal
+64,"July 27, 2023",02:00:00,3715,Eggs,13.96,3,Mobile Payment,Dairy
+140,"July 26, 2023",20:00:00,3716,Pasta,18.12,5,Debit Card,Grains
+16,"June 28, 2023",21:00:00,3717,Bread,7.7,4,Cash,Bakery
+175,"June 12, 2023",09:00:00,3718,Carrots,18.77,1,Debit Card,Produce
+152,"August 12, 2023",13:00:00,3719,Chicken,17.1,1,Credit Card,Meat
+64,"July 18, 2023",20:00:00,3720,Rice,8.68,3,Debit Card,Grains
+55,"August 23, 2023",12:00:00,3721,Chickpeas,0.82,5,Credit Card,Vegetarian
+177,"July 29, 2023",20:00:00,3722,Onions,1.64,1,Mobile Payment,Produce
+134,"June 20, 2023",05:00:00,3723,Chicken,8.22,2,Mobile Payment,Meat
+178,"August 07, 2023",16:00:00,3724,Apples,12.72,2,Credit Card,Produce
+115,"August 10, 2023",16:00:00,3725,Chicken,19.97,4,Debit Card,Meat
+84,"August 14, 2023",02:00:00,3726,Oatmeal,9.59,2,Credit Card,Cereal
+106,"June 27, 2023",12:00:00,3727,Butter,15.26,3,Debit Card,Dairy
+66,"August 27, 2023",03:00:00,3730,Chicken,5.09,1,Debit Card,Meat
+51,"June 13, 2023",17:00:00,3731,Oranges,2.22,3,Cash,Produce
+168,"August 15, 2023",14:00:00,3733,Yogurt,8.34,5,Debit Card,Dairy
+102,"June 15, 2023",00:00:00,3734,Tofu,13.71,5,Credit Card,Vegetarian
+4,"August 22, 2023",19:00:00,3736,Tofu,11.49,3,Mobile Payment,Vegetarian
+4,"June 18, 2023",15:00:00,3737,Chickpeas,3.13,3,Mobile Payment,Vegetarian
+4,"June 02, 2023",06:00:00,3738,Cornflakes,12.1,5,Credit Card,Cereal
+95,"June 17, 2023",05:00:00,3740,Apples,4.48,2,Cash,Produce
+174,"June 21, 2023",02:00:00,3745,Potatoes,5.22,2,Mobile Payment,Produce
+159,"July 27, 2023",01:00:00,3746,Tofu,5.55,4,Debit Card,Vegetarian
+99,"August 30, 2023",18:00:00,3748,Onions,7.05,3,Credit Card,Produce
+177,"August 18, 2023",12:00:00,3749,Apples,8.53,5,Cash,Produce
+13,"June 08, 2023",11:00:00,3751,Chickpeas,12.31,1,Cash,Vegetarian
+20,"July 18, 2023",09:00:00,3752,Apples,14.83,5,Debit Card,Produce
+153,"June 30, 2023",10:00:00,3753,Tofu,3.55,1,Cash,Vegetarian
+137,"July 01, 2023",00:00:00,3757,Chicken,5.15,1,Debit Card,Meat
+16,"June 05, 2023",21:00:00,3758,Oranges,2.26,5,Debit Card,Produce
+58,"July 20, 2023",15:00:00,3761,Coffee,6.2,2,Cash,Beverages
+78,"June 30, 2023",05:00:00,3762,Coffee,8.37,3,Cash,Beverages
+58,"July 21, 2023",04:00:00,3765,Apples,7.36,4,Cash,Produce
+35,"August 17, 2023",01:00:00,3766,Yogurt,2.96,1,Cash,Dairy
+115,"July 22, 2023",15:00:00,3767,Carrots,9.09,2,Credit Card,Produce
+110,"July 10, 2023",06:00:00,3768,Chicken,8.13,2,Credit Card,Meat
+168,"July 22, 2023",07:00:00,3769,Oatmeal,19.07,4,Debit Card,Cereal
+41,"July 15, 2023",01:00:00,3772,Tomatoes,16.11,3,Debit Card,Produce
+99,"July 27, 2023",07:00:00,3774,Oranges,6.69,1,Cash,Produce
+101,"June 24, 2023",22:00:00,3776,Black Beans,19.96,1,Credit Card,Vegetarian
+150,"July 28, 2023",11:00:00,3782,Oatmeal,14.98,1,Mobile Payment,Cereal
+42,"July 30, 2023",09:00:00,3783,Cornflakes,7.92,5,Debit Card,Cereal
+101,"August 13, 2023",08:00:00,3784,Tofu,4.5,2,Mobile Payment,Vegetarian
+104,"August 28, 2023",01:00:00,3785,Yogurt,6.84,2,Debit Card,Dairy
+141,"June 28, 2023",04:00:00,3786,Lettuce,8.15,3,Debit Card,Produce
+57,"July 20, 2023",14:00:00,3787,Butter,19.02,4,Debit Card,Dairy
+29,"August 11, 2023",20:00:00,3795,Yogurt,6.47,3,Mobile Payment,Dairy
+139,"August 26, 2023",04:00:00,3797,Tomatoes,13.71,1,Debit Card,Produce
+11,"July 17, 2023",09:00:00,3798,Chickpeas,0.7,5,Mobile Payment,Vegetarian
+167,"July 21, 2023",23:00:00,3800,Pasta,1.09,2,Credit Card,Grains
+44,"July 25, 2023",07:00:00,3802,Chicken,13.24,3,Credit Card,Meat
+177,"June 05, 2023",00:00:00,3803,Bananas,4.08,5,Mobile Payment,Produce
+47,"August 20, 2023",05:00:00,3804,Chickpeas,18.13,3,Mobile Payment,Vegetarian
+168,"June 28, 2023",02:00:00,3807,Carrots,14.19,2,Mobile Payment,Produce
+104,"June 21, 2023",10:00:00,3809,Apples,15.39,2,Debit Card,Produce
+27,"June 03, 2023",15:00:00,3814,Bread,19.17,3,Credit Card,Bakery
+16,"June 10, 2023",10:00:00,3817,Oranges,3.9,4,Mobile Payment,Produce
+126,"August 01, 2023",11:00:00,3821,Apples,17.19,5,Mobile Payment,Produce
+67,"June 21, 2023",17:00:00,3822,Chickpeas,7.6,5,Credit Card,Vegetarian
+119,"June 21, 2023",03:00:00,3824,Yogurt,11.4,3,Mobile Payment,Dairy
+67,"August 24, 2023",01:00:00,3825,Oatmeal,12.61,5,Credit Card,Cereal
+132,"August 22, 2023",17:00:00,3826,Eggs,14.62,3,Credit Card,Dairy
+11,"August 10, 2023",02:00:00,3827,Oranges,3.7,5,Credit Card,Produce
+6,"August 11, 2023",22:00:00,3828,Beef,1.95,1,Mobile Payment,Meat
+168,"July 23, 2023",02:00:00,3829,Tofu,16.38,3,Credit Card,Vegetarian
+57,"August 12, 2023",10:00:00,3830,Potatoes,19.24,1,Cash,Produce
+156,"August 25, 2023",08:00:00,3832,Bananas,10.56,1,Cash,Produce
+71,"August 03, 2023",00:00:00,3833,Potatoes,6.88,1,Cash,Produce
+88,"June 03, 2023",22:00:00,3836,Oatmeal,1.25,2,Mobile Payment,Cereal
+159,"August 08, 2023",15:00:00,3838,Bananas,4.59,5,Cash,Produce
+152,"June 08, 2023",23:00:00,3839,Onions,13.71,4,Debit Card,Produce
+178,"July 22, 2023",11:00:00,3840,Cheese,11.62,4,Cash,Dairy
+153,"August 23, 2023",14:00:00,3841,Oatmeal,18.95,3,Credit Card,Cereal
+29,"August 18, 2023",23:00:00,3842,Bread,13.77,5,Credit Card,Bakery
+8,"July 02, 2023",14:00:00,3843,Onions,11.49,5,Debit Card,Produce
+115,"July 09, 2023",03:00:00,3844,Chickpeas,10.96,4,Cash,Vegetarian
+39,"June 06, 2023",20:00:00,3845,Tofu,18.75,5,Debit Card,Vegetarian
+101,"July 01, 2023",23:00:00,3848,Apples,5.65,1,Credit Card,Produce
+34,"August 13, 2023",15:00:00,3849,Yogurt,13.39,5,Credit Card,Dairy
+42,"July 13, 2023",06:00:00,3851,Milk,7.54,2,Mobile Payment,Dairy
+146,"August 28, 2023",10:00:00,3854,Cheese,10.97,1,Cash,Dairy
+167,"June 30, 2023",07:00:00,3857,Milk,10.94,1,Credit Card,Dairy
+146,"August 17, 2023",01:00:00,3859,Black Beans,15.01,2,Debit Card,Vegetarian
+7,"June 27, 2023",12:00:00,3862,Chicken,7.17,2,Mobile Payment,Meat
+3,"June 22, 2023",21:00:00,3864,Tomatoes,17.63,4,Cash,Produce
+161,"August 12, 2023",00:00:00,3865,Cornflakes,5.28,2,Debit Card,Cereal
+66,"June 27, 2023",16:00:00,3869,Carrots,13.46,5,Debit Card,Produce
+152,"July 21, 2023",08:00:00,3874,Lettuce,6.94,2,Mobile Payment,Produce
+46,"July 12, 2023",22:00:00,3877,Coffee,17.83,4,Cash,Beverages
+11,"June 25, 2023",04:00:00,3878,Milk,17.81,5,Debit Card,Dairy
+78,"July 10, 2023",18:00:00,3881,Potatoes,7.63,3,Mobile Payment,Produce
+135,"July 22, 2023",07:00:00,3882,Apples,13.77,3,Mobile Payment,Produce
+102,"June 19, 2023",19:00:00,3883,Rice,0.68,4,Cash,Grains
+115,"August 12, 2023",18:00:00,3886,Butter,18.95,3,Debit Card,Dairy
+47,"August 23, 2023",00:00:00,3890,Cornflakes,19.81,1,Cash,Cereal
+3,"August 24, 2023",03:00:00,3891,Bread,4.14,3,Credit Card,Bakery
+44,"August 05, 2023",20:00:00,3892,Onions,11.28,1,Cash,Produce
+67,"July 20, 2023",01:00:00,3894,Coffee,19.95,5,Mobile Payment,Beverages
+150,"July 28, 2023",13:00:00,3895,Cheese,8.44,2,Cash,Dairy
+12,"August 06, 2023",21:00:00,3898,Milk,0.51,5,Cash,Dairy
+6,"August 13, 2023",17:00:00,3899,Lettuce,8.23,5,Debit Card,Produce
+135,"July 26, 2023",08:00:00,3902,Coffee,17.38,2,Credit Card,Beverages
+87,"June 30, 2023",17:00:00,3903,Oranges,2.19,3,Debit Card,Produce
+101,"July 28, 2023",09:00:00,3904,Rice,10.04,1,Mobile Payment,Grains
+83,"July 16, 2023",19:00:00,3905,Lettuce,13.27,4,Debit Card,Produce
+160,"August 08, 2023",03:00:00,3906,Yogurt,13.8,2,Debit Card,Dairy
+6,"June 29, 2023",20:00:00,3907,Tofu,2.66,2,Mobile Payment,Vegetarian
+176,"July 03, 2023",13:00:00,3911,Bread,11.12,5,Credit Card,Bakery
+12,"August 25, 2023",11:00:00,3912,Cheese,4.58,2,Credit Card,Dairy
+87,"July 19, 2023",02:00:00,3914,Chicken,7.86,3,Mobile Payment,Meat
+99,"June 06, 2023",12:00:00,3917,Black Beans,12.56,4,Credit Card,Vegetarian
+161,"August 08, 2023",05:00:00,3918,Oranges,0.79,1,Mobile Payment,Produce
+58,"July 12, 2023",01:00:00,3919,Rice,9,4,Credit Card,Grains
+46,"July 14, 2023",00:00:00,3921,Chicken,10.63,4,Cash,Meat
+166,"June 16, 2023",23:00:00,3922,Carrots,5,4,Cash,Produce
+87,"June 03, 2023",17:00:00,3925,Pasta,1.72,2,Credit Card,Grains
+48,"June 03, 2023",08:00:00,3930,Black Beans,5.73,4,Debit Card,Vegetarian
+86,"July 07, 2023",03:00:00,3932,Black Beans,13.64,4,Credit Card,Vegetarian
+120,"July 29, 2023",09:00:00,3933,Oranges,15.97,3,Mobile Payment,Produce
+55,"August 16, 2023",15:00:00,3934,Eggs,16.13,4,Debit Card,Dairy
+34,"June 15, 2023",19:00:00,3936,Bread,5.3,4,Mobile Payment,Bakery
+44,"June 22, 2023",06:00:00,3937,Potatoes,1.29,3,Debit Card,Produce
+83,"July 13, 2023",08:00:00,3940,Cornflakes,5.89,4,Debit Card,Cereal
+167,"June 06, 2023",18:00:00,3943,Eggs,17.3,3,Mobile Payment,Dairy
+3,"August 13, 2023",20:00:00,3944,Bananas,6.68,5,Credit Card,Produce
+64,"June 03, 2023",08:00:00,3946,Beef,2.31,1,Cash,Meat
+166,"July 02, 2023",06:00:00,3947,Eggs,4.45,2,Mobile Payment,Dairy
+167,"July 09, 2023",04:00:00,3948,Onions,1.68,2,Credit Card,Produce
+3,"July 02, 2023",05:00:00,3949,Oatmeal,12.94,2,Credit Card,Cereal
+168,"July 30, 2023",21:00:00,3950,Chicken,10.11,4,Mobile Payment,Meat
+6,"June 25, 2023",07:00:00,3953,Pasta,5.57,4,Mobile Payment,Grains
+64,"July 03, 2023",03:00:00,3954,Black Beans,0.98,5,Credit Card,Vegetarian
+73,"July 28, 2023",18:00:00,3956,Oranges,16.65,4,Debit Card,Produce
+101,"July 28, 2023",13:00:00,3959,Black Beans,12.83,1,Credit Card,Vegetarian
+41,"June 16, 2023",17:00:00,3960,Oranges,1.71,3,Debit Card,Produce
+36,"June 05, 2023",02:00:00,3961,Chicken,4.28,4,Cash,Meat
+58,"August 02, 2023",22:00:00,3966,Chicken,7.61,3,Cash,Meat
+161,"July 06, 2023",11:00:00,3967,Black Beans,3.97,1,Mobile Payment,Vegetarian
+51,"July 04, 2023",02:00:00,3968,Eggs,5.28,2,Mobile Payment,Dairy
+84,"June 14, 2023",12:00:00,3970,Carrots,0.76,2,Debit Card,Produce
+83,"August 12, 2023",22:00:00,3972,Carrots,2.15,1,Credit Card,Produce
+104,"June 03, 2023",20:00:00,3973,Yogurt,4.04,5,Mobile Payment,Dairy
+143,"July 20, 2023",12:00:00,3974,Onions,11.79,3,Mobile Payment,Produce
+125,"July 02, 2023",11:00:00,3976,Rice,1.02,3,Cash,Grains
+141,"July 26, 2023",01:00:00,3978,Bananas,2.33,5,Debit Card,Produce
+101,"July 11, 2023",06:00:00,3979,Beef,7.04,4,Cash,Meat
+3,"July 12, 2023",04:00:00,3981,Apples,9.86,1,Cash,Produce
+168,"July 17, 2023",10:00:00,3982,Lettuce,17.83,3,Mobile Payment,Produce
+51,"August 12, 2023",08:00:00,3983,Rice,13.63,1,Cash,Grains
+167,"July 15, 2023",10:00:00,3984,Eggs,8.22,2,Credit Card,Dairy
+12,"August 14, 2023",00:00:00,3985,Yogurt,19.16,1,Credit Card,Dairy
+57,"July 30, 2023",06:00:00,3986,Chicken,7.95,1,Debit Card,Meat
+78,"August 10, 2023",07:00:00,3987,Tomatoes,8.72,3,Credit Card,Produce
+35,"June 27, 2023",02:00:00,3989,Bananas,14.6,4,Cash,Produce
+13,"July 25, 2023",05:00:00,3993,Yogurt,19.84,4,Cash,Dairy
+51,"June 05, 2023",03:00:00,3994,Tofu,8.35,3,Credit Card,Vegetarian
+20,"July 17, 2023",19:00:00,3995,Chickpeas,11.69,4,Debit Card,Vegetarian
+139,"July 13, 2023",02:00:00,3996,Carrots,12.57,1,Mobile Payment,Produce
+153,"August 06, 2023",17:00:00,3998,Oatmeal,6.22,1,Cash,Cereal
+49,"July 03, 2023",10:00:00,4000,Beef,18.26,3,Mobile Payment,Meat
+24,"July 26, 2023",06:00:00,4001,Oranges,17.08,2,Credit Card,Produce
+20,"August 12, 2023",15:00:00,4002,Apples,7.32,5,Debit Card,Produce
+8,"June 28, 2023",09:00:00,4005,Lettuce,2.32,4,Mobile Payment,Produce
+151,"August 24, 2023",10:00:00,4006,Potatoes,11.12,4,Credit Card,Produce
+95,"June 09, 2023",23:00:00,4007,Oranges,1.87,2,Debit Card,Produce
+8,"July 27, 2023",16:00:00,4009,Potatoes,8.67,4,Cash,Produce
+63,"July 28, 2023",17:00:00,4011,Pasta,1.26,4,Mobile Payment,Grains
+106,"August 05, 2023",21:00:00,4014,Beef,8.7,3,Cash,Meat
+79,"August 24, 2023",09:00:00,4019,Carrots,7.47,1,Debit Card,Produce
+83,"July 13, 2023",02:00:00,4020,Milk,4.82,4,Credit Card,Dairy
+27,"July 18, 2023",16:00:00,4026,Coffee,11.23,2,Credit Card,Beverages
+61,"June 16, 2023",09:00:00,4027,Onions,7.27,4,Cash,Produce
+48,"June 30, 2023",06:00:00,4028,Lettuce,1.24,3,Debit Card,Produce
+132,"June 09, 2023",13:00:00,4031,Rice,11.77,4,Debit Card,Grains
+71,"August 07, 2023",02:00:00,4034,Tofu,10.25,1,Credit Card,Vegetarian
+135,"June 08, 2023",12:00:00,4035,Carrots,14.04,5,Cash,Produce
+44,"August 08, 2023",05:00:00,4037,Chicken,13.91,1,Credit Card,Meat
+177,"July 08, 2023",13:00:00,4038,Bread,5.02,4,Cash,Bakery
+61,"August 19, 2023",16:00:00,4040,Rice,1.13,2,Debit Card,Grains
+9,"July 13, 2023",12:00:00,4042,Eggs,13.12,2,Cash,Dairy
+66,"July 27, 2023",05:00:00,4043,Oranges,12.59,4,Mobile Payment,Produce
+103,"July 13, 2023",05:00:00,4045,Yogurt,7.6,2,Credit Card,Dairy
+102,"June 08, 2023",01:00:00,4047,Milk,18.35,4,Debit Card,Dairy
+178,"July 26, 2023",11:00:00,4049,Beef,16.28,1,Debit Card,Meat
+29,"August 25, 2023",04:00:00,4051,Carrots,2.11,4,Mobile Payment,Produce
+118,"July 16, 2023",00:00:00,4054,Oranges,10.08,3,Credit Card,Produce
+83,"July 20, 2023",14:00:00,4058,Oatmeal,16.92,5,Mobile Payment,Cereal
+167,"August 03, 2023",04:00:00,4060,Carrots,17.1,1,Cash,Produce
+103,"June 19, 2023",06:00:00,4062,Butter,1.71,2,Mobile Payment,Dairy
+89,"July 16, 2023",20:00:00,4063,Chicken,8.67,5,Credit Card,Meat
+35,"August 25, 2023",15:00:00,4064,Butter,19.14,3,Credit Card,Dairy
+79,"June 07, 2023",10:00:00,4067,Cornflakes,5.94,1,Cash,Cereal
+141,"August 25, 2023",08:00:00,4068,Apples,11.04,3,Debit Card,Produce
+134,"July 23, 2023",23:00:00,4070,Eggs,15.57,3,Credit Card,Dairy
+175,"August 07, 2023",15:00:00,4080,Apples,3.17,2,Cash,Produce
+102,"July 21, 2023",13:00:00,4081,Bread,19.03,2,Debit Card,Bakery
+58,"June 24, 2023",06:00:00,4082,Butter,6.16,3,Mobile Payment,Dairy
+86,"June 24, 2023",01:00:00,4084,Chicken,17.08,1,Credit Card,Meat
+9,"July 08, 2023",14:00:00,4093,Oranges,18.87,3,Credit Card,Produce
+103,"August 06, 2023",21:00:00,4095,Milk,13.35,1,Mobile Payment,Dairy
+120,"August 25, 2023",04:00:00,4096,Beef,0.63,2,Credit Card,Meat
+67,"July 24, 2023",13:00:00,4102,Rice,15.7,2,Debit Card,Grains
+156,"July 16, 2023",07:00:00,4107,Rice,19.08,2,Mobile Payment,Grains
+101,"June 18, 2023",03:00:00,4108,Chicken,19.45,3,Cash,Meat
+47,"June 14, 2023",05:00:00,4109,Tofu,15.9,2,Cash,Vegetarian
+46,"June 24, 2023",00:00:00,4116,Black Beans,18.24,3,Debit Card,Vegetarian
+89,"August 26, 2023",00:00:00,4117,Chickpeas,7.11,4,Credit Card,Vegetarian
+134,"August 26, 2023",03:00:00,4118,Butter,18.02,5,Debit Card,Dairy
+44,"June 23, 2023",07:00:00,4123,Black Beans,13.75,4,Debit Card,Vegetarian
+64,"July 08, 2023",16:00:00,4128,Oranges,18.41,2,Cash,Produce
+153,"June 03, 2023",22:00:00,4129,Coffee,9.44,2,Cash,Beverages
+41,"June 28, 2023",05:00:00,4131,Onions,15.88,1,Debit Card,Produce
+166,"August 10, 2023",18:00:00,4132,Chickpeas,11.6,2,Credit Card,Vegetarian
+83,"July 08, 2023",21:00:00,4135,Apples,16.85,4,Debit Card,Produce
+11,"July 13, 2023",01:00:00,4137,Tomatoes,3.11,1,Mobile Payment,Produce
+66,"August 28, 2023",02:00:00,4142,Beef,4.8,4,Cash,Meat
+152,"July 22, 2023",19:00:00,4143,Cornflakes,2.64,5,Credit Card,Cereal
+151,"August 29, 2023",23:00:00,4145,Apples,13.42,1,Cash,Produce
+178,"July 07, 2023",22:00:00,4146,Black Beans,0.82,4,Cash,Vegetarian
+134,"June 03, 2023",00:00:00,4147,Eggs,17.02,2,Cash,Dairy
+99,"August 29, 2023",05:00:00,4148,Cheese,19.15,2,Debit Card,Dairy
+152,"July 29, 2023",08:00:00,4152,Oatmeal,6.98,2,Cash,Cereal
+71,"June 27, 2023",03:00:00,4155,Bread,6.49,2,Mobile Payment,Bakery
+156,"June 27, 2023",14:00:00,4160,Yogurt,1.37,4,Mobile Payment,Dairy
+95,"July 10, 2023",07:00:00,4161,Eggs,7.93,3,Cash,Dairy
+139,"July 09, 2023",06:00:00,4162,Bananas,18.56,4,Debit Card,Produce
+134,"August 02, 2023",12:00:00,4163,Cheese,8.77,4,Mobile Payment,Dairy
+27,"July 17, 2023",22:00:00,4166,Lettuce,2.18,2,Credit Card,Produce
+106,"June 22, 2023",13:00:00,4170,Oranges,8.11,2,Cash,Produce
+13,"July 25, 2023",17:00:00,4171,Potatoes,8.64,2,Credit Card,Produce
+55,"August 08, 2023",19:00:00,4172,Oranges,14.95,2,Cash,Produce
+174,"August 28, 2023",10:00:00,4173,Tofu,5.73,5,Credit Card,Vegetarian
+63,"July 21, 2023",22:00:00,4174,Milk,18.74,3,Cash,Dairy
+35,"July 26, 2023",09:00:00,4178,Lettuce,1.72,2,Debit Card,Produce
+29,"August 16, 2023",21:00:00,4179,Carrots,2.56,2,Debit Card,Produce
+103,"July 24, 2023",10:00:00,4180,Bread,14.46,4,Mobile Payment,Bakery
+152,"August 01, 2023",09:00:00,4182,Coffee,12.8,3,Cash,Beverages
+143,"August 05, 2023",06:00:00,4186,Oranges,9.34,1,Mobile Payment,Produce
+57,"July 06, 2023",16:00:00,4187,Butter,4.03,1,Mobile Payment,Dairy
+167,"August 04, 2023",02:00:00,4188,Milk,11.09,3,Mobile Payment,Dairy
+51,"July 25, 2023",14:00:00,4193,Bread,14.74,1,Credit Card,Bakery
+51,"July 17, 2023",05:00:00,4194,Yogurt,3.35,3,Mobile Payment,Dairy
+116,"June 20, 2023",06:00:00,4195,Lettuce,0.84,1,Debit Card,Produce
+13,"July 10, 2023",10:00:00,4198,Apples,15.34,1,Debit Card,Produce
+63,"July 04, 2023",01:00:00,4201,Oranges,16.1,2,Credit Card,Produce
+95,"July 22, 2023",00:00:00,4203,Potatoes,18.19,4,Credit Card,Produce
+9,"June 14, 2023",11:00:00,4205,Carrots,9.03,1,Debit Card,Produce
+153,"August 04, 2023",06:00:00,4207,Beef,12.8,4,Credit Card,Meat
+101,"August 10, 2023",11:00:00,4208,Chicken,4.18,5,Mobile Payment,Meat
+51,"August 17, 2023",04:00:00,4209,Apples,1.92,1,Cash,Produce
+119,"August 30, 2023",08:00:00,4211,Bananas,18.64,2,Mobile Payment,Produce
+134,"July 29, 2023",09:00:00,4212,Apples,19.76,5,Debit Card,Produce
+49,"August 13, 2023",11:00:00,4213,Onions,12.8,3,Credit Card,Produce
+3,"June 27, 2023",03:00:00,4215,Milk,15.36,2,Credit Card,Dairy
+9,"July 22, 2023",09:00:00,4216,Bread,15.6,5,Credit Card,Bakery
+156,"July 14, 2023",08:00:00,4222,Tofu,6.99,1,Credit Card,Vegetarian
+166,"July 05, 2023",22:00:00,4225,Tomatoes,15.47,3,Debit Card,Produce
+47,"August 15, 2023",19:00:00,4228,Butter,13.41,5,Credit Card,Dairy
+11,"June 14, 2023",03:00:00,4229,Butter,12.28,4,Mobile Payment,Dairy
+7,"August 14, 2023",05:00:00,4230,Tofu,8.25,4,Mobile Payment,Vegetarian
+174,"June 06, 2023",12:00:00,4231,Oranges,6.1,2,Mobile Payment,Produce
+2,"June 21, 2023",08:00:00,4234,Onions,13.43,2,Credit Card,Produce
+39,"August 08, 2023",13:00:00,4236,Rice,11.93,2,Cash,Grains
+99,"August 04, 2023",08:00:00,4238,Cheese,2.85,3,Debit Card,Dairy
+3,"July 22, 2023",09:00:00,4239,Oatmeal,14.28,4,Mobile Payment,Cereal
+61,"June 13, 2023",13:00:00,4241,Beef,11.02,5,Credit Card,Meat
+36,"June 27, 2023",06:00:00,4242,Black Beans,12.31,5,Debit Card,Vegetarian
+161,"August 14, 2023",02:00:00,4250,Carrots,4.86,4,Credit Card,Produce
+115,"June 28, 2023",10:00:00,4251,Oranges,9.19,2,Mobile Payment,Produce
+5,"August 12, 2023",15:00:00,4252,Carrots,8.94,5,Mobile Payment,Produce
+5,"July 18, 2023",22:00:00,4254,Black Beans,8.6,1,Debit Card,Vegetarian
+27,"July 26, 2023",04:00:00,4256,Carrots,8.57,4,Cash,Produce
+42,"August 17, 2023",01:00:00,4259,Cornflakes,19.65,5,Debit Card,Cereal
+126,"July 23, 2023",20:00:00,4260,Butter,7.48,5,Mobile Payment,Dairy
+120,"June 19, 2023",03:00:00,4261,Black Beans,10.11,1,Credit Card,Vegetarian
+83,"August 11, 2023",11:00:00,4262,Milk,5.07,1,Debit Card,Dairy
+46,"June 30, 2023",17:00:00,4263,Lettuce,2.17,1,Mobile Payment,Produce
+97,"August 09, 2023",07:00:00,4267,Cornflakes,2.72,2,Mobile Payment,Cereal
+87,"June 12, 2023",15:00:00,4268,Potatoes,9.63,3,Cash,Produce
+27,"August 14, 2023",00:00:00,4271,Apples,3.07,1,Mobile Payment,Produce
+167,"June 16, 2023",10:00:00,4272,Apples,18.36,1,Mobile Payment,Produce
+106,"August 21, 2023",17:00:00,4273,Chicken,4.67,4,Debit Card,Meat
+167,"July 08, 2023",22:00:00,4274,Coffee,9.83,3,Cash,Beverages
+168,"July 14, 2023",04:00:00,4275,Rice,5.46,5,Cash,Grains
+57,"August 13, 2023",22:00:00,4276,Cheese,15.3,2,Credit Card,Dairy
+159,"July 29, 2023",13:00:00,4277,Apples,14.68,4,Debit Card,Produce
+106,"June 30, 2023",20:00:00,4282,Tofu,1.62,5,Credit Card,Vegetarian
+106,"August 12, 2023",22:00:00,4283,Yogurt,13.94,3,Debit Card,Dairy
+156,"July 12, 2023",04:00:00,4287,Eggs,10.76,3,Credit Card,Dairy
+166,"July 09, 2023",13:00:00,4290,Cornflakes,5.09,3,Debit Card,Cereal
+167,"August 06, 2023",14:00:00,4291,Cheese,14.42,3,Credit Card,Dairy
+174,"August 23, 2023",02:00:00,4294,Onions,1.92,4,Credit Card,Produce
+66,"July 11, 2023",05:00:00,4295,Chicken,13.01,1,Mobile Payment,Meat
+8,"July 12, 2023",10:00:00,4296,Black Beans,0.89,1,Mobile Payment,Vegetarian
+44,"August 04, 2023",21:00:00,4297,Pasta,4.35,1,Credit Card,Grains
+171,"July 06, 2023",11:00:00,4301,Chicken,2.83,2,Mobile Payment,Meat
+176,"July 21, 2023",06:00:00,4302,Apples,9.71,5,Cash,Produce
+125,"June 21, 2023",05:00:00,4304,Coffee,17.66,1,Cash,Beverages
+84,"July 07, 2023",13:00:00,4305,Black Beans,3.63,4,Mobile Payment,Vegetarian
+146,"June 18, 2023",16:00:00,4307,Bread,14.95,4,Debit Card,Bakery
+106,"July 04, 2023",10:00:00,4308,Bananas,7.46,5,Credit Card,Produce
+174,"July 21, 2023",16:00:00,4310,Bananas,4.87,4,Debit Card,Produce
+101,"August 18, 2023",20:00:00,4313,Eggs,16.27,3,Debit Card,Dairy
+137,"July 20, 2023",03:00:00,4314,Cornflakes,7.07,4,Debit Card,Cereal
+5,"June 17, 2023",08:00:00,4315,Bananas,4.82,5,Credit Card,Produce
+177,"July 13, 2023",07:00:00,4316,Coffee,13.16,1,Credit Card,Beverages
+106,"August 06, 2023",23:00:00,4317,Lettuce,14.05,3,Debit Card,Produce
+118,"July 27, 2023",22:00:00,4319,Tofu,13.89,3,Mobile Payment,Vegetarian
+11,"June 22, 2023",11:00:00,4320,Bread,17.85,4,Cash,Bakery
+73,"June 20, 2023",21:00:00,4321,Rice,6.57,2,Mobile Payment,Grains
+36,"July 27, 2023",09:00:00,4322,Coffee,11.05,2,Debit Card,Beverages
+35,"June 16, 2023",09:00:00,4329,Chickpeas,2.73,2,Cash,Vegetarian
+64,"August 30, 2023",04:00:00,4331,Milk,16.44,4,Mobile Payment,Dairy
+95,"June 04, 2023",13:00:00,4334,Butter,14.1,4,Mobile Payment,Dairy
+44,"August 08, 2023",05:00:00,4337,Black Beans,15.12,3,Debit Card,Vegetarian
+178,"July 26, 2023",07:00:00,4342,Lettuce,9.9,5,Cash,Produce
+178,"August 25, 2023",05:00:00,4345,Oatmeal,19.59,2,Mobile Payment,Cereal
+174,"August 21, 2023",00:00:00,4346,Pasta,16.82,3,Mobile Payment,Grains
+4,"August 07, 2023",09:00:00,4348,Cheese,3.55,1,Debit Card,Dairy
+13,"June 29, 2023",02:00:00,4350,Oatmeal,3.53,4,Credit Card,Cereal
+88,"July 10, 2023",12:00:00,4355,Bananas,17.03,3,Debit Card,Produce
+160,"June 20, 2023",21:00:00,4357,Onions,9.64,5,Debit Card,Produce
+116,"July 23, 2023",16:00:00,4361,Tomatoes,0.74,5,Mobile Payment,Produce
+55,"July 06, 2023",23:00:00,4362,Pasta,8.16,1,Credit Card,Grains
+8,"June 22, 2023",03:00:00,4363,Onions,1.22,2,Debit Card,Produce
+11,"June 28, 2023",21:00:00,4364,Cornflakes,12.71,2,Debit Card,Cereal
+16,"July 06, 2023",19:00:00,4370,Carrots,9.28,4,Debit Card,Produce
+66,"June 28, 2023",04:00:00,4371,Apples,3.69,1,Credit Card,Produce
+161,"July 28, 2023",11:00:00,4372,Bananas,14.32,1,Debit Card,Produce
+141,"August 16, 2023",04:00:00,4377,Milk,8.14,5,Credit Card,Dairy
+168,"August 18, 2023",08:00:00,4379,Eggs,14.72,4,Debit Card,Dairy
+73,"July 29, 2023",04:00:00,4384,Black Beans,10.06,1,Debit Card,Vegetarian
+29,"August 20, 2023",13:00:00,4390,Yogurt,17.73,1,Mobile Payment,Dairy
+134,"July 28, 2023",14:00:00,4391,Bread,10.63,5,Debit Card,Bakery
+135,"June 01, 2023",02:00:00,4397,Yogurt,18.97,2,Credit Card,Dairy
+146,"July 31, 2023",05:00:00,4398,Butter,17.48,1,Debit Card,Dairy
+152,"July 03, 2023",22:00:00,4399,Apples,15.09,5,Credit Card,Produce
+73,"August 15, 2023",14:00:00,4402,Butter,2.63,2,Debit Card,Dairy
+57,"July 08, 2023",22:00:00,4404,Onions,7.14,3,Mobile Payment,Produce
+170,"July 08, 2023",16:00:00,4405,Beef,16.72,3,Cash,Meat
+126,"August 27, 2023",20:00:00,4407,Eggs,4.65,2,Credit Card,Dairy
+67,"August 29, 2023",13:00:00,4408,Bread,0.85,4,Credit Card,Bakery
+151,"June 22, 2023",04:00:00,4409,Pasta,10.61,5,Debit Card,Grains
+102,"August 13, 2023",20:00:00,4410,Chickpeas,15.64,5,Mobile Payment,Vegetarian
+88,"July 16, 2023",04:00:00,4413,Chicken,4.25,1,Credit Card,Meat
+20,"June 28, 2023",05:00:00,4416,Pasta,3.03,4,Debit Card,Grains
+34,"August 17, 2023",21:00:00,4418,Chickpeas,11.37,4,Debit Card,Vegetarian
+87,"July 31, 2023",08:00:00,4419,Onions,18.37,5,Credit Card,Produce
+171,"July 23, 2023",00:00:00,4421,Apples,0.54,2,Debit Card,Produce
+171,"August 04, 2023",00:00:00,4423,Oranges,8.06,1,Cash,Produce
+99,"July 05, 2023",19:00:00,4424,Tofu,1.38,4,Debit Card,Vegetarian
+95,"July 21, 2023",11:00:00,4425,Eggs,14.26,2,Mobile Payment,Dairy
+126,"June 27, 2023",10:00:00,4426,Bananas,1.28,2,Debit Card,Produce
+146,"June 12, 2023",22:00:00,4427,Potatoes,13.03,1,Cash,Produce
+37,"June 09, 2023",22:00:00,4428,Chickpeas,19.32,5,Debit Card,Vegetarian
+104,"June 22, 2023",03:00:00,4429,Pasta,14.94,2,Mobile Payment,Grains
+116,"August 15, 2023",21:00:00,4430,Butter,3.07,1,Debit Card,Dairy
+177,"August 15, 2023",21:00:00,4431,Rice,11.97,2,Debit Card,Grains
+55,"July 26, 2023",19:00:00,4432,Yogurt,4.79,4,Cash,Dairy
+5,"July 15, 2023",18:00:00,4433,Beef,1.77,3,Debit Card,Meat
+86,"June 08, 2023",06:00:00,4434,Bananas,2.76,3,Cash,Produce
+178,"August 29, 2023",11:00:00,4435,Chicken,1.08,4,Mobile Payment,Meat
+156,"June 07, 2023",23:00:00,4436,Oranges,8.85,2,Credit Card,Produce
+34,"August 08, 2023",03:00:00,4438,Apples,2.84,5,Debit Card,Produce
+8,"July 10, 2023",10:00:00,4444,Bread,10.41,3,Mobile Payment,Bakery
+168,"July 21, 2023",23:00:00,4446,Beef,5.54,4,Debit Card,Meat
+168,"July 27, 2023",12:00:00,4452,Cheese,10.77,1,Credit Card,Dairy
+171,"June 02, 2023",10:00:00,4453,Yogurt,17.11,1,Debit Card,Dairy
+135,"July 25, 2023",15:00:00,4454,Bananas,15.64,5,Credit Card,Produce
+175,"July 14, 2023",15:00:00,4457,Bananas,3.33,1,Mobile Payment,Produce
+71,"July 27, 2023",02:00:00,4460,Eggs,11.53,4,Debit Card,Dairy
+9,"July 24, 2023",11:00:00,4463,Bread,3.34,3,Mobile Payment,Bakery
+47,"July 06, 2023",14:00:00,4464,Bananas,6.05,5,Credit Card,Produce
+34,"August 01, 2023",08:00:00,4465,Oatmeal,18.48,1,Credit Card,Cereal
+146,"August 14, 2023",12:00:00,4473,Potatoes,0.56,5,Debit Card,Produce
+126,"June 27, 2023",12:00:00,4475,Bread,1.42,1,Debit Card,Bakery
+132,"June 07, 2023",03:00:00,4477,Cheese,8.88,5,Debit Card,Dairy
+167,"July 20, 2023",14:00:00,4482,Onions,5.9,5,Cash,Produce
+48,"July 19, 2023",08:00:00,4484,Eggs,16.86,1,Cash,Dairy
+67,"June 27, 2023",13:00:00,4485,Butter,18.46,4,Cash,Dairy
+151,"August 01, 2023",07:00:00,4487,Cornflakes,12.2,1,Cash,Cereal
+61,"August 02, 2023",13:00:00,4488,Bananas,15.95,5,Cash,Produce
+67,"July 12, 2023",01:00:00,4489,Apples,2.31,4,Cash,Produce
+104,"June 08, 2023",22:00:00,4490,Cheese,18.84,2,Credit Card,Dairy
+13,"August 06, 2023",09:00:00,4494,Bananas,12.96,1,Mobile Payment,Produce
+170,"June 06, 2023",15:00:00,4497,Eggs,11.34,5,Credit Card,Dairy
+134,"June 13, 2023",10:00:00,4498,Milk,9.34,5,Debit Card,Dairy
+160,"July 23, 2023",00:00:00,4501,Oatmeal,12.07,4,Debit Card,Cereal
+153,"August 30, 2023",10:00:00,4502,Bananas,5.91,4,Cash,Produce
+97,"August 03, 2023",05:00:00,4504,Oatmeal,19.52,2,Mobile Payment,Cereal
+161,"June 21, 2023",08:00:00,4508,Onions,9.38,5,Debit Card,Produce
+39,"August 16, 2023",15:00:00,4509,Potatoes,13.03,1,Mobile Payment,Produce
+2,"July 28, 2023",11:00:00,4515,Yogurt,2.51,5,Credit Card,Dairy
+78,"August 11, 2023",06:00:00,4516,Tomatoes,18.23,3,Cash,Produce
+6,"July 27, 2023",01:00:00,4517,Carrots,1.41,2,Mobile Payment,Produce
+89,"August 16, 2023",13:00:00,4518,Oatmeal,16.89,5,Cash,Cereal
+170,"August 29, 2023",04:00:00,4522,Beef,5.8,4,Debit Card,Meat
+88,"August 12, 2023",11:00:00,4524,Bananas,17.6,2,Cash,Produce
+12,"July 05, 2023",02:00:00,4525,Bread,1.37,1,Debit Card,Bakery
+79,"June 30, 2023",22:00:00,4526,Oatmeal,6.14,1,Mobile Payment,Cereal
+110,"August 14, 2023",16:00:00,4527,Pasta,18.35,4,Credit Card,Grains
+4,"August 13, 2023",16:00:00,4530,Pasta,9.52,2,Cash,Grains
+89,"July 03, 2023",08:00:00,4533,Apples,9.35,2,Cash,Produce
+177,"July 22, 2023",03:00:00,4537,Onions,6.62,3,Credit Card,Produce
+20,"August 15, 2023",16:00:00,4540,Eggs,12.61,4,Credit Card,Dairy
+126,"August 21, 2023",09:00:00,4544,Bananas,12.32,4,Debit Card,Produce
+171,"June 09, 2023",05:00:00,4545,Cheese,5.87,4,Credit Card,Dairy
+141,"August 10, 2023",09:00:00,4546,Yogurt,15.31,2,Debit Card,Dairy
+5,"June 05, 2023",19:00:00,4547,Milk,9.83,2,Debit Card,Dairy
+2,"August 29, 2023",16:00:00,4550,Black Beans,4.68,4,Cash,Vegetarian
+3,"July 09, 2023",19:00:00,4551,Pasta,16.58,5,Credit Card,Grains
+137,"June 30, 2023",21:00:00,4552,Pasta,10.75,4,Cash,Grains
+37,"June 03, 2023",22:00:00,4553,Bread,18.06,1,Cash,Bakery
+41,"June 19, 2023",03:00:00,4554,Milk,8.06,1,Mobile Payment,Dairy
+8,"July 11, 2023",02:00:00,4555,Bananas,10.6,4,Credit Card,Produce
+39,"July 13, 2023",03:00:00,4556,Rice,7.97,2,Credit Card,Grains
+135,"June 11, 2023",03:00:00,4557,Onions,19.46,1,Credit Card,Produce
+153,"June 07, 2023",14:00:00,4561,Rice,16.51,2,Cash,Grains
+166,"July 20, 2023",14:00:00,4568,Oatmeal,10.83,3,Mobile Payment,Cereal
+58,"August 30, 2023",15:00:00,4569,Beef,18.03,4,Credit Card,Meat
+171,"July 26, 2023",18:00:00,4571,Coffee,5.81,1,Mobile Payment,Beverages
+58,"July 20, 2023",11:00:00,4572,Oranges,17.8,3,Cash,Produce
+102,"June 22, 2023",10:00:00,4573,Butter,13.53,1,Credit Card,Dairy
+20,"June 07, 2023",15:00:00,4576,Bread,19.66,2,Mobile Payment,Bakery
+36,"August 10, 2023",22:00:00,4582,Apples,2.49,5,Credit Card,Produce
+41,"June 03, 2023",20:00:00,4586,Beef,4.73,3,Mobile Payment,Meat
+120,"July 15, 2023",22:00:00,4587,Cheese,9.08,5,Cash,Dairy
+51,"June 14, 2023",22:00:00,4588,Oatmeal,4.56,5,Cash,Cereal
+125,"August 21, 2023",08:00:00,4593,Beef,3.32,3,Mobile Payment,Meat
+177,"June 19, 2023",13:00:00,4594,Tofu,9.9,4,Credit Card,Vegetarian
+63,"July 18, 2023",12:00:00,4595,Cheese,9.86,2,Credit Card,Dairy
+146,"June 09, 2023",00:00:00,4596,Eggs,8.63,5,Mobile Payment,Dairy
+140,"July 22, 2023",15:00:00,4597,Tomatoes,9.63,1,Cash,Produce
+13,"August 23, 2023",23:00:00,4598,Potatoes,8.09,4,Mobile Payment,Produce
+150,"August 10, 2023",08:00:00,4600,Beef,17.87,2,Mobile Payment,Meat
+143,"June 12, 2023",00:00:00,4602,Pasta,1.46,2,Debit Card,Grains
+84,"July 09, 2023",10:00:00,4606,Onions,10.37,4,Credit Card,Produce
+89,"August 04, 2023",06:00:00,4607,Lettuce,17.34,5,Debit Card,Produce
+12,"June 13, 2023",23:00:00,4609,Beef,8.67,4,Debit Card,Meat
+118,"June 21, 2023",20:00:00,4610,Cheese,14.94,4,Credit Card,Dairy
+71,"August 14, 2023",01:00:00,4611,Apples,15.54,1,Cash,Produce
+35,"August 10, 2023",22:00:00,4613,Rice,17.22,3,Credit Card,Grains
+71,"June 20, 2023",10:00:00,4614,Tofu,6.49,5,Credit Card,Vegetarian
+152,"August 03, 2023",12:00:00,4618,Rice,10.25,4,Debit Card,Grains
+125,"August 01, 2023",16:00:00,4619,Black Beans,4.92,1,Mobile Payment,Vegetarian
+78,"July 10, 2023",00:00:00,4621,Beef,16.92,4,Debit Card,Meat
+161,"August 01, 2023",08:00:00,4622,Oranges,17.3,2,Mobile Payment,Produce
+137,"June 07, 2023",05:00:00,4624,Oatmeal,13.7,4,Credit Card,Cereal
+78,"August 10, 2023",16:00:00,4627,Coffee,1.31,2,Debit Card,Beverages
+170,"August 14, 2023",08:00:00,4628,Oatmeal,3.83,2,Mobile Payment,Cereal
+41,"July 09, 2023",10:00:00,4632,Potatoes,15.54,2,Mobile Payment,Produce
+71,"August 19, 2023",10:00:00,4633,Pasta,17.49,3,Cash,Grains
+102,"July 18, 2023",15:00:00,4634,Bananas,14.09,5,Mobile Payment,Produce
+66,"August 09, 2023",18:00:00,4635,Carrots,9.31,4,Cash,Produce
+170,"June 17, 2023",19:00:00,4637,Yogurt,10.57,3,Mobile Payment,Dairy
+83,"June 02, 2023",10:00:00,4638,Lettuce,3.49,1,Cash,Produce
+101,"August 05, 2023",00:00:00,4644,Beef,12.57,5,Credit Card,Meat
+79,"July 03, 2023",01:00:00,4646,Eggs,8.98,2,Credit Card,Dairy
+47,"July 18, 2023",11:00:00,4647,Chicken,11.12,2,Cash,Meat
+9,"June 04, 2023",18:00:00,4649,Black Beans,10.29,1,Mobile Payment,Vegetarian
+9,"June 20, 2023",12:00:00,4650,Bread,13.52,5,Debit Card,Bakery
+159,"August 12, 2023",10:00:00,4655,Rice,16.72,2,Mobile Payment,Grains
+156,"June 10, 2023",08:00:00,4656,Oranges,1.47,2,Mobile Payment,Produce
+48,"July 16, 2023",21:00:00,4660,Tofu,13.42,4,Cash,Vegetarian
+83,"June 21, 2023",07:00:00,4662,Black Beans,1.16,2,Credit Card,Vegetarian
+102,"August 10, 2023",04:00:00,4663,Yogurt,3.18,5,Mobile Payment,Dairy
+36,"August 22, 2023",22:00:00,4665,Pasta,5.12,4,Credit Card,Grains
+146,"August 09, 2023",11:00:00,4669,Eggs,18.65,5,Credit Card,Dairy
+57,"August 26, 2023",06:00:00,4670,Oatmeal,15.7,3,Mobile Payment,Cereal
+67,"July 26, 2023",05:00:00,4672,Carrots,1.44,3,Cash,Produce
+146,"July 08, 2023",22:00:00,4675,Coffee,19.56,3,Cash,Beverages
+175,"July 13, 2023",19:00:00,4680,Potatoes,2.85,2,Credit Card,Produce
+143,"June 21, 2023",08:00:00,4681,Tomatoes,17.07,4,Cash,Produce
+156,"June 28, 2023",02:00:00,4682,Black Beans,17.69,5,Cash,Vegetarian
+176,"August 25, 2023",02:00:00,4685,Oatmeal,15.63,3,Credit Card,Cereal
+44,"August 05, 2023",10:00:00,4686,Potatoes,18.18,1,Credit Card,Produce
+58,"August 06, 2023",22:00:00,4688,Cheese,13.3,2,Debit Card,Dairy
+134,"August 02, 2023",16:00:00,4690,Coffee,3.73,4,Mobile Payment,Beverages
+39,"July 14, 2023",17:00:00,4691,Rice,2.87,5,Mobile Payment,Grains
+51,"June 07, 2023",00:00:00,4692,Bread,4.39,4,Mobile Payment,Bakery
+177,"July 13, 2023",08:00:00,4694,Oranges,3.59,3,Mobile Payment,Produce
+51,"August 14, 2023",03:00:00,4699,Milk,19.37,1,Credit Card,Dairy
+42,"August 22, 2023",14:00:00,4700,Potatoes,17.52,3,Credit Card,Produce
+152,"August 07, 2023",13:00:00,4701,Coffee,13.66,3,Credit Card,Beverages
+125,"June 25, 2023",08:00:00,4704,Chickpeas,5.36,4,Credit Card,Vegetarian
+2,"June 18, 2023",10:00:00,4705,Tofu,3.66,1,Cash,Vegetarian
+36,"July 17, 2023",23:00:00,4707,Cornflakes,17.28,4,Mobile Payment,Cereal
+175,"August 05, 2023",09:00:00,4712,Beef,2.13,5,Mobile Payment,Meat
+7,"July 27, 2023",01:00:00,4713,Pasta,7.29,2,Debit Card,Grains
+8,"July 29, 2023",08:00:00,4715,Pasta,4.02,5,Mobile Payment,Grains
+118,"June 22, 2023",23:00:00,4716,Eggs,7.91,3,Cash,Dairy
+167,"June 17, 2023",15:00:00,4719,Potatoes,14.25,2,Cash,Produce
+66,"June 21, 2023",02:00:00,4720,Oatmeal,15.56,4,Cash,Cereal
+168,"June 24, 2023",15:00:00,4721,Eggs,11.13,5,Mobile Payment,Dairy
+99,"June 11, 2023",21:00:00,4722,Pasta,7,1,Cash,Grains
+153,"July 28, 2023",11:00:00,4724,Chickpeas,7.13,1,Cash,Vegetarian
+171,"July 03, 2023",20:00:00,4725,Chickpeas,10.51,4,Debit Card,Vegetarian
+118,"July 02, 2023",15:00:00,4726,Carrots,6.49,3,Debit Card,Produce
+150,"June 04, 2023",02:00:00,4727,Bananas,17.52,3,Cash,Produce
+143,"August 18, 2023",13:00:00,4733,Potatoes,1.52,2,Cash,Produce
+159,"August 02, 2023",11:00:00,4738,Oranges,8.36,2,Cash,Produce
+178,"August 12, 2023",08:00:00,4740,Chickpeas,0.69,5,Credit Card,Vegetarian
+41,"August 11, 2023",09:00:00,4744,Cornflakes,11.87,5,Cash,Cereal
+120,"August 18, 2023",13:00:00,4746,Butter,1.16,2,Debit Card,Dairy
+95,"July 02, 2023",00:00:00,4748,Pasta,5.69,3,Credit Card,Grains
+66,"July 30, 2023",21:00:00,4750,Cheese,9.19,5,Credit Card,Dairy
+58,"June 07, 2023",07:00:00,4751,Milk,16.57,1,Cash,Dairy
+57,"July 04, 2023",07:00:00,4754,Bananas,14.75,5,Credit Card,Produce
+6,"August 22, 2023",22:00:00,4755,Chicken,17.91,5,Cash,Meat
+87,"August 20, 2023",10:00:00,4757,Cheese,6.75,2,Credit Card,Dairy
+99,"August 17, 2023",04:00:00,4760,Bread,10.68,2,Credit Card,Bakery
+178,"June 04, 2023",19:00:00,4761,Bananas,18.61,4,Credit Card,Produce
+7,"July 30, 2023",02:00:00,4764,Cornflakes,2.32,5,Credit Card,Cereal
+174,"August 21, 2023",03:00:00,4767,Cornflakes,14,1,Mobile Payment,Cereal
+66,"August 05, 2023",23:00:00,4769,Eggs,6.56,4,Mobile Payment,Dairy
+170,"August 01, 2023",09:00:00,4770,Black Beans,4.94,4,Debit Card,Vegetarian
+39,"June 19, 2023",13:00:00,4773,Pasta,11.39,1,Credit Card,Grains
+168,"July 20, 2023",18:00:00,4774,Onions,18.66,4,Credit Card,Produce
+29,"July 17, 2023",18:00:00,4775,Coffee,10.13,4,Mobile Payment,Beverages
+178,"August 01, 2023",07:00:00,4776,Bread,1.31,2,Cash,Bakery
+83,"July 01, 2023",09:00:00,4779,Cornflakes,3.98,4,Debit Card,Cereal
+95,"July 12, 2023",08:00:00,4780,Eggs,5.59,4,Credit Card,Dairy
+41,"June 04, 2023",22:00:00,4783,Yogurt,19.83,1,Mobile Payment,Dairy
+67,"June 30, 2023",02:00:00,4784,Cornflakes,3.29,1,Cash,Cereal
+95,"July 04, 2023",23:00:00,4785,Butter,3.3,1,Debit Card,Dairy
+118,"June 22, 2023",11:00:00,4786,Rice,1.02,1,Credit Card,Grains
+103,"July 07, 2023",13:00:00,4787,Chicken,5.6,4,Credit Card,Meat
+175,"July 12, 2023",16:00:00,4791,Milk,15.11,2,Mobile Payment,Dairy
+146,"August 15, 2023",16:00:00,4792,Potatoes,19.88,4,Debit Card,Produce
+119,"July 21, 2023",05:00:00,4793,Carrots,8.13,4,Credit Card,Produce
+24,"August 24, 2023",20:00:00,4795,Oatmeal,5.05,4,Credit Card,Cereal
+146,"July 04, 2023",19:00:00,4797,Eggs,16.54,2,Cash,Dairy
+110,"June 04, 2023",15:00:00,4798,Bread,7.6,1,Mobile Payment,Bakery
+71,"August 16, 2023",04:00:00,4799,Beef,4.24,3,Cash,Meat
+175,"August 06, 2023",01:00:00,4804,Yogurt,0.79,3,Debit Card,Dairy
+146,"June 13, 2023",05:00:00,4805,Potatoes,12.2,4,Mobile Payment,Produce
+110,"August 15, 2023",17:00:00,4808,Pasta,10.76,4,Cash,Grains
+177,"July 11, 2023",05:00:00,4809,Lettuce,2.4,4,Debit Card,Produce
+4,"August 26, 2023",11:00:00,4810,Bread,5.75,3,Credit Card,Bakery
+11,"July 03, 2023",04:00:00,4813,Coffee,9.78,1,Credit Card,Beverages
+95,"August 17, 2023",14:00:00,4815,Oatmeal,11.55,2,Debit Card,Cereal
+99,"July 24, 2023",01:00:00,4818,Apples,7.11,1,Mobile Payment,Produce
+137,"June 17, 2023",00:00:00,4819,Yogurt,17.84,1,Mobile Payment,Dairy
+16,"July 11, 2023",07:00:00,4821,Oatmeal,16.65,3,Credit Card,Cereal
+61,"July 15, 2023",12:00:00,4822,Beef,13.92,1,Debit Card,Meat
+160,"June 28, 2023",15:00:00,4823,Eggs,5.28,4,Mobile Payment,Dairy
+115,"August 01, 2023",15:00:00,4826,Oranges,14.53,5,Debit Card,Produce
+84,"July 06, 2023",07:00:00,4830,Chickpeas,14.66,2,Mobile Payment,Vegetarian
+42,"August 11, 2023",21:00:00,4833,Onions,1.3,5,Cash,Produce
+67,"July 24, 2023",08:00:00,4835,Coffee,19.78,3,Credit Card,Beverages
+118,"June 18, 2023",07:00:00,4839,Oranges,6.63,2,Cash,Produce
+88,"July 27, 2023",02:00:00,4841,Onions,11.91,3,Credit Card,Produce
+88,"August 10, 2023",02:00:00,4842,Oatmeal,5.6,1,Cash,Cereal
+115,"July 25, 2023",13:00:00,4854,Bananas,5.26,1,Debit Card,Produce
+3,"August 20, 2023",20:00:00,4856,Coffee,6.62,5,Debit Card,Beverages
+84,"June 29, 2023",16:00:00,4857,Apples,10.48,4,Credit Card,Produce
+156,"August 27, 2023",23:00:00,4861,Onions,6.51,3,Debit Card,Produce
+55,"June 04, 2023",17:00:00,4864,Cheese,8.84,5,Credit Card,Dairy
+83,"August 26, 2023",06:00:00,4868,Milk,5.45,1,Cash,Dairy
+102,"August 23, 2023",21:00:00,4870,Lettuce,7.16,1,Mobile Payment,Produce
+153,"June 22, 2023",14:00:00,4874,Pasta,10.33,1,Debit Card,Grains
+71,"June 12, 2023",01:00:00,4876,Lettuce,15.52,3,Credit Card,Produce
+115,"August 28, 2023",12:00:00,4880,Bananas,1.61,5,Credit Card,Produce
+126,"August 10, 2023",04:00:00,4882,Cheese,10.87,4,Cash,Dairy
+103,"July 21, 2023",20:00:00,4883,Oranges,4.05,2,Mobile Payment,Produce
+132,"June 03, 2023",03:00:00,4884,Cheese,13.9,5,Credit Card,Dairy
+153,"June 04, 2023",05:00:00,4885,Oatmeal,6.25,4,Debit Card,Cereal
+141,"July 21, 2023",11:00:00,4887,Eggs,14.5,4,Cash,Dairy
+27,"July 29, 2023",01:00:00,4889,Milk,1.07,5,Credit Card,Dairy
+103,"August 08, 2023",16:00:00,4890,Butter,17.09,4,Cash,Dairy
+24,"July 06, 2023",04:00:00,4891,Potatoes,13.56,5,Cash,Produce
+175,"July 22, 2023",00:00:00,4893,Chicken,3.97,2,Credit Card,Meat
+116,"July 05, 2023",04:00:00,4894,Potatoes,9.41,3,Credit Card,Produce
+132,"July 05, 2023",13:00:00,4895,Milk,18.22,2,Credit Card,Dairy
+49,"August 23, 2023",10:00:00,4900,Chicken,19.03,3,Mobile Payment,Meat
+153,"June 02, 2023",23:00:00,4901,Milk,8.1,4,Debit Card,Dairy
+57,"July 12, 2023",09:00:00,4902,Chicken,13.83,3,Debit Card,Meat
+156,"July 28, 2023",14:00:00,4906,Black Beans,2.75,1,Debit Card,Vegetarian
+141,"June 26, 2023",21:00:00,4907,Cornflakes,9.77,4,Credit Card,Cereal
+41,"August 26, 2023",04:00:00,4909,Carrots,16.56,1,Mobile Payment,Produce
+174,"July 23, 2023",21:00:00,4913,Chickpeas,14.35,3,Credit Card,Vegetarian
+8,"August 29, 2023",13:00:00,4914,Coffee,0.5,1,Credit Card,Beverages
+178,"August 06, 2023",18:00:00,4915,Bananas,19.69,5,Cash,Produce
+83,"July 08, 2023",16:00:00,4920,Chicken,3.42,5,Credit Card,Meat
+156,"June 16, 2023",05:00:00,4921,Oatmeal,11.73,2,Credit Card,Cereal
+118,"August 21, 2023",00:00:00,4922,Carrots,4.76,1,Mobile Payment,Produce
+35,"August 30, 2023",11:00:00,4923,Tomatoes,12.46,1,Credit Card,Produce
+36,"August 14, 2023",10:00:00,4925,Bread,5.49,2,Debit Card,Bakery
+171,"June 06, 2023",06:00:00,4926,Oatmeal,11.37,2,Debit Card,Cereal
+47,"June 26, 2023",08:00:00,4928,Lettuce,10.87,5,Credit Card,Produce
+61,"August 23, 2023",10:00:00,4930,Tofu,10.16,1,Debit Card,Vegetarian
+150,"June 12, 2023",13:00:00,4931,Chickpeas,17.51,2,Debit Card,Vegetarian
+97,"August 31, 2023",02:00:00,4933,Yogurt,16.4,2,Cash,Dairy
+168,"August 02, 2023",18:00:00,4935,Oranges,4.23,3,Credit Card,Produce
+159,"August 28, 2023",13:00:00,4937,Bananas,12.38,2,Credit Card,Produce
+143,"August 14, 2023",08:00:00,4938,Black Beans,6.28,5,Cash,Vegetarian
+7,"August 08, 2023",01:00:00,4940,Cornflakes,13.99,5,Debit Card,Cereal
+168,"August 11, 2023",03:00:00,4945,Cheese,3.81,1,Credit Card,Dairy
+67,"July 09, 2023",14:00:00,4949,Butter,3.64,3,Cash,Dairy
+8,"July 10, 2023",13:00:00,4951,Eggs,13.72,1,Debit Card,Dairy
+134,"July 31, 2023",14:00:00,4954,Yogurt,14.56,1,Mobile Payment,Dairy
+178,"August 25, 2023",21:00:00,4956,Pasta,11.42,2,Mobile Payment,Grains
+166,"August 05, 2023",06:00:00,4957,Eggs,5.48,5,Debit Card,Dairy
+51,"June 10, 2023",10:00:00,4958,Bread,9.36,3,Cash,Bakery
+49,"August 30, 2023",02:00:00,4959,Lettuce,8.67,2,Credit Card,Produce
+126,"August 16, 2023",01:00:00,4962,Butter,16.87,5,Mobile Payment,Dairy
+87,"July 27, 2023",01:00:00,4964,Bread,2.87,2,Credit Card,Bakery
+2,"July 05, 2023",10:00:00,4967,Potatoes,16.08,2,Debit Card,Produce
+86,"July 30, 2023",02:00:00,4969,Black Beans,16.79,1,Cash,Vegetarian
+176,"June 27, 2023",03:00:00,4970,Carrots,16.83,2,Credit Card,Produce
+178,"July 14, 2023",12:00:00,4975,Potatoes,7.5,1,Mobile Payment,Produce
+35,"August 11, 2023",18:00:00,4976,Pasta,18.42,5,Mobile Payment,Grains
+115,"June 06, 2023",10:00:00,4978,Milk,13.76,2,Credit Card,Dairy
+152,"August 12, 2023",18:00:00,4979,Oatmeal,18.26,1,Cash,Cereal
+88,"June 09, 2023",06:00:00,4983,Eggs,3.83,5,Cash,Dairy
+83,"August 28, 2023",02:00:00,4985,Eggs,13.95,2,Debit Card,Dairy
+177,"July 04, 2023",16:00:00,4987,Oranges,15.19,3,Credit Card,Produce
+27,"August 24, 2023",13:00:00,4993,Milk,18.04,5,Cash,Dairy
+174,"July 28, 2023",17:00:00,4995,Eggs,15.48,1,Debit Card,Dairy
+102,"August 19, 2023",08:00:00,5000,Black Beans,9.3,4,Credit Card,Vegetarian
+153,"July 16, 2023",11:00:00,5001,Bananas,19.17,1,Credit Card,Produce
+103,"June 10, 2023",04:00:00,5002,Lettuce,16.02,4,Debit Card,Produce
+132,"August 15, 2023",18:00:00,5003,Oatmeal,7.96,1,Credit Card,Cereal
+9,"August 09, 2023",17:00:00,5004,Chicken,9.97,3,Credit Card,Meat
+135,"August 31, 2023",03:00:00,5005,Chicken,19.26,2,Mobile Payment,Meat
+47,"June 25, 2023",09:00:00,5007,Oranges,4.48,2,Credit Card,Produce
+103,"July 01, 2023",19:00:00,5018,Oranges,16.67,3,Mobile Payment,Produce
+103,"June 27, 2023",06:00:00,5022,Chickpeas,4.13,5,Debit Card,Vegetarian
+48,"June 21, 2023",22:00:00,5026,Bananas,16.57,4,Debit Card,Produce
+37,"August 07, 2023",09:00:00,5028,Lettuce,18.8,2,Mobile Payment,Produce
+178,"July 25, 2023",06:00:00,5029,Bread,19.17,3,Mobile Payment,Bakery
+151,"August 08, 2023",19:00:00,5032,Carrots,17.98,5,Credit Card,Produce
+176,"July 13, 2023",03:00:00,5033,Cheese,11.3,5,Mobile Payment,Dairy
+159,"August 01, 2023",13:00:00,5034,Beef,13.07,5,Debit Card,Meat
+161,"July 10, 2023",06:00:00,5035,Bread,0.67,4,Debit Card,Bakery
+132,"July 24, 2023",20:00:00,5036,Oranges,10.75,4,Debit Card,Produce
+89,"August 06, 2023",22:00:00,5037,Tomatoes,15.95,3,Debit Card,Produce
+44,"August 08, 2023",06:00:00,5041,Milk,19.94,4,Cash,Dairy
+8,"June 28, 2023",11:00:00,5049,Lettuce,10.28,1,Cash,Produce
+86,"July 18, 2023",22:00:00,5052,Apples,7.56,5,Mobile Payment,Produce
+103,"August 23, 2023",03:00:00,5053,Yogurt,5.69,5,Mobile Payment,Dairy
+57,"July 23, 2023",21:00:00,5054,Bread,10.41,2,Debit Card,Bakery
+150,"June 04, 2023",09:00:00,5056,Chickpeas,7.51,2,Mobile Payment,Vegetarian
+51,"July 01, 2023",13:00:00,5057,Tofu,11.78,3,Credit Card,Vegetarian
+118,"August 15, 2023",22:00:00,5059,Coffee,7.32,1,Mobile Payment,Beverages
+101,"August 20, 2023",09:00:00,5061,Bread,19.24,2,Cash,Bakery
+11,"July 15, 2023",21:00:00,5062,Yogurt,17.4,5,Credit Card,Dairy
+7,"August 04, 2023",22:00:00,5063,Cornflakes,12.15,2,Cash,Cereal
+152,"June 29, 2023",13:00:00,5065,Chicken,10.65,3,Debit Card,Meat
+44,"July 18, 2023",10:00:00,5066,Beef,6.15,4,Cash,Meat
+101,"August 02, 2023",13:00:00,5067,Cornflakes,15.82,1,Credit Card,Cereal
+170,"July 10, 2023",10:00:00,5069,Cornflakes,2.19,1,Credit Card,Cereal
+102,"July 11, 2023",22:00:00,5071,Rice,15.98,4,Debit Card,Grains
+55,"August 05, 2023",04:00:00,5072,Tomatoes,9.04,3,Debit Card,Produce
+36,"August 01, 2023",03:00:00,5073,Rice,12.38,2,Credit Card,Grains
+20,"July 31, 2023",10:00:00,5075,Potatoes,2.66,4,Cash,Produce
+2,"August 17, 2023",04:00:00,5077,Bananas,5.82,5,Debit Card,Produce
+57,"August 18, 2023",15:00:00,5078,Oranges,7.84,2,Debit Card,Produce
+176,"July 17, 2023",20:00:00,5081,Eggs,15.36,4,Mobile Payment,Dairy
+103,"July 26, 2023",22:00:00,5082,Bananas,12.27,4,Cash,Produce
+135,"June 13, 2023",00:00:00,5083,Chickpeas,1.04,5,Mobile Payment,Vegetarian
+150,"August 17, 2023",05:00:00,5084,Oranges,8.11,1,Debit Card,Produce
+49,"August 21, 2023",11:00:00,5088,Potatoes,5.24,4,Mobile Payment,Produce
+159,"July 27, 2023",08:00:00,5092,Milk,18.45,4,Cash,Dairy
+42,"June 24, 2023",09:00:00,5093,Milk,15.17,3,Mobile Payment,Dairy
+3,"July 23, 2023",18:00:00,5096,Apples,5.89,5,Credit Card,Produce
+79,"July 25, 2023",04:00:00,5097,Beef,5.24,4,Cash,Meat
+89,"August 01, 2023",13:00:00,5099,Chicken,7.95,3,Mobile Payment,Meat
+156,"July 30, 2023",02:00:00,5104,Eggs,6.07,2,Mobile Payment,Dairy
+83,"June 17, 2023",22:00:00,5106,Cheese,2.79,2,Debit Card,Dairy
+99,"July 30, 2023",23:00:00,5109,Pasta,12.32,5,Mobile Payment,Grains
+57,"June 20, 2023",21:00:00,5111,Tofu,1.67,3,Cash,Vegetarian
+11,"July 15, 2023",21:00:00,5113,Chicken,9.37,2,Cash,Meat
+140,"July 01, 2023",05:00:00,5114,Yogurt,15.97,4,Cash,Dairy
+37,"July 28, 2023",11:00:00,5118,Eggs,2.52,3,Mobile Payment,Dairy
+88,"July 08, 2023",16:00:00,5119,Oranges,16.88,3,Cash,Produce
+137,"August 23, 2023",10:00:00,5120,Potatoes,11.23,4,Credit Card,Produce
+79,"July 13, 2023",22:00:00,5124,Cornflakes,10.72,2,Mobile Payment,Cereal
+115,"June 04, 2023",07:00:00,5129,Apples,5.5,5,Cash,Produce
+160,"July 02, 2023",02:00:00,5130,Eggs,4.09,4,Cash,Dairy
+118,"August 30, 2023",16:00:00,5134,Oatmeal,13.8,4,Debit Card,Cereal
+49,"July 20, 2023",09:00:00,5135,Coffee,10.03,3,Credit Card,Beverages
+97,"August 18, 2023",08:00:00,5136,Beef,1.22,2,Cash,Meat
+178,"August 03, 2023",23:00:00,5137,Oranges,17.88,5,Cash,Produce
+99,"August 31, 2023",13:00:00,5138,Coffee,17.72,5,Debit Card,Beverages
+5,"June 26, 2023",09:00:00,5139,Potatoes,10.99,1,Mobile Payment,Produce
+99,"August 15, 2023",03:00:00,5140,Chicken,16.26,4,Mobile Payment,Meat
+63,"July 23, 2023",22:00:00,5141,Tofu,15.54,4,Debit Card,Vegetarian
+134,"August 24, 2023",20:00:00,5142,Rice,5.61,4,Credit Card,Grains
+160,"August 16, 2023",19:00:00,5143,Beef,0.82,2,Debit Card,Meat
+8,"July 02, 2023",06:00:00,5144,Tomatoes,12.66,3,Debit Card,Produce
+141,"August 17, 2023",17:00:00,5146,Black Beans,13.6,1,Mobile Payment,Vegetarian
+101,"June 26, 2023",21:00:00,5148,Cornflakes,12.28,4,Debit Card,Cereal
+106,"June 01, 2023",14:00:00,5149,Tofu,7.45,3,Credit Card,Vegetarian
+9,"July 08, 2023",08:00:00,5153,Black Beans,10.45,4,Debit Card,Vegetarian
+49,"June 27, 2023",06:00:00,5154,Rice,14.98,4,Debit Card,Grains
+87,"August 07, 2023",18:00:00,5158,Onions,17.55,3,Cash,Produce
+29,"June 07, 2023",23:00:00,5160,Oatmeal,12.33,1,Cash,Cereal
+146,"August 16, 2023",04:00:00,5161,Pasta,1.17,4,Cash,Grains
+79,"June 14, 2023",12:00:00,5162,Coffee,7.44,5,Cash,Beverages
+61,"August 18, 2023",03:00:00,5164,Potatoes,4.56,1,Credit Card,Produce
+159,"July 24, 2023",15:00:00,5165,Yogurt,11.79,2,Mobile Payment,Dairy
+95,"June 17, 2023",19:00:00,5166,Oranges,0.63,1,Credit Card,Produce
+66,"August 09, 2023",07:00:00,5168,Carrots,2.25,1,Credit Card,Produce
+39,"August 31, 2023",13:00:00,5169,Bananas,6.9,2,Debit Card,Produce
+159,"August 29, 2023",08:00:00,5170,Tofu,5.56,3,Debit Card,Vegetarian
+118,"July 09, 2023",06:00:00,5172,Chickpeas,15.73,1,Mobile Payment,Vegetarian
+168,"July 22, 2023",21:00:00,5173,Oatmeal,16.5,4,Debit Card,Cereal
+176,"June 08, 2023",08:00:00,5174,Yogurt,4.51,3,Credit Card,Dairy
+178,"July 18, 2023",12:00:00,5176,Rice,14.05,4,Debit Card,Grains
+3,"June 25, 2023",21:00:00,5177,Bread,8.39,3,Debit Card,Bakery
+86,"July 21, 2023",03:00:00,5178,Apples,9.54,4,Cash,Produce
+101,"June 07, 2023",13:00:00,5180,Cornflakes,9.36,5,Cash,Cereal
+168,"July 14, 2023",18:00:00,5181,Cheese,10.6,1,Mobile Payment,Dairy
+139,"June 25, 2023",04:00:00,5182,Bananas,14.03,1,Credit Card,Produce
+120,"June 24, 2023",15:00:00,5184,Oranges,6.58,5,Credit Card,Produce
+116,"July 06, 2023",05:00:00,5185,Onions,9.08,5,Debit Card,Produce
+116,"July 17, 2023",18:00:00,5186,Carrots,11.23,2,Mobile Payment,Produce
+34,"August 15, 2023",14:00:00,5188,Tomatoes,1.35,1,Mobile Payment,Produce
+29,"July 17, 2023",01:00:00,5189,Beef,2.64,1,Mobile Payment,Meat
+63,"July 15, 2023",08:00:00,5192,Tomatoes,14.69,2,Mobile Payment,Produce
+153,"July 24, 2023",03:00:00,5193,Chickpeas,2.29,3,Debit Card,Vegetarian
+87,"August 14, 2023",00:00:00,5194,Chickpeas,8.61,4,Credit Card,Vegetarian
+166,"July 20, 2023",15:00:00,5197,Tofu,1.01,1,Cash,Vegetarian
