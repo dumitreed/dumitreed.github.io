@@ -2,16 +2,16 @@
 Various projects from Datacamp courses and certifications
 
 ## Certification Exams
-[Associate Data Scientist Exam](https://github.com/dumitreed/dumitreed.github.io/tree/e0ef2cfce244f37a2877de6c12c8093508000860/Data%20Scientist%20Associate%20Practical%20Exam)\\
-[Data Scientist Exam](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Scientist%20Practical%20Exam)\\
-[Associate Data Analyst Exam](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Associate%20Data%20Analyst%20Practical%20Exam)\\
-[Data Analyst Exam](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Analyst%20Practical%20Exam)\\
-[SQL Associate Exam](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/SQL%20Associate%20Practical%20Exam)
+- [Associate Data Scientist Exam](https://github.com/dumitreed/dumitreed.github.io/tree/e0ef2cfce244f37a2877de6c12c8093508000860/Data%20Scientist%20Associate%20Practical%20Exam)
+- [Data Scientist Exam](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Scientist%20Practical%20Exam)
+- [Associate Data Analyst Exam](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Associate%20Data%20Analyst%20Practical%20Exam)
+- [Data Analyst Exam](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Analyst%20Practical%20Exam)
+- [SQL Associate Exam](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/SQL%20Associate%20Practical%20Exam)
 
 ## Certification Practice Projects
-[Associate Data Scientist Practice](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Scientist%20Associate%20Practice%20Exam)
-[Data Scientist Practice](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Scientist%20Practice%20Exam)
-[Data Analyst Practice](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Analyst%20Practice%20Exam)
+- [Associate Data Scientist Practice](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Scientist%20Associate%20Practice%20Exam)
+- [Data Scientist Practice](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Scientist%20Practice%20Exam)
+- [Data Analyst Practice](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Analyst%20Practice%20Exam)
 
 ## Other R projects (alphabetical order)
 [Analyzing Super Bowl Viewership and Advertising](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Analyzing%20Super%20Bowl%20Viewership%20and%20Advertising)
