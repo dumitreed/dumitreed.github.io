@@ -16,7 +16,7 @@ Various projects from Datacamp courses and certifications
 ## Other R projects (alphabetical order)
 - [Analyzing Super Bowl Viewership and Advertising](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Analyzing%20Super%20Bowl%20Viewership%20and%20Advertising)
 - [Assessing Effectiveness of Medical Treatments](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Assessing%20Effectiveness%20of%20Medical%20Treatments)
-- Customer Analytics Preparing Data for Modeling](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Customer%20Analytics%20Preparing%20Data%20for%20Modeling)
+- [Customer Analytics Preparing Data for Modeling](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Customer%20Analytics%20Preparing%20Data%20for%20Modeling)
 - [Deciphering Customer Buying Cycles in Grocery Stores](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Deciphering%20Customer%20Buying%20Cycles%20in%20Grocery%20Stores)
 - [Dr Semmelweis and the Importance of Handwashing](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Dr%20Semmelweis%20and%20the%20Importance%20of%20Handwashing)
 - [Exploring Airbnb Market Trends](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Exploring%20Airbnb%20Market%20Trends)
