@@ -13,7 +13,7 @@ Various projects from Datacamp courses and certifications
 - [Data Scientist Practice](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Scientist%20Practice%20Exam)
 - [Data Analyst Practice](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Analyst%20Practice%20Exam)
 
-## Other R projects
+## Other R Projects
 *(alphabetical order)*
 - [Analyzing Super Bowl Viewership and Advertising](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Analyzing%20Super%20Bowl%20Viewership%20and%20Advertising)
 - [Assessing Effectiveness of Medical Treatments](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Assessing%20Effectiveness%20of%20Medical%20Treatments)
