@@ -13,7 +13,8 @@ Various projects from Datacamp courses and certifications
 - [Data Scientist Practice](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Scientist%20Practice%20Exam)
 - [Data Analyst Practice](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Data%20Analyst%20Practice%20Exam)
 
-## Other R projects (alphabetical order)
+## Other R projects
+*(alphabetical order)*
 - [Analyzing Super Bowl Viewership and Advertising](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Analyzing%20Super%20Bowl%20Viewership%20and%20Advertising)
 - [Assessing Effectiveness of Medical Treatments](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Assessing%20Effectiveness%20of%20Medical%20Treatments)
 - [Customer Analytics Preparing Data for Modeling](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Customer%20Analytics%20Preparing%20Data%20for%20Modeling)
@@ -31,7 +32,8 @@ Various projects from Datacamp courses and certifications
 - [Visualizing the History of Nobel Prize Winners](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners)
 - [What is Your Heart Rate Telling You](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20What%20is%20your%20Heart%20Rate%20Telling%20You)
 
-## Codealongs (alphabetical order)
+## Codealongs
+*(alphabetical order)*
 - [A vs B Testing](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Codealong%20-%20A%20vs%20B%20testing)
 - [Analyzing Credit Scores with Tidymodels and UMAP](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Codealong%20-%20Analyzing%20Credit%20Scores%20with%20tidymodels%20and%20UMAP)
 - [Analyzing Home Field Advantage at The Super Bowl](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Codealong%20-%20Analyzing%20Home%20Field%20Advantage%20at%20The%20Super%20Bowl)
