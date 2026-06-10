@@ -1,5 +1,13 @@
-# Datacamp Projects
-Various projects from Datacamp courses and certifications
+# Bio
+Chemistry PhD with extensive scientific background at the intersection of chemistry and biology. Work experience in academia and industry, in the in vitro diagnostics and medical devices sector. Data science enthusiast, with direct experience working with data and statistical analysis tools for quantitative assay development, electrochemical signal analysis, formulations and sensors design optimization and troubleshooting, and toxicology studies.
+
+# Certifications
+[Data Scientist in R](https://www.datacamp.com/certificate/DS0027492071521)
+[Data Analyst in PostegreSQL and R](https://www.datacamp.com/certificate/DA0020566616515)
+[SQL Associate](https://www.datacamp.com/certificate/SQA0013881980764)
+
+# Data Science Projects
+Collection of various data science and data analytics projects performed as part of [Datacamp](https://www.datacamp.com/) courses or towards certification completion.
 
 ## Certification Exams
 - [Associate Data Scientist Exam](https://github.com/dumitreed/dumitreed.github.io/tree/e0ef2cfce244f37a2877de6c12c8093508000860/Data%20Scientist%20Associate%20Practical%20Exam)
