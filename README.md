@@ -30,6 +30,7 @@ Collection of various data science and data analytics projects performed as part
 - [Dr Semmelweis and the Importance of Handwashing](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Dr%20Semmelweis%20and%20the%20Importance%20of%20Handwashing)
 - [Exploring Airbnb Market Trends](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Exploring%20Airbnb%20Market%20Trends)
 - [Exploring Global Life Expectancy Trends](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Exploring%20Global%20Life%20Expectancy%20Trends)
+- [Food Prices Forecasting with Functions](https://github.com/dumitreed/dumitreed.github.io/tree/e057acb662ded1d6d2004db3e94583a3348dc829/Project%20-%20Food%20Price%20Forecasting%20with%20Functions)
 - [Hypothesis Testing with Mens and Womens Soccer Matches](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Hypothesis%20Testing%20with%20Mens%20and%20Womens%20Soccer%20Matches)
 - [Identifying Flight Duration Trends in Air Travel](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Identifying%20Flight%20Duration%20Trends%20in%20Air%20Travel)
 - [Insights into Bicycle Theft using Visualization](https://github.com/dumitreed/dumitreed.github.io/tree/dc7d293aa35bd0a05025cf0ffbf13123943d06ce/Project%20-%20Insights%20into%20Bicycle%20Theft%20using%20Visualization)
